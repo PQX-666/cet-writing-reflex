@@ -1,0 +1,3112 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-03",
+  "themes": [
+    {
+      "id": "learning",
+      "title": "学习与教育",
+      "description": "学习方法、课程价值、知识理解和反馈；不能以熟悉感代替实际掌握。",
+      "examples": [
+        "自主学习",
+        "基础与应用",
+        "拼写习惯"
+      ],
+      "sourceIds": [
+        "exam-learning",
+        "book-writing-sample"
+      ]
+    },
+    {
+      "id": "campus",
+      "title": "校园与公共服务",
+      "description": "课程、校园活动、设施与服务；行动要符合受众和资源约束。",
+      "examples": [
+        "课程提议",
+        "校园服务",
+        "新生适应"
+      ],
+      "sourceIds": [
+        "exam-campus-writing",
+        "exam-team"
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "科技与数字生活",
+      "description": "数字素养、工具使用与信息判断；既写用途也写限制和人的责任。",
+      "examples": [
+        "数字素养",
+        "AI辅助",
+        "社交媒体"
+      ],
+      "sourceIds": [
+        "exam-technology",
+        "exam-ai",
+        "exam-social-media"
+      ]
+    },
+    {
+      "id": "career",
+      "title": "职业与能力发展",
+      "description": "技能准备、实践经验与能力证据；不把所有教育价值化约为收入。",
+      "examples": [
+        "岗位能力",
+        "实践作品",
+        "持续学习"
+      ],
+      "sourceIds": [
+        "exam-career",
+        "exam-learning"
+      ]
+    },
+    {
+      "id": "environment",
+      "title": "环境与资源",
+      "description": "日常资源选择及服务设计；区分个人行动和系统支持。",
+      "examples": [
+        "减少浪费",
+        "使用寿命",
+        "共享设施"
+      ],
+      "sourceIds": [
+        "exam-environment",
+        "book-writing-sample"
+      ]
+    },
+    {
+      "id": "health",
+      "title": "身心健康",
+      "description": "休息、活动安排与支持可及性；写行为和情境，不诊断个人。",
+      "examples": [
+        "心理与身体健康",
+        "压力和支持",
+        "日常活动"
+      ],
+      "sourceIds": [
+        "exam-health"
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "人际关系与沟通",
+      "description": "理解差异、回应分歧和设定边界；尊重不等于无条件同意。",
+      "examples": [
+        "友好讨论",
+        "师生或亲子沟通",
+        "相互理解"
+      ],
+      "sourceIds": [
+        "exam-discussion",
+        "exam-relationships",
+        "exam-ethics"
+      ]
+    },
+    {
+      "id": "community",
+      "title": "社区与社会参与",
+      "description": "服务真实需要、共同责任与包容性；避免替受助者做主。",
+      "examples": [
+        "志愿协作",
+        "老年人参与",
+        "服务障碍"
+      ],
+      "sourceIds": [
+        "exam-team",
+        "exam-ethics",
+        "exam-technology"
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "文化与文学理解",
+      "description": "解释背景、理解不同观点与参与文化实践；避免文化优劣排名。",
+      "examples": [
+        "跨语言读者需要",
+        "文化背景解释",
+        "文学交流活动"
+      ],
+      "sourceIds": [
+        "exam-culture"
+      ]
+    },
+    {
+      "id": "consumption",
+      "title": "消费与选择",
+      "description": "比较成本、质量、使用需要与交易信息；不提供金融投资建议。",
+      "examples": [
+        "网购利弊",
+        "过度包装",
+        "理性取舍"
+      ],
+      "sourceIds": [
+        "book-writing-sample"
+      ]
+    },
+    {
+      "id": "ethics",
+      "title": "责任与诚信",
+      "description": "信息来源、同意、公平与承诺；不能只贴道德标签而不说明行为。",
+      "examples": [
+        "尊重他人",
+        "信息责任",
+        "透明承诺"
+      ],
+      "sourceIds": [
+        "exam-ethics",
+        "exam-social-media",
+        "exam-campus-writing"
+      ]
+    },
+    {
+      "id": "habits",
+      "title": "日常习惯与自我管理",
+      "description": "持续行动、时间安排、检查与调整；方法要允许个体和情境差异。",
+      "examples": [
+        "注意力管理",
+        "拼写检查",
+        "娱乐与学习"
+      ],
+      "sourceIds": [
+        "book-writing-sample",
+        "exam-social-media"
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "id": "mechanism",
+      "title": "解释原因与机制"
+    },
+    {
+      "id": "example",
+      "title": "用具体例子支持观点"
+    },
+    {
+      "id": "condition",
+      "title": "写清条件与范围"
+    },
+    {
+      "id": "contrast",
+      "title": "按共同标准比较"
+    },
+    {
+      "id": "concession",
+      "title": "承认合理顾虑再回应"
+    },
+    {
+      "id": "solution",
+      "title": "提出可执行行动"
+    },
+    {
+      "id": "evidence",
+      "title": "区分证据与推测"
+    },
+    {
+      "id": "define",
+      "title": "界定核心概念"
+    },
+    {
+      "id": "reader",
+      "title": "回应读者与场景需求"
+    },
+    {
+      "id": "synthesis",
+      "title": "整合论点并回扣任务"
+    },
+    {
+      "id": "precision",
+      "title": "让表达准确适度"
+    },
+    {
+      "id": "sequence",
+      "title": "组织步骤或事件顺序"
+    }
+  ],
+  "sources": [
+    {
+      "id": "official-outline",
+      "title": "全国大学英语四、六级考试大纲（2016年修订版）官方目录",
+      "url": "https://cet.neea.edu.cn/html1/folder/16113/1588-1.htm",
+      "publisher": "教育部教育考试院",
+      "kind": "official",
+      "note": "2026-10-03直接核对官方目录仍列2016修订版；不把本库12主题或12功能说成大纲规定的完整考题清单。"
+    },
+    {
+      "id": "official-outline-pdf",
+      "title": "全国大学英语四、六级考试大纲（2016年修订版）",
+      "url": "https://www.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+      "publisher": "教育部教育考试院",
+      "kind": "official",
+      "note": "原PDF约12MB，直接网页读取超过工具限制；限定来源检索可读写作提示包括提纲、情景、图画或图表。本次未逐页核读整份大纲，不据此复述详细评分档次。"
+    },
+    {
+      "id": "official-cet4-structure",
+      "title": "全国大学英语四级笔试（CET4）",
+      "url": "https://cet.neea.edu.cn/html1/report/16123/196-1.htm",
+      "publisher": "教育部教育考试院",
+      "kind": "official",
+      "note": "官方结构表直接核对写作为短文写作，30分钟、占15%；不能据此确定每道题的首句或字数排除条款。"
+    },
+    {
+      "id": "official-cet6-structure",
+      "title": "全国大学英语六级笔试（CET6）",
+      "url": "https://cet.neea.edu.cn/html1/report/16123/201-1.htm",
+      "publisher": "教育部教育考试院",
+      "kind": "official",
+      "note": "官方结构表直接核对写作为短文写作，30分钟、占15%；不承诺知识库覆盖未来题目或直接换算考试分数。"
+    },
+    {
+      "id": "book-writing-sample",
+      "title": "大学英语写作与翻译实训教程：出版社公开样章",
+      "url": "https://fltrp-gy.oss-cn-shanghai.aliyuncs.com/gykejianupload/3147/files/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%86%99%E4%BD%9C%E4%B8%8E%E7%BF%BB%E8%AF%91%E5%AE%9E%E8%AE%AD%E6%95%99%E7%A8%8B-%E6%A0%B7%E7%AB%A0.pdf",
+      "publisher": "外语教学与研究出版社",
+      "kind": "book",
+      "note": "直接读取公开样章；第1页真题主题表确认2011-06网购、2012-06过度包装，第2页呈现2010-06拼写完整要求，第2页另列娱乐活动主题。仅作主题与任务锚点；本库不复制样章范文、句库或固定三段模板。"
+    },
+    {
+      "id": "exam-learning",
+      "title": "2024年6月六级：自主学习完整机构整理",
+      "url": "https://m.koolearn.com/cet6/20250417/898884.html",
+      "publisher": "新东方在线",
+      "kind": "exam-transcription",
+      "note": "已在本项目题源审计直接核对完整Directions；本库用其自主学习命题锚定学习主题，所有新例句与练习为原创。"
+    },
+    {
+      "id": "exam-technology",
+      "title": "2024年6月六级数字素养：高校托管整理卷",
+      "url": "https://xxgcxy.ztbu.edu.cn/attachment/sites/item/2024_11/05_17/46194655adf91049.pdf",
+      "publisher": "郑州工商学院网站托管；第三方整理",
+      "kind": "exam-transcription",
+      "note": "已直接读取完整卷面；高校托管不等于考试机构官方发布。仅锚定数字素养主题，不把卷内语言视为本库表达来源。"
+    },
+    {
+      "id": "exam-health",
+      "title": "2023年6月六级：心理健康完整机构整理",
+      "url": "https://m.koolearn.com/cet6/20250421/898976.html",
+      "publisher": "新东方在线",
+      "kind": "exam-transcription",
+      "note": "直接读取完整Directions，确认心理与身体健康同等关注主题；写作例子不构成医疗建议或心理诊断。"
+    },
+    {
+      "id": "exam-discussion",
+      "title": "2023年6月六级：友好讨论与合理论证",
+      "url": "https://cet6.koolearn.com/20230617/873400.html",
+      "publisher": "新东方在线",
+      "kind": "exam-transcription",
+      "note": "限定URL检索读取完整Part I，网页直开抓取不稳定；锚定如何面对不同意见，不承诺任何讨论都必然达成共识。"
+    },
+    {
+      "id": "exam-environment",
+      "title": "2022年6月六级：环保生活方式机构原发PDF",
+      "url": "https://www.kmxwd.com/uploads/images/20220611/62a4aa4bb07ff.pdf",
+      "publisher": "新文道教育（昆明站）",
+      "kind": "exam-transcription",
+      "note": "直接读取机构自行发布1页PDF及完整Directions；只作日常环保主题锚点，没有复制所附范文。"
+    },
+    {
+      "id": "exam-team",
+      "title": "2022年12月六级写作题目汇总",
+      "url": "https://www.educity.cn/cet/2435516.html",
+      "publisher": "希赛网",
+      "kind": "exam-transcription",
+      "note": "直接读取机构汇总页完整题目要求；团队精神、批判性思维、教育信息技术可作主题锚点，不将其标为官方试卷。"
+    },
+    {
+      "id": "exam-career",
+      "title": "2025年6月六级写作：职业准备主题",
+      "url": "https://cet4-6.xdf.cn/202506/14530317.html",
+      "publisher": "新东方网",
+      "kind": "exam-transcription",
+      "note": "当次机构整理确认职业准备主题，但完整原卷首句未核验；本库仅用题意作职业主题锚点，不新增仿真真题或复制参考作文。"
+    },
+    {
+      "id": "exam-ai",
+      "title": "2025年6月六级写作：AI与创造力主题",
+      "url": "https://cet4-6.xdf.cn/202506/14530320.html",
+      "publisher": "新东方网",
+      "kind": "exam-transcription",
+      "note": "当次机构整理确认AI依赖与创造力主题，原卷首句未独立核验；知识单元为原创主题训练，不宣传完整原卷复现。"
+    },
+    {
+      "id": "exam-social-media",
+      "title": "2025年6月六级：负责任使用社交媒体",
+      "url": "https://cet4-6.xdf.cn/202506/14530319.html",
+      "publisher": "新东方网",
+      "kind": "exam-transcription",
+      "note": "当次机构整理核对给定开头与主题；只锚定责任、隐私与注意力管理，没有复制机构范文。"
+    },
+    {
+      "id": "exam-campus-writing",
+      "title": "2025年12月四级：学术写作课程提议",
+      "url": "https://eol.nju.edu.cn/cet4/papers/202512-2.html",
+      "publisher": "南京大学网站四级自测页面",
+      "kind": "exam-transcription",
+      "note": "直接读取高校公开自测页面，写作要求为回应全体大学生学术写作课程提议；高校托管与自测栏目不等于官方试题发布或官方评卷标准。"
+    },
+    {
+      "id": "exam-relationships",
+      "title": "2017年12月四级写作真题解析",
+      "url": "https://cet4.koolearn.com/20171218/820521.html",
+      "publisher": "北京新东方学校／新东方在线",
+      "kind": "exam-transcription",
+      "note": "直接读取该机构署名的写作解析，完整转录医患、亲子、师生关系处理要求；仅作关系任务锚点，不采纳其参考句中的语法问题。"
+    },
+    {
+      "id": "exam-ethics",
+      "title": "2017年12月六级作文真题解析",
+      "url": "https://cet6.koolearn.com/20171220/817417.html",
+      "publisher": "北京新东方学校／新东方在线",
+      "kind": "exam-transcription",
+      "note": "直接读取该机构署名解析，完整要求涉及尊重、帮助及理解他人；仅锚定关系和伦理主题，不能把互助写成保证回报的交换。"
+    },
+    {
+      "id": "exam-culture",
+      "title": "2019年12月四级作文题目解析：跨语言学习场景",
+      "url": "https://cet4-6.xdf.cn/201912/11006693.html",
+      "publisher": "新东方南宁学校／新东方网",
+      "kind": "exam-transcription",
+      "note": "直接检索读取机构署名原发解析，完整转录给外国朋友推荐汉语学习地点的书信要求。文化理解单元是由跨语言读者需要向背景解释和文化参与的教学拓展；不复写站内测评题干或答案，不宣称新增完整原卷。"
+    },
+    {
+      "id": "grammar-agreement",
+      "title": "Subject–verb agreement",
+      "url": "https://dictionary.cambridge.org/uk/grammar/british-grammar/verb-agreement",
+      "publisher": "Cambridge Dictionary / English Grammar Today",
+      "kind": "dictionary",
+      "note": "核对主语人称与数决定谓语形式，并承认集合名词存在英式用法变体；中文讲解与英语例句均重新撰写。"
+    },
+    {
+      "id": "grammar-countability",
+      "title": "Countable or uncountable, and why it matters",
+      "url": "https://dictionaryblog.cambridge.org/2018/03/21/countable-or-uncountable-and-why-it-matters/",
+      "publisher": "Cambridge Dictionary",
+      "kind": "dictionary",
+      "note": "核对可数性、冠词与复数的关系；需按具体词义查词典，不把所有抽象名词绝对化。"
+    },
+    {
+      "id": "grammar-verbs",
+      "title": "Verb patterns",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/verb-patterns-",
+      "publisher": "Cambridge Dictionary / English Grammar Today",
+      "kind": "dictionary",
+      "note": "核对动词意义与补足结构的关系；没有复制词典例句，具体词搭配需逐词检查。"
+    },
+    {
+      "id": "grammar-because",
+      "title": "Because, because of and cos, cos of",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/because-because-of-and-cos-cos-of",
+      "publisher": "Cambridge Dictionary / English Grammar Today",
+      "kind": "dictionary",
+      "note": "核对because接从句、because of接名词结构及从句须配主句；本库采用书面写作基础结构。"
+    },
+    {
+      "id": "grammar-relative",
+      "title": "Relative clauses: defining and non-defining",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/relative-clauses-defining-",
+      "publisher": "Cambridge Dictionary / English Grammar Today",
+      "kind": "dictionary",
+      "note": "核对关系从句、重复主语错误及非限定从句标点；本库不要求为复杂而延长句子。"
+    },
+    {
+      "id": "grammar-tense",
+      "title": "Past simple (I worked)",
+      "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/past-simple-i-worked",
+      "publisher": "Cambridge Dictionary / English Grammar Today",
+      "kind": "dictionary",
+      "note": "核对明确过去时间和已发生事件使用一般过去时；计划和一般主张仍按意义选时态。"
+    },
+    {
+      "id": "grammar-although",
+      "title": "Although or though?",
+      "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/though",
+      "publisher": "Cambridge Dictionary / English Grammar Today",
+      "kind": "dictionary",
+      "note": "核对although引导让步从句及需要主句的结构，基础教学不重复连接although与but；本库例句为原创。"
+    },
+    {
+      "id": "exam-library-proposal",
+      "title": "2022年6月四级：学校图书馆服务提案",
+      "url": "https://cet4.koolearn.com/20220611/878420.html",
+      "publisher": "新东方在线",
+      "kind": "exam-transcription",
+      "note": "直接读取机构转录的提案任务，说明当前问题与解决方案；网页题名称建议信，但Directions为proposal，不能推定所有提案都必须书信格式。"
+    },
+    {
+      "id": "exam-farm-report",
+      "title": "2019年6月四级：参观农场新闻报告",
+      "url": "https://m.koolearn.com/cet4/20190615/831211.html",
+      "publisher": "新东方在线",
+      "kind": "exam-transcription",
+      "note": "直接读取当次机构页并结合项目既有题源记录，锚定参观农场报告任务；只使用题意，不复制范文，也不把设想事件写成真实新闻。"
+    }
+  ],
+  "units": [
+    {
+      "id": "kf-mechanism",
+      "title": "原因要写出中间发生了什么",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "technology",
+        "environment",
+        "habits"
+      ],
+      "functionIds": [
+        "mechanism"
+      ],
+      "meaning": "解释行动如何影响结果，补上可理解的中间环节。",
+      "form": "A can help B by + 动名词；Because + 原因从句，结果主句。",
+      "formZh": "A可以通过做某事帮助B，by后接动名词；也可用because从句说明原因，再写结果。",
+      "usage": "解释价值、原因或影响时，先确定因果方向，再说出行动改变了什么。",
+      "boundary": "by后接名词或动名词；can help不保证结果。同时出现、相关性或口号不能自动当作因果证据。",
+      "example": "A repair workshop can reduce waste by helping students fix items they would otherwise replace.",
+      "exampleZh": "维修工作坊可帮助学生修好原本会换掉的物品，从而减少浪费。",
+      "recall": {
+        "prompt": "写一句含can help和by的英语，解释一项行动的作用。",
+        "reference": "A checklist can help learners notice omissions by separating a large task into clear steps.",
+        "referenceZh": "清单可将大任务分成清晰步骤，帮助学习者发现遗漏。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "社区夜间照明如何帮助居民辨认道路？写1–2句，避免承诺消除所有事故。",
+        "reference": "Clear lighting can help residents notice steps and uneven surfaces, making an unfamiliar path easier to navigate. Other safety measures are still needed.",
+        "referenceZh": "明亮的照明可帮助居民看清台阶和不平的路面，使陌生道路更容易通行。其他安全措施仍然必要。",
+        "criteria": [
+          "写明行动、中间变化和结果",
+          "避免绝对承诺"
+        ]
+      },
+      "contrast": {
+        "wrong": "Lighting is important because it is very useful.",
+        "wrongZh": "照明很重要，因为它非常有用。",
+        "better": "Clear lighting can help residents notice steps before they reach them.",
+        "betterZh": "明亮的照明可帮助居民在走到台阶前看清台阶。",
+        "reason": "原句语法可成立，但循环解释，没有机制；改句说明照明如何作用于辨认道路。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_independent_learning",
+        "cet6_2022_06_environmental_lifestyle"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_independent_learning_e1"
+      ],
+      "sourceIds": [
+        "exam-learning",
+        "exam-environment"
+      ]
+    },
+    {
+      "id": "kf-example",
+      "title": "例子要支持一个具体主张",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "campus",
+        "career",
+        "culture"
+      ],
+      "functionIds": [
+        "example",
+        "evidence"
+      ],
+      "meaning": "用情境、行动和结果支持主张，不在for example后换一句口号。",
+      "form": "For example, 人物/机构 + 具体行动 + 结果。",
+      "formZh": "用For example引出具体例子，写清谁做了什么、带来什么结果。",
+      "usage": "先确定主张，再选择能展示同一机制的短例子；补一句回扣可使关联更清楚。",
+      "boundary": "设想用might/could明确标记；不虚构调查、数字或亲历身份。一个例子不能证明所有人如此。",
+      "example": "For example, a student could compare two explanations of a poem and use a line from the text to justify a preference.",
+      "exampleZh": "例如，学生可以比较一首诗的两种解读，并引用诗中的一句话说明自己为何更赞同其中一种。",
+      "recall": {
+        "prompt": "举例需要哪三种信息？写一个英文短例。",
+        "reference": "A relevant example identifies a situation, an action and an outcome. A learner might test a method on one chapter before using it throughout a course.",
+        "referenceZh": "相关的例子应交代情境、行动和结果。学习者可以先在一章内容上试用某种方法，再用于整门课程。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "为“练习作品能展示工作能力”写一个例子，说明作品如何显示能力。",
+        "reference": "For example, a design applicant could present an early sketch and a revised version, explaining how feedback led to a clearer layout. The comparison shows the ability to improve a piece of work.",
+        "referenceZh": "例如，申请设计岗位的人可以展示初稿和修改稿，说明反馈如何使布局更清晰。这种比较体现了改进作品的能力。",
+        "criteria": [
+          "例子支持展示能力的主张",
+          "给出具体作品与改进",
+          "不虚构招聘成功率"
+        ]
+      },
+      "contrast": {
+        "wrong": "For example, practical experience is very important for everyone.",
+        "wrongZh": "例如，实践经验对每个人都非常重要。",
+        "better": "For example, a student could document how a revised design solved a problem in the first version.",
+        "betterZh": "例如，学生可以记录修改后的设计如何解决初稿中的一个问题。",
+        "reason": "原句是宽泛判断，不是例子；改句含具体对象、行动和结果。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2025_06_career_preparation"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2025_06_career_preparation_e3"
+      ],
+      "sourceIds": [
+        "exam-career",
+        "exam-culture"
+      ]
+    },
+    {
+      "id": "kf-condition",
+      "title": "把有效条件写在建议旁边",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "campus",
+        "technology",
+        "community",
+        "consumption"
+      ],
+      "functionIds": [
+        "condition",
+        "precision"
+      ],
+      "meaning": "指出一项主张在哪些条件下成立，避免把局部有效写成无条件有效。",
+      "form": "If + 条件从句，主句；主句 + provided that + 条件从句。",
+      "formZh": "用if从句写条件，主句写结果；provided that表示“前提是”，补充成立条件。",
+      "usage": "条件要与效果相关，如时间、资源、难度或参与方式；条件变化时相应调整判断。",
+      "boundary": "provided that后接完整从句；条件不保证实施成功，也不应无限增加条件逃避立场。",
+      "example": "A shared device scheme can widen access provided that students can book equipment when they actually need it.",
+      "exampleZh": "设备共享计划可扩大使用机会，前提是学生能在真正需要时预约设备。",
+      "recall": {
+        "prompt": "用provided that写出资源共享成立的条件。",
+        "reference": "A shared equipment scheme can be useful provided that booking rules are clear and the devices are maintained.",
+        "referenceZh": "设备共享计划可以有用，前提是预约规则清楚、设备得到维护。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "社区免费课程如何帮助上班居民？写一个具体条件和原因。",
+        "reference": "Free classes could benefit working residents if sessions are offered at times they can attend. Removing the fee alone does not remove a scheduling barrier.",
+        "referenceZh": "如果上课时间便于参加，免费课程可能惠及在职居民。单纯免除费用并不能消除时间安排上的障碍。",
+        "criteria": [
+          "条件是具体约束",
+          "解释为什么重要",
+          "保留明确立场"
+        ]
+      },
+      "contrast": {
+        "wrong": "Free classes will help all residents.",
+        "wrongZh": "免费课程将帮助所有居民。",
+        "better": "Free classes can help more residents if the timetable fits their work and family commitments.",
+        "betterZh": "如果课表适合居民的工作和家庭安排，免费课程可帮助更多人。",
+        "reason": "原句语法正确但范围过大；改句说明参与条件。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2022-06-library-services"
+      ],
+      "relatedExpressionIds": [
+        "cet4-library-2"
+      ],
+      "sourceIds": [
+        "exam-campus-writing",
+        "exam-technology"
+      ]
+    },
+    {
+      "id": "kf-contrast",
+      "title": "比较双方时保持标准一致",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "career",
+        "consumption",
+        "technology"
+      ],
+      "functionIds": [
+        "contrast",
+        "precision"
+      ],
+      "meaning": "用同一评价维度比较选项，让读者知道差别为什么影响选择。",
+      "form": "A offers X, whereas B offers Y；Compared with B, A ...",
+      "formZh": "用whereas对照A和B在同一方面的表现；Compared with B表示“与B相比”。",
+      "usage": "先选反馈速度、成本或练习机会等相关维度，不强行写成一方全面优越。",
+      "boundary": "whereas连接完整从句；相比结构要有对象。某一维度的优点不能推出所有方面更好。",
+      "example": "Live sessions require learners to attend at fixed times, whereas recorded lessons can usually be viewed at a time of the learner's choice.",
+      "exampleZh": "直播课要求学习者在固定时间参加，而录播课通常可以在学习者自选的时间观看。",
+      "recall": {
+        "prompt": "用whereas按同一标准比较两个学习安排。",
+        "reference": "An individual session gives the tutor more time to respond to one learner's questions, whereas a group session requires that time to be shared.",
+        "referenceZh": "一对一课程让教师有更多时间回答一名学习者的问题，而小组课程需要将这段时间分给多人。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "按使用次数和维护负担比较购买与租用设备，写2句有条件的选择。",
+        "reference": "Buying may suit frequent users who can arrange maintenance, whereas renting may suit occasional users if the rental service includes repairs. The choice should reflect expected use, total cost and who is responsible for maintenance.",
+        "referenceZh": "购买可能适合经常使用且能安排维护的人；如果租赁服务包含维修，租用可能适合偶尔使用的人。选择应考虑预计使用情况、总成本和维护责任。",
+        "criteria": [
+          "两边按共同标准比较",
+          "结论与使用情况相连"
+        ]
+      },
+      "contrast": {
+        "wrong": "Online learning is faster, whereas classroom learning has many books.",
+        "wrongZh": "在线学习更快，而课堂学习有很多书。",
+        "better": "Live sessions require attendance at fixed times, whereas recorded lessons usually allow learners to choose their viewing time.",
+        "betterZh": "直播课要求在固定时间参加，而录播课通常允许学习者选择观看时间。",
+        "reason": "原句可合乎语法，但比较维度不一致；改句两边都比较时间安排，再按学习者是否方便参加判断。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_social_practice_academic_learning"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_social_practice_academic_learning_e3"
+      ],
+      "sourceIds": [
+        "exam-learning",
+        "book-writing-sample"
+      ]
+    },
+    {
+      "id": "kf-concession",
+      "title": "承认顾虑后仍要给出回应",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "campus",
+        "technology",
+        "environment",
+        "relationships"
+      ],
+      "functionIds": [
+        "concession",
+        "condition"
+      ],
+      "meaning": "承认有关的顾虑，再说明如何回应或为何主张仍成立。",
+      "form": "Although + 顾虑从句，回应主句。",
+      "formZh": "用although从句承认顾虑，再在主句中作出回应。",
+      "usage": "顾虑要具体相关；回应可以限制范围、改进设计或说明更重要的标准。",
+      "boundary": "基础结构不把although与but重复连接同一对分句；不能承认问题后凭空宣称问题消失。",
+      "example": "Although a repair service requires staff time, a booking system can help organisers plan a manageable workload.",
+      "exampleZh": "虽然维修服务需要投入工作人员的时间，预约系统可帮助组织者安排可承担的工作量。",
+      "recall": {
+        "prompt": "用although承认活动占用时间并提出安排方式。",
+        "reference": "Although the workshop takes time, short sessions can allow participants to join without missing regular classes.",
+        "referenceZh": "虽然工作坊需要时间，短时活动可让参与者在不耽误正常上课的情况下参加。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "校园共享空间可能产生噪声：承认顾虑并给出直接回应。",
+        "reference": "Although shared spaces may create noise, separating discussion areas from quiet study areas can reduce conflicts between different users.",
+        "referenceZh": "虽然共享空间可能产生噪声，将讨论区与安静学习区分开可减少不同使用者之间的冲突。",
+        "criteria": [
+          "让步是真实相关顾虑",
+          "回应直接处理顾虑",
+          "连接清楚"
+        ]
+      },
+      "contrast": {
+        "wrong": "Although shared spaces may be noisy, but they are useful.",
+        "wrongZh": "虽然共享空间可能很吵，但是它们很有用。",
+        "better": "Although shared spaces may be noisy, separate quiet zones can protect students who need silence.",
+        "betterZh": "虽然共享空间可能很吵，独立的安静区域可照顾需要安静的学生。",
+        "reason": "基础结构中although与but重复；原句也未回应噪声，改句给出措施。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2025-12-academic-writing"
+      ],
+      "relatedExpressionIds": [
+        "cet4-academic-2"
+      ],
+      "sourceIds": [
+        "exam-campus-writing",
+        "grammar-although"
+      ]
+    },
+    {
+      "id": "kf-solution",
+      "title": "建议写清谁做什么及为什么",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "campus",
+        "community",
+        "environment",
+        "health"
+      ],
+      "functionIds": [
+        "solution",
+        "mechanism",
+        "condition"
+      ],
+      "meaning": "把“采取措施”展开为有执行者、行动、目的和限制的方案。",
+      "form": "执行者 + could/should + 具体动词；This could + 预期作用。",
+      "formZh": "写清执行者可以或应该采取的具体行动，再用This could说明可能的作用。",
+      "usage": "先诊断障碍，再选直接处理障碍的措施，并说明必要资源或条件。",
+      "boundary": "should是建议，不表示已经发生；could不是可行性保证。不能让无权限的人承担系统全部责任。",
+      "example": "Campus staff could publish a short equipment guide so that new users can complete common tasks without waiting for assistance.",
+      "exampleZh": "校园工作人员可以发布简短的设备指南，让新用户无需等待协助就能完成常见操作。",
+      "recall": {
+        "prompt": "把“We should take measures”改成有执行者与具体行动的一句。",
+        "reference": "The library could place clear signs beside each machine to help first-time users follow the correct steps.",
+        "referenceZh": "图书馆可以在每台机器旁放置清晰标识，帮助初次使用者按正确步骤操作。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "社区报名流程过于复杂：用2句提出有执行者、直接作用的建议。",
+        "reference": "Organisers could replace repeated forms with one short registration page. A telephone contact should remain available for residents who cannot complete the online process.",
+        "referenceZh": "组织者可以把重复填写的表格合并为一个简短的报名页面。应保留电话联系方式，供无法在线完成流程的居民使用。",
+        "criteria": [
+          "行动者具有权限",
+          "回应复杂流程",
+          "保留可用帮助渠道"
+        ]
+      },
+      "contrast": {
+        "wrong": "Everyone should solve the registration problem immediately.",
+        "wrongZh": "每个人都应立即解决报名问题。",
+        "better": "Organisers could simplify the form and provide a contact number for applicants who need help.",
+        "betterZh": "组织者可以简化表格，并为需要帮助的申请者提供联系电话。",
+        "reason": "原句语法正确但责任与行动不明确；改句给出执行者和可操作行为。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2022-06-library-services",
+        "cet6_2023_03_digital_gap_elderly"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2023_03_digital_gap_elderly_e3"
+      ],
+      "sourceIds": [
+        "exam-technology",
+        "exam-team"
+      ]
+    },
+    {
+      "id": "kf-evidence",
+      "title": "证据与假设用不同语言表达",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "technology",
+        "career",
+        "ethics"
+      ],
+      "functionIds": [
+        "evidence",
+        "precision"
+      ],
+      "meaning": "区分已给信息、观察与设想，不用research proves掩盖没有出处的断言。",
+      "form": "The given information shows ...；This suggests ...；A possible example is ...",
+      "formZh": "先用shows陈述给定信息，再用suggests作有限推断；possible example表示一种可能的例子。",
+      "usage": "先准确复述已知事实，再说它能支持什么、还不能支持什么；无数据可写清楚的设想例子。",
+      "boundary": "shows不证明因果；suggests是推断。不得虚构调查比例、实验或机构背书，例子不必伪装成研究。",
+      "example": "A portfolio shows what an applicant produced; it does not by itself show how well the applicant will work in every team.",
+      "exampleZh": "作品集展示申请者做过什么；仅凭作品集，不能判断其在每个团队中的工作表现。",
+      "recall": {
+        "prompt": "写出描述已给信息与提出谨慎推断的两个短语。",
+        "reference": "The given information shows ...；This suggests ...",
+        "referenceZh": "给定信息显示……；这提示……",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "题干只说活动报名人数增加：写2句说明能支持和不能支持的判断，不编数字。",
+        "reference": "The given information shows that more people registered for the activity. This suggests greater interest, but it does not tell us how many people attended or what they learned.",
+        "referenceZh": "给定信息显示活动报名人数增加。这提示兴趣可能更高，但不能说明有多少人参加或学到了什么。",
+        "criteria": [
+          "只使用题干事实",
+          "区分报名与学习效果",
+          "不越界推断"
+        ]
+      },
+      "contrast": {
+        "wrong": "More registrations prove that the activity improved everyone's skills.",
+        "wrongZh": "报名人数增加证明活动提高了每个人的技能。",
+        "better": "More registrations suggest greater interest, but the learning outcome would need separate evidence.",
+        "betterZh": "报名人数增加提示兴趣更高，但学习结果需要另有证据。",
+        "reason": "语法可成立但证据越界；报名数量不能证明每个人技能提升。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2025-12-academic-writing"
+      ],
+      "relatedExpressionIds": [
+        "cet4-academic-1"
+      ],
+      "sourceIds": [
+        "exam-campus-writing",
+        "exam-career"
+      ]
+    },
+    {
+      "id": "kf-define",
+      "title": "先说明核心概念指什么",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "technology",
+        "culture",
+        "ethics"
+      ],
+      "functionIds": [
+        "define",
+        "precision"
+      ],
+      "meaning": "用具体组成或行为界定抽象概念，让后文讨论同一个对象。",
+      "form": "In this context, X means ...；X involves A and B.",
+      "formZh": "用In this context限定语境，再说明X的含义；用involves列出X包含的要素。",
+      "usage": "定义服务于题目限定，选后文确实论证的组成，不机械抄词典。",
+      "boundary": "involves列出部分内容，不宣称穷尽定义；不能用同义空话循环解释。",
+      "example": "In this context, digital literacy involves checking a source as well as operating an application.",
+      "exampleZh": "在这里，数字素养既包括操作应用，也包括核查信息来源。",
+      "recall": {
+        "prompt": "用involves定义一种能力，列出两项行为。",
+        "reference": "Independent learning involves setting a goal and checking whether the chosen method is working.",
+        "referenceZh": "自主学习包括设定目标，并检查所选方法是否有效。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "为文化理解写一句行为性定义。",
+        "reference": "In this context, cultural understanding involves asking about a practice's background and listening to how participants explain its meaning.",
+        "referenceZh": "在这里，文化理解包括询问某种做法的背景，并听取参与者对其含义的解释。",
+        "criteria": [
+          "列出可识别行为",
+          "定义能指导例子",
+          "不穷尽文化全部内容"
+        ]
+      },
+      "contrast": {
+        "wrong": "Responsibility means being responsible.",
+        "wrongZh": "责任就是负责任。",
+        "better": "Responsible sharing involves checking a claim and considering whether the people mentioned have agreed to be identified.",
+        "betterZh": "负责任地分享信息，包括核查说法，并考虑被提及的人是否同意公开身份。",
+        "reason": "原句循环定义；改句把责任展开成可观察行为。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_digital_literacy"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_digital_literacy_e2"
+      ],
+      "sourceIds": [
+        "exam-technology",
+        "exam-culture"
+      ]
+    },
+    {
+      "id": "kf-reader",
+      "title": "先回应读者真正需要的信息",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "campus",
+        "career",
+        "culture",
+        "community"
+      ],
+      "functionIds": [
+        "reader",
+        "solution"
+      ],
+      "meaning": "依据收信人、机构或公众的需要选择内容，让文本完成沟通目的。",
+      "form": "I am writing to + 写作目的；For participants who ..., 信息或建议。",
+      "formZh": "用I am writing to说明写作目的；用For participants who限定读者，再给相关信息或建议。",
+      "usage": "书信先交代目的；通知提供参加决策所需信息；普通议论按任务直接讨论。",
+      "boundary": "仅在明确沟通场景使用称呼与落款；不凭空填入被禁止的信息或真实个人身份。",
+      "example": "I am writing to suggest a short guide for students who are using the booking system for the first time.",
+      "exampleZh": "我写信是想建议为初次使用预约系统的学生提供一份简短指南。",
+      "recall": {
+        "prompt": "用I am writing to表达具体沟通目的。",
+        "reference": "I am writing to ask whether the equipment room will be available during the examination period.",
+        "referenceZh": "我写信是想询问设备室在考试期间是否开放。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "给准备参加文化工作坊的朋友写2句：说明拟议活动内容和受众。",
+        "reference": "The proposed Saturday workshop would introduce the background of a local craft and include a short demonstration. It would suit beginners who want to ask questions before trying the technique.",
+        "referenceZh": "拟议的周六工作坊会介绍一种地方手工艺的背景，并安排简短演示。它适合想在尝试技法前提问的初学者。",
+        "criteria": [
+          "信息与参加决策有关",
+          "明确拟议安排",
+          "语气适合读者"
+        ]
+      },
+      "contrast": {
+        "wrong": "Our activity is meaningful and everyone must join it.",
+        "wrongZh": "我们的活动很有意义，每个人都必须参加。",
+        "better": "The workshop is designed for beginners and will include a demonstration before participants try the technique.",
+        "betterZh": "工作坊面向初学者，并将在参与者尝试技法前安排演示。",
+        "reason": "语法可成立但信息不足且强迫读者；改句说明受众与流程。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2022-06-library-services",
+        "cet4-2021-12-orientation"
+      ],
+      "relatedExpressionIds": [
+        "cet4-library-1"
+      ],
+      "sourceIds": [
+        "exam-campus-writing",
+        "exam-culture",
+        "official-outline"
+      ]
+    },
+    {
+      "id": "kf-synthesis",
+      "title": "结尾整合已有论证并回扣任务",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "technology",
+        "environment",
+        "relationships"
+      ],
+      "functionIds": [
+        "synthesis",
+        "condition"
+      ],
+      "meaning": "把前文理由组合成回答，不机械重复重要性或突然新增巨大主张。",
+      "form": "Taken together, A and B support ...；The aim is to ..., while ...",
+      "formZh": "用Taken together整合A和B对结论的支持；用while连接目标与需兼顾的内容。",
+      "usage": "结论加入已论证的条件或方法；比较题必须回到双方关系。",
+      "boundary": "不在结尾突然新增统计、新理由或美好未来；taken together不能代替说明双方联系。",
+      "example": "Taken together, clear instructions and practical feedback can make independent learning more manageable.",
+      "exampleZh": "清晰说明和实用反馈结合起来，可让自主学习更容易进行。",
+      "recall": {
+        "prompt": "用Taken together组合两个已经解释过的条件。",
+        "reference": "Taken together, suitable tasks and timely feedback can help students use classroom knowledge more effectively.",
+        "referenceZh": "合适的任务和及时反馈结合起来，可帮助学生更有效地运用课堂知识。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "正文已讲维修指导和方便回收点：写一句环保结论，不新增经济繁荣理由。",
+        "reference": "Taken together, repair guidance and convenient collection points can make it easier for students to reduce avoidable waste.",
+        "referenceZh": "维修指导和便捷回收点结合起来，可让学生更容易减少本可避免的浪费。",
+        "criteria": [
+          "只整合已出现的理由",
+          "回扣环保行动",
+          "没有万能口号"
+        ]
+      },
+      "contrast": {
+        "wrong": "Only in this way can we build a bright and wonderful future.",
+        "wrongZh": "只有这样，我们才能建设光明而美好的未来。",
+        "better": "Combining repair guidance with convenient collection points can make waste reduction easier to practise.",
+        "betterZh": "将维修指导与便捷回收点结合，可让减少浪费更容易付诸行动。",
+        "reason": "原句语法可成立但this way指向不清；改句回扣措施与主题。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_social_practice_academic_learning",
+        "cet6_2022_06_environmental_lifestyle"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_social_practice_academic_learning_e3"
+      ],
+      "sourceIds": [
+        "exam-learning",
+        "exam-environment"
+      ]
+    },
+    {
+      "id": "kf-precision",
+      "title": "写出范围而不是堆叠绝对词",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "health",
+        "technology",
+        "consumption",
+        "ethics"
+      ],
+      "functionIds": [
+        "precision",
+        "evidence"
+      ],
+      "meaning": "用相称的范围、程度和可能性，使句子准确且有立场。",
+      "form": "can/may + 动词；some + 人群；in this setting；not necessarily",
+      "formZh": "用can或may保留可能性，用some限定人群，用in this setting限定情境；not necessarily表示“不一定”。",
+      "usage": "明确人群、情境和效果；有依据的事实可直接陈述，不必每句加may。",
+      "boundary": "some与may不是给断言免责的装饰，仍须解释原因；无证据不要使用everyone/always/never。",
+      "example": "Frequent interruptions may make a demanding task harder to complete, especially when the task requires sustained attention.",
+      "exampleZh": "频繁打断可能使高难度任务更难完成，尤其是任务需要持续专注时。",
+      "recall": {
+        "prompt": "改写“Technology always makes everyone more efficient”，增加适用范围。",
+        "reference": "A suitable digital tool can save time on a clearly defined task, provided that users understand how to use it.",
+        "referenceZh": "合适的数字工具可节省完成明确任务的时间，前提是使用者知道如何使用。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "改写“低价商品永远更划算”，说明一个与使用需要有关的条件。",
+        "reference": "A low-priced item may be good value if it meets the user's needs and does not require frequent replacement.",
+        "referenceZh": "如果低价物品满足使用者的需求且不需频繁更换，它可能物有所值。",
+        "criteria": [
+          "避免永远断言",
+          "指出有关条件",
+          "保留可判断立场"
+        ]
+      },
+      "contrast": {
+        "wrong": "Exercise can solve every mental health problem.",
+        "wrongZh": "运动可以解决所有心理健康问题。",
+        "better": "An enjoyable physical activity may support everyday well-being, but persistent difficulties can require other forms of support.",
+        "betterZh": "令人愉快的身体活动可能有助于日常身心状态，但持续的困难可能需要其他形式的支持。",
+        "reason": "原句把一种行为写成通用治疗；改句限定日常作用并保留其他支持。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2023_06_mental_wellbeing"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2023_06_mental_wellbeing_e1"
+      ],
+      "sourceIds": [
+        "exam-health",
+        "book-writing-sample"
+      ]
+    },
+    {
+      "id": "kf-sequence",
+      "title": "按行动或事件的真实顺序组织",
+      "category": "function",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "campus",
+        "learning",
+        "community",
+        "habits"
+      ],
+      "functionIds": [
+        "sequence",
+        "reader"
+      ],
+      "meaning": "使读者能跟随步骤或事件，连接词要对应真实内容关系。",
+      "form": "First, ...；Next, ...；After + 动名词/事件从句，...；Finally, ...",
+      "formZh": "用First、Next、Finally排列步骤；用After加动名词或事件从句，说明做完某事之后。",
+      "usage": "适合计划、报告和经历；每步一项行动，写清前一步如何准备后一步。",
+      "boundary": "序数连接词不会自动建立因果；after作介词接动名词，时间顺序不替代论证。",
+      "example": "First, identify the task. Next, choose a manageable action. After trying it, check what needs to change.",
+      "exampleZh": "先明确任务，再选择可承担的行动；尝试后，检查哪些地方需要调整。",
+      "recall": {
+        "prompt": "用First、Next、After组织三个不同学习动作。",
+        "reference": "First, choose one problem. Next, explain a solution without looking at the notes. After checking the explanation, revise any missing steps.",
+        "referenceZh": "先选一个问题，再不看笔记解释解决方案；检查解释后，补正遗漏的步骤。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "社区工作坊需收集需要、准备材料、检查反馈：按合理顺序写3句。",
+        "reference": "First, ask residents which tasks they want to practise. Next, prepare materials for a short session. After the workshop, collect feedback before planning another one.",
+        "referenceZh": "先询问居民想练习哪些任务，再为短时活动准备材料；工作坊结束后，先收集反馈再规划下一场。",
+        "criteria": [
+          "顺序合理",
+          "每步具体",
+          "反馈用于后续调整"
+        ]
+      },
+      "contrast": {
+        "wrong": "First, improve the activity. Next, find out what residents need.",
+        "wrongZh": "先改进活动，再了解居民需要什么。",
+        "better": "First, find out what residents need. Next, design a short activity around those needs.",
+        "betterZh": "先了解居民的需求，再围绕这些需求设计短时活动。",
+        "reason": "语法正确但顺序缺少依据；先了解需要再设计。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2021-12-orientation"
+      ],
+      "relatedExpressionIds": [
+        "cet4-orientation-1"
+      ],
+      "sourceIds": [
+        "exam-team",
+        "book-writing-sample"
+      ]
+    },
+    {
+      "id": "kg-agreement",
+      "title": "先找真正主语再决定谓语",
+      "category": "grammar",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "campus",
+        "ethics"
+      ],
+      "functionIds": [
+        "precision"
+      ],
+      "meaning": "谓语与主语的人称和数一致，而不是跟离它最近的名词一致。",
+      "form": "A skill helps ...；Skills help ...；Learning + 宾语 + helps ...",
+      "formZh": "单数主语用helps，复数主语用help；Learning加宾语构成的整个动名词短语作主语时用helps。",
+      "usage": "检查句子时先圈出主语中心；动名词短语整体作主语时通常按单数处理。",
+      "boundary": "并列名词通常用复数，但整体概念和集合名词可有语义或英式变体；不要机械改动要求照抄的真题首句。",
+      "example": "Learning to evaluate sources helps students avoid unsupported claims.",
+      "exampleZh": "学习评估信息来源可帮助学生避免缺乏依据的说法。",
+      "recall": {
+        "prompt": "补全：Learning to check sources ___ (help) students write carefully. 说明原因。",
+        "reference": "Learning to check sources helps students write carefully. The whole -ing phrase is the subject.",
+        "referenceZh": "学习核查来源可帮助学生谨慎写作。整个动名词短语是主语。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "用“学生及其导师”作并列主语，写一句说明双方共同审查计划。",
+        "reference": "Students and their mentors review the plan together before the project begins.",
+        "referenceZh": "学生和导师在项目开始前共同审核计划。",
+        "criteria": [
+          "并列主语使用复数谓语",
+          "主句完整",
+          "共同审查有具体对象"
+        ]
+      },
+      "contrast": {
+        "wrong": "The benefits of clear instructions is easy to see.",
+        "wrongZh": "清晰说明带来的好处很容易看出。",
+        "better": "The benefits of clear instructions are easy to see.",
+        "betterZh": "清晰说明带来的好处很容易看出。",
+        "reason": "确定语法错误：中心词benefits是复数，instructions也不是决定主句谓语的理由。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_independent_learning"
+      ],
+      "relatedExpressionIds": [],
+      "sourceIds": [
+        "grammar-agreement"
+      ]
+    },
+    {
+      "id": "kg-countability",
+      "title": "抽象名词要按词义检查可数性",
+      "category": "grammar",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "career",
+        "technology"
+      ],
+      "functionIds": [
+        "precision"
+      ],
+      "meaning": "区分可数的个体与不可数的内容、经验或建议，正确选择冠词、数量词和复数。",
+      "form": "some feedback / useful information / relevant experience；a suggestion / two examples",
+      "formZh": "feedback、information和表示经验积累的experience按不可数用法表达；suggestion、example可用冠词或复数计数。",
+      "usage": "常见写作内容义information、feedback和knowledge通常不可数；experience表示积累的经验与一次经历不同。",
+      "boundary": "不要把“抽象名词全部不可数”当规则；experience、knowledge等有特定可数用法，具体词义应查词典。",
+      "example": "The supervisor gave useful feedback and suggested two changes to the draft.",
+      "exampleZh": "指导者给出了有用的反馈，并建议对草稿作两处修改。",
+      "recall": {
+        "prompt": "改正“two useful advices”，保留数量含义。",
+        "reference": "two useful pieces of advice / two useful suggestions",
+        "referenceZh": "两条有用的建议／两项有用的建议。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "写一句区分“相关工作经验”和“两个有启发的经历”，不使用experiences表示全部技能积累。",
+        "reference": "Relevant work experience can be built through practice, while two demanding experiences on recent projects may offer lessons about cooperation.",
+        "referenceZh": "相关工作经验可通过实践积累，而近期项目中的两次具有挑战性的经历可能带来合作方面的启示。",
+        "criteria": [
+          "经验积累用不可数experience",
+          "个别经历可数且语境清楚",
+          "数量与名词形式匹配"
+        ]
+      },
+      "contrast": {
+        "wrong": "The website provides many useful informations.",
+        "wrongZh": "这个网站提供很多有用的信息。",
+        "better": "The website provides a great deal of useful information.",
+        "betterZh": "这个网站提供大量有用的信息。",
+        "reason": "确定语法错误：information在信息内容义下不可数，不加s；many改为适合不可数名词的数量表达。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_digital_literacy",
+        "cet6_2025_06_career_preparation"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_digital_literacy_e3",
+        "cet6_2025_06_career_preparation_e2"
+      ],
+      "sourceIds": [
+        "grammar-countability"
+      ]
+    },
+    {
+      "id": "kg-complements",
+      "title": "把动词和后接结构一起记",
+      "category": "grammar",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "technology",
+        "habits"
+      ],
+      "functionIds": [
+        "precision",
+        "solution"
+      ],
+      "meaning": "动词选择限制后面的结构；知道意思还不够，必须会放进完整句子。",
+      "form": "enable + 人 + to do；avoid + doing；take responsibility for + doing",
+      "formZh": "enable后接人，再接to＋动词原形；avoid后接动名词（动词-ing形式）；take responsibility for后也接动名词。",
+      "usage": "把动词、宾语和后接形式一起回忆；遇到不确定搭配查词典而非把所有to都当不定式。",
+      "boundary": "不是每个动词都接同一种形式；to可以是不定式标记或介词，取决于整个搭配。语法正确仍需动作有意义。",
+      "example": "Clear instructions enable new users to complete a task without guessing each step.",
+      "exampleZh": "清晰说明可让新用户完成任务，而不必猜测每一步怎么做。",
+      "recall": {
+        "prompt": "补全：The guide enables learners ___ (check) their progress. They should avoid ___ (copy) an answer without understanding it.",
+        "reference": "The guide enables learners to check their progress. They should avoid copying an answer without understanding it.",
+        "referenceZh": "指南使学习者能够检查进度。他们应避免不理解答案就照抄。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "用take responsibility for写一句说明社交媒体使用者应主动检查所分享的信息。",
+        "reference": "Users should take responsibility for checking the information they share.",
+        "referenceZh": "使用者应对核查自己分享的信息负责。",
+        "criteria": [
+          "for后接动名词",
+          "责任主体明确",
+          "行动是检查信息而非空泛负责"
+        ]
+      },
+      "contrast": {
+        "wrong": "The guide enables students checking their work.",
+        "wrongZh": "指南使学生能够检查自己的作品。",
+        "better": "The guide enables students to check their work.",
+        "betterZh": "指南使学生能够检查自己的作品。",
+        "reason": "确定语法错误：enable someone to do是该义的基本补足结构。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_independent_learning",
+        "cet6_2025_06_responsible_social_media"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_independent_learning_e2"
+      ],
+      "sourceIds": [
+        "grammar-verbs"
+      ]
+    },
+    {
+      "id": "kg-clause-links",
+      "title": "从句与名词短语不能混接",
+      "category": "grammar",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "environment",
+        "campus",
+        "relationships"
+      ],
+      "functionIds": [
+        "mechanism",
+        "concession"
+      ],
+      "meaning": "because后给完整原因从句，because of后给名词结构；从属从句通常还需主句。",
+      "form": "Because + 主语 + 谓语，主句；Because of + 名词短语，主句；Although + 从句，主句。",
+      "formZh": "because后接有主语和谓语的从句；because of后接名词短语；because和although从句都需要配合主句。",
+      "usage": "先判断后面是否有完整主谓结构，再选连接词；用句号检查是否留下只有Because/Although的碎片句。",
+      "boundary": "不要把because和so、although和but重复连接同一对基础分句；口语中的because-X不作为本库正式写作基本结构。",
+      "example": "Because the instructions are brief and clear, new users can find the first step quickly.",
+      "exampleZh": "因为说明简短清晰，新用户可以迅速找到第一步。",
+      "recall": {
+        "prompt": "分别用because和because of表达“因开放时间太短而难以使用”。",
+        "reference": "The service is difficult to use because its opening hours are limited. / The service is difficult to use because of its limited opening hours.",
+        "referenceZh": "这项服务很难使用，因为开放时间有限。／由于开放时间有限，这项服务很难使用。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "用although写一句：承认维修需要时间，但明确其减少替换需求的作用。",
+        "reference": "Although repairs take time, they can reduce the need to replace items that still have a useful life.",
+        "referenceZh": "虽然维修耗时，但它可减少更换仍有使用价值的物品的需要。",
+        "criteria": [
+          "although后有从句和主句",
+          "不重复but",
+          "回应时间与使用寿命的关系"
+        ]
+      },
+      "contrast": {
+        "wrong": "Because of students cannot attend in the morning, the timetable should change.",
+        "wrongZh": "因为学生上午无法参加，课表应作调整。",
+        "better": "Because students cannot attend in the morning, the timetable should change.",
+        "betterZh": "因为学生上午无法参加，课表应作调整。",
+        "reason": "确定语法错误：后面是students cannot attend完整从句，应使用because；because of需名词短语。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2022_06_environmental_lifestyle"
+      ],
+      "relatedExpressionIds": [],
+      "sourceIds": [
+        "grammar-because",
+        "grammar-although"
+      ]
+    },
+    {
+      "id": "kg-relative-clauses",
+      "title": "定语从句先明确修饰对象",
+      "category": "grammar",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "community",
+        "campus",
+        "career"
+      ],
+      "functionIds": [
+        "define",
+        "precision"
+      ],
+      "meaning": "用必要信息限定人或事物；关系代词若已作主语，不再加重复的人称代词。",
+      "form": "people who + 谓语；a service that + 谓语；非限定补充用逗号与who/which。",
+      "formZh": "用who从句修饰人，用that从句修饰事物；非限定性补充用逗号隔开，并用who或which。",
+      "usage": "从句紧跟明确名词，帮助读者识别对象；没有必要限定时可写两个短句。",
+      "boundary": "不为显得高级强加which；非限定从句不用that。若who已作主语，不写who they；主语、宾语角色不同。",
+      "example": "A service that offers evening appointments can be easier for working residents to use.",
+      "exampleZh": "提供晚间预约的服务可能更方便在职居民使用。",
+      "recall": {
+        "prompt": "改正“Students who they need help can contact the tutor”。",
+        "reference": "Students who need help can contact the tutor.",
+        "referenceZh": "需要帮助的学生可以联系教师。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "用who限定“想试新技能的志愿者”，写一句合适的活动安排。",
+        "reference": "Volunteers who want to try a new skill can join a short practice session before taking on a larger task.",
+        "referenceZh": "想尝试新技能的志愿者可以先参加简短练习，再承担更大的任务。",
+        "criteria": [
+          "修饰对象明确",
+          "不重复从句主语",
+          "安排符合初学者能力"
+        ]
+      },
+      "contrast": {
+        "wrong": "The workshop, that is open to beginners, lasts one hour.",
+        "wrongZh": "这个向初学者开放的工作坊持续一小时。",
+        "better": "The workshop, which is open to beginners, lasts one hour.",
+        "betterZh": "这个向初学者开放的工作坊持续一小时。",
+        "reason": "确定语法错误：逗号标记非限定补充信息，不能用that引导。若限定是哪场活动，则可不用逗号并使用that。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2023_03_digital_gap_elderly"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2023_03_digital_gap_elderly_e2"
+      ],
+      "sourceIds": [
+        "grammar-relative"
+      ]
+    },
+    {
+      "id": "kg-time-and-tense",
+      "title": "经历、一般主张与计划用不同时间",
+      "category": "grammar",
+      "core": true,
+      "exam": "both",
+      "themeIds": [
+        "campus",
+        "career",
+        "community"
+      ],
+      "functionIds": [
+        "sequence",
+        "evidence"
+      ],
+      "meaning": "已发生事件、一般作用和未来安排具有不同时间指向，不能全文机械统一时态。",
+      "form": "Last Friday, ... + 一般过去时；一般判断 + 现在时；拟议安排 + could/would。",
+      "formZh": "明确过去时间用一般过去时；一般判断用现在时；拟议安排可用could或would。",
+      "usage": "事件报告交代过去事实；反思可转一般现在时；未发生方案保留拟议语气。",
+      "boundary": "明确过去时间通常不用现在完成时表达同一过去事件；题目没有事实时不要将设想写成已发生。",
+      "example": "Last Friday, volunteers tested the booking page. Their comments can help the organisers improve the next version.",
+      "exampleZh": "上周五，志愿者测试了预约页面。他们的意见可帮助组织者改进下一版。",
+      "recall": {
+        "prompt": "把“We have visited the workshop last Monday”改成适合明确过去时间的一句。",
+        "reference": "We visited the workshop last Monday.",
+        "referenceZh": "我们上周一参观了工作坊。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "写2句：报告昨天完成一次演示，并建议下次增加问答，不把建议写成既定事实。",
+        "reference": "The group gave a short demonstration yesterday. A question-and-answer session could be added next time to help participants check their understanding.",
+        "referenceZh": "小组昨天作了简短演示。下次可以增加问答环节，帮助参与者检查自己的理解。",
+        "criteria": [
+          "昨天事件用过去时",
+          "下一次安排用拟议语气",
+          "不虚构效果统计"
+        ]
+      },
+      "contrast": {
+        "wrong": "Yesterday, students visit the farm and learned about the tools.",
+        "wrongZh": "昨天，学生参观农场，并了解了工具。",
+        "better": "Yesterday, students visited the farm and learned about the tools.",
+        "betterZh": "昨天，学生参观了农场，并了解了工具。",
+        "reason": "确定语法错误：yesterday指定过去事件，两个并列动作应与这一时间一致。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2019-06-farm-report",
+        "cet4-2023-12-campus-event"
+      ],
+      "relatedExpressionIds": [
+        "cet4-farm-2"
+      ],
+      "sourceIds": [
+        "grammar-tense"
+      ]
+    },
+    {
+      "id": "kgenre-argument",
+      "title": "议论短文：回答限定命题",
+      "category": "genre",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "learning",
+        "technology",
+        "ethics"
+      ],
+      "functionIds": [
+        "define",
+        "mechanism",
+        "example",
+        "synthesis"
+      ],
+      "meaning": "议论短文围绕一个明确问题形成主张，并用理由和具体说明支持它。",
+      "form": "明确立场 → 一到两个相关理由及说明 → 回扣任务；段数按内容决定。",
+      "formZh": "按“明确立场→相关理由与说明→回扣题意”组织，段数根据内容决定。",
+      "usage": "先圈出任务动词和限定关系：解释价值、比较双方、回应提议或讨论风险是不同任务。",
+      "boundary": "不把所有题写成“很重要”；给定首句按实际Directions保留，不能用本库开头替换。没有证据说三段是所有题强制格式。",
+      "example": "A writing course can be useful if it helps students revise real assignments rather than simply memorise formal phrases.",
+      "exampleZh": "写作课若帮助学生修改真实作业，而不只是背正式用语，就可以有用。",
+      "recall": {
+        "prompt": "列出议论短文需要回答的三个问题，不背固定首尾段。",
+        "reference": "What is my answer to the task? Why does it make sense? What specific explanation supports it?",
+        "referenceZh": "我对任务的回答是什么？为什么合理？什么具体解释支持它？",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "回应“是否为校园设备增加操作演示”，写2句立场与机制，而非完整作文。",
+        "reference": "A short demonstration would be useful for equipment that new users often find confusing. Showing the first few steps can make later written instructions easier to follow.",
+        "referenceZh": "如果新用户经常不知如何使用设备，简短演示会有帮助。展示最初几步，可让后续书面说明更容易理解。",
+        "criteria": [
+          "回应是否增加演示",
+          "理由具体",
+          "不使用无关宏观背景"
+        ]
+      },
+      "contrast": {
+        "wrong": "With the development of society, equipment is important and we should build a better future.",
+        "wrongZh": "随着社会发展，设备很重要，我们应建设更美好的未来。",
+        "better": "A short demonstration can help first-time users complete the basic steps before working independently.",
+        "betterZh": "简短演示可帮助初次使用者先完成基本步骤，再独立操作。",
+        "reason": "原句主要是空泛风格和任务遗漏，不是确定语法错误；改句直接回答提议。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2025-12-academic-writing",
+        "cet6_2025_06_ai_creativity"
+      ],
+      "relatedExpressionIds": [
+        "cet4-academic-1"
+      ],
+      "sourceIds": [
+        "exam-campus-writing",
+        "exam-ai"
+      ]
+    },
+    {
+      "id": "kgenre-proposal",
+      "title": "提案：问题、行动与可行条件",
+      "category": "genre",
+      "core": false,
+      "exam": "CET4",
+      "themeIds": [
+        "campus",
+        "community",
+        "environment"
+      ],
+      "functionIds": [
+        "reader",
+        "solution",
+        "condition"
+      ],
+      "meaning": "提案让负责机构理解问题并判断可执行改进，不是抱怨清单或一般赞美。",
+      "form": "写作目的 → 具体问题与影响 → 对应措施及执行条件 → 合适收束。",
+      "formZh": "先说明目的，再写具体问题及影响，提出对应措施和执行条件，最后合适收束。",
+      "usage": "建议与问题一一对应；是否加称呼、落款依据题目要求，而不只依据网页给范文写了Dear。",
+      "boundary": "proposal不自动等于letter；不要凭空增加真实校名、事实数据或被题目禁止的身份。先说明问题再建议可避免偏题。",
+      "example": "I suggest adding a simple fault-reporting form so that staff can identify machines that need attention.",
+      "exampleZh": "我建议增加简易故障报修表，让工作人员识别需要处理的机器。",
+      "recall": {
+        "prompt": "提案中一个问题应配哪两项内容？",
+        "reference": "A proposal should explain the problem's effect and suggest a feasible action that addresses it.",
+        "referenceZh": "提案应解释问题的影响，并提出能够回应问题的可行行动。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "校园共享工具经常找不到归还位置：给管理员写2句提案核心内容。",
+        "reference": "Users may return tools to different shelves because the storage labels are unclear. I suggest labelling each location and placing a short return guide near the entrance.",
+        "referenceZh": "由于存放标签不清楚，使用者可能把工具归还到不同架子。我建议标明每个存放位置，并在入口附近放置简短归还指南。",
+        "criteria": [
+          "问题与措施对应",
+          "管理员能执行",
+          "不只是要求提高服务"
+        ]
+      },
+      "contrast": {
+        "wrong": "The tool room is bad. Please improve everything.",
+        "wrongZh": "工具室很差。请把一切都改好。",
+        "better": "Clear storage labels could help users return tools to the correct shelf.",
+        "betterZh": "清晰的存放标签可帮助使用者把工具归还到正确架子。",
+        "reason": "原句语法基本成立但指责笼统，无法执行；改句说明具体改进对象。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2022-06-library-services"
+      ],
+      "relatedExpressionIds": [
+        "cet4-library-1"
+      ],
+      "sourceIds": [
+        "exam-library-proposal"
+      ]
+    },
+    {
+      "id": "kgenre-report",
+      "title": "报告：把事件信息与评价分开",
+      "category": "genre",
+      "core": false,
+      "exam": "CET4",
+      "themeIds": [
+        "campus",
+        "community",
+        "culture"
+      ],
+      "functionIds": [
+        "reader",
+        "evidence",
+        "sequence"
+      ],
+      "meaning": "报告先告诉读者发生了什么，再说明相关内容或意义，避免只写个人感想。",
+      "form": "事件核心信息 → 有选择的活动细节 → 与事实相称的结果或评价。",
+      "formZh": "先交代事件核心信息，再选择活动细节，最后给出与事实相称的结果或评价。",
+      "usage": "需要时给出谁、什么、何时、何地；已发生事件用过去时，意义可用现在时。训练中假设信息必须标明。",
+      "boundary": "不虚构真实新闻、采访或统计；如果题目没有规定日期，可使用清楚的设想安排，不声称它来自原题。",
+      "example": "In this imagined report, students visited a community workshop on Friday and watched a repair demonstration.",
+      "exampleZh": "在这则设想的报告中，学生周五参观了社区工作坊，并观看维修演示。",
+      "recall": {
+        "prompt": "报告的开头通常需要读者知道哪些信息？",
+        "reference": "A reader needs to know what happened, who was involved and any time or place information relevant to the task.",
+        "referenceZh": "读者需要知道发生了什么、谁参与，以及题目所需的时间或地点信息。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "模拟报道：昨日校园组织书籍交换活动。写2句事件与细节，不编参与人数。",
+        "reference": "The campus book exchange took place yesterday in the student centre. Participants introduced the books they brought and chose titles that matched their interests.",
+        "referenceZh": "校园图书交换活动昨天在学生活动中心举行。参与者介绍了自己带来的书，并选择符合自身兴趣的书目。",
+        "criteria": [
+          "写出事件与相关时间地点",
+          "细节与交换活动有关",
+          "不声称未经给定的统计效果"
+        ]
+      },
+      "contrast": {
+        "wrong": "Yesterday's book exchange was wonderful, meaningful and very successful.",
+        "wrongZh": "昨天的图书交换活动很棒、很有意义，也非常成功。",
+        "better": "During yesterday's book exchange, participants introduced their books and discussed which titles they wanted to read.",
+        "betterZh": "在昨天的图书交换活动中，参与者介绍了自己的书，并讨论想读哪些书。",
+        "reason": "原句可合乎语法，但只有评价没有报道信息；改句提供可理解的活动细节。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2019-06-farm-report"
+      ],
+      "relatedExpressionIds": [
+        "cet4-farm-1"
+      ],
+      "sourceIds": [
+        "exam-farm-report",
+        "grammar-tense"
+      ]
+    },
+    {
+      "id": "kgenre-experience",
+      "title": "经历短文：具体转折后再反思",
+      "category": "genre",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "campus",
+        "learning",
+        "relationships"
+      ],
+      "functionIds": [
+        "sequence",
+        "example",
+        "synthesis"
+      ],
+      "meaning": "用具体经历展示变化，并解释为什么这件事值得记住，而不是把形容词当情节。",
+      "form": "情境 → 一项困难或关键行动 → 结果 → 有依据的反思。",
+      "formZh": "按“情境→困难或关键行动→结果→有依据的反思”展开。",
+      "usage": "选择少量细节支持任务指定的难忘、有益或成长；反思要从发生的行动自然推出。",
+      "boundary": "示例是教学设想，不要求编造个人真实经历。不能为了 dramatic 而堆砌事故，也不把所有经历写成获奖。",
+      "example": "When our group disagreed about a poster, checking which design best met the audience's needs helped us choose a clearer version.",
+      "exampleZh": "小组对海报有分歧时，检查哪个设计最符合受众需求，帮助我们选出更清晰的版本。",
+      "recall": {
+        "prompt": "写经历时，什么样的细节能支撑“难忘”？",
+        "reference": "A specific difficulty, a meaningful action and a change in understanding can explain why an experience was memorable.",
+        "referenceZh": "具体困难、有意义的行动和认识上的变化，可解释一段经历为何难忘。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "写2–3句设想经历：第一次主持讨论时发言混乱，后来改变方式，并反思。",
+        "reference": "At my first practice meeting, several people spoke at once and useful suggestions were lost. I then asked each person to state one concern before the group compared possible solutions. The experience showed me that a clear process can make participation easier.",
+        "referenceZh": "在我第一次进行会议练习时，几个人同时讲话，有用的建议被淹没了。随后，我请每人先提出一个顾虑，再由小组比较可行方案。这段经历让我看到，清晰流程可让参与更容易。",
+        "criteria": [
+          "有具体问题和后续行动",
+          "变化不是只加形容词",
+          "反思与行动关联"
+        ]
+      },
+      "contrast": {
+        "wrong": "It was unforgettable because it was unforgettable and meaningful.",
+        "wrongZh": "这件事难忘，因为它难忘而且有意义。",
+        "better": "It stayed in my memory because I learned to ask a clear question before offering a solution.",
+        "betterZh": "它留在我的记忆中，因为我学会了先提出清楚的问题，再给出解决方案。",
+        "reason": "原句是循环空话；改句给出与记忆关联的具体学习变化。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2023-12-campus-event"
+      ],
+      "relatedExpressionIds": [
+        "cet4-event-1"
+      ],
+      "sourceIds": [
+        "exam-discussion",
+        "grammar-tense"
+      ]
+    },
+    {
+      "id": "kgenre-visual",
+      "title": "图画或图表：先忠实描述再解释",
+      "category": "genre",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "consumption",
+        "campus",
+        "environment"
+      ],
+      "functionIds": [
+        "evidence",
+        "contrast",
+        "precision"
+      ],
+      "meaning": "从给定视觉信息选出关键事实，描述与解释分开，不从一幅图自动推出社会全貌。",
+      "form": "The chart shows ...；A increased from X to Y；The picture depicts ...；This may suggest ...",
+      "formZh": "用shows描述图表，用from X to Y写起止数量，用depicts描述图画；用may suggest作有限推断。",
+      "usage": "图表先核对对象、单位、时间和趋势；图画先识别关键人物、行为及对话，再按题意讨论。",
+      "boundary": "本单元是能力拓展，未新增某场真题原图。训练数据明确是假设；数量变化不等于增长率，图中趋势不能证明原因。",
+      "example": "In a hypothetical chart, repair requests rise from 20 to 35, an increase of 15 requests.",
+      "exampleZh": "在假设图表中，维修请求从20次增至35次，增加了15次。",
+      "recall": {
+        "prompt": "从20增加到35，增加量是多少？英语写一句，不误称增加15%。",
+        "reference": "The number rose from 20 to 35, an increase of 15. The percentage increase would be 75%, not 15%.",
+        "referenceZh": "数量从20增至35，增加了15；百分比增幅是75%，不是15%。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "模拟图表：借用设备次数从2023年的40次到2024年的60次。写2句描述及证据边界。",
+        "reference": "In the hypothetical chart, the number of equipment loans rose from 40 in 2023 to 60 in 2024. The figures show increased use, but they do not explain whether the change resulted from greater demand or improved availability.",
+        "referenceZh": "在假设图表中，设备借用次数从2023年的40次增至2024年的60次。数据表明使用增加，但不能解释这是需求增长，还是设备更容易借到所致。",
+        "criteria": [
+          "对象单位时间正确",
+          "增长量与增长率不混淆",
+          "不编因果"
+        ]
+      },
+      "contrast": {
+        "wrong": "Loans rose by 20%, from 40 to 60, proving the system was perfect.",
+        "wrongZh": "借用次数从40增至60，增长了20%，证明系统完美。",
+        "better": "Loans rose from 40 to 60, an increase of 20 loans or 50%; this alone does not establish service quality.",
+        "betterZh": "借用次数从40增至60，增加20次，即增长50%；仅凭这一点不能确定服务质量。",
+        "reason": "确定计算错误加证据越界：20是数量差，50%才是相对增长；使用次数不能证明系统完美。"
+      },
+      "relatedQuestionIds": [],
+      "relatedExpressionIds": [],
+      "sourceIds": [
+        "official-outline-pdf",
+        "official-outline",
+        "exam-culture"
+      ]
+    },
+    {
+      "id": "kgenre-notice",
+      "title": "通知或邀请：让读者知道如何参加",
+      "category": "genre",
+      "core": false,
+      "exam": "CET4",
+      "themeIds": [
+        "campus",
+        "culture",
+        "community"
+      ],
+      "functionIds": [
+        "reader",
+        "sequence",
+        "precision"
+      ],
+      "meaning": "按情景明确目的、对象和参加信息；本单元是应用写作拓展，不用于预测每场题型。",
+      "form": "活动目的与受众 → 时间地点 → 内容或准备 → 报名/联系信息。",
+      "formZh": "依次说明活动目的与受众、时间地点、内容或准备事项，以及报名或联系信息。",
+      "usage": "先满足Directions列出的信息；如果题目只要求提案，使用拟议语气，不把活动写成已定通知。",
+      "boundary": "不是所有校园题都写通知；不可补充题目禁止的真实姓名或联系方式。没有给定信息时应标为模拟安排。",
+      "example": "For this simulated invitation, the workshop is planned for Saturday afternoon in the student centre, and beginners are welcome.",
+      "exampleZh": "在这份模拟邀请中，工作坊拟于周六下午在学生活动中心举行，欢迎初学者参加。",
+      "recall": {
+        "prompt": "读者决定是否参加活动，通常至少需要哪四类信息？",
+        "reference": "The purpose, intended participants, time and place, and how to join are usually useful for an attendance decision.",
+        "referenceZh": "活动目的、参加对象、时间地点和参加方式，通常有助于读者决定是否参加。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "模拟通知：周六14:00学生中心举行修补衣物入门活动，携带一件旧衣物。写2句明确参加信息。",
+        "reference": "A beginner's clothing repair workshop will take place at 2 p.m. on Saturday in the student centre. Please bring one old item of clothing that you would like to repair.",
+        "referenceZh": "面向初学者的衣物修补工作坊将于周六下午2点在学生活动中心举行。请带一件想修补的旧衣物。",
+        "criteria": [
+          "时间地点与给定模拟情景一致",
+          "明确受众和准备物品",
+          "没有空泛宣传替代信息"
+        ]
+      },
+      "contrast": {
+        "wrong": "A good event will be held soon, so everyone should come.",
+        "wrongZh": "一场好活动即将举行，所以每个人都应参加。",
+        "better": "The beginner's workshop will take place at 2 p.m. on Saturday in the student centre; participants should bring one old item of clothing.",
+        "betterZh": "面向初学者的工作坊将于周六下午2点在学生活动中心举行；参与者应带一件旧衣物。",
+        "reason": "原句语法可成立但信息无法支持参加行动；改句回答何时、何地和带什么。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2021-12-orientation"
+      ],
+      "relatedExpressionIds": [
+        "cet4-orientation-1"
+      ],
+      "sourceIds": [
+        "official-outline",
+        "exam-library-proposal",
+        "exam-culture"
+      ]
+    },
+    {
+      "id": "kt-learning-feedback",
+      "title": "学习：把反馈接到下一次行动",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "learning"
+      ],
+      "functionIds": [
+        "mechanism",
+        "solution",
+        "sequence"
+      ],
+      "meaning": "反馈的价值不只在知道好坏，还在识别一个可以修正的步骤。",
+      "form": "use feedback to + 动词；revise + 具体内容；check whether + 从句",
+      "formZh": "用use feedback to说明利用反馈做什么，revise后写具体修改内容，check whether后写要检查的问题。",
+      "usage": "写出反馈针对什么、学习者改什么、如何检查变化。",
+      "boundary": "反馈不等于分数或赞美；不宣称一次反馈必定改善表现。feedback不可数。",
+      "example": "A learner can use feedback to add a missing explanation and then check whether the new version answers the question.",
+      "exampleZh": "学习者可利用反馈补上缺失的解释，再检查新版是否回答了问题。",
+      "recall": {
+        "prompt": "不看例句，写出“用反馈修改具体内容”的英语结构。",
+        "reference": "use feedback to revise a specific part of the work",
+        "referenceZh": "利用反馈修改作品中的具体部分。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "换成口头报告：同伴说开头不清楚，写2句说明如何用反馈，而非重复原学习例句。",
+        "reference": "The speaker could use the comment to state the purpose at the beginning. A second listener could then check whether the opening makes the topic clear.",
+        "referenceZh": "演讲者可以根据意见在开头说明目的，再请另一位听众检查开场是否清楚交代主题。",
+        "criteria": [
+          "反馈对应开头问题",
+          "明确修改行动",
+          "检查的是清晰度而非假定成功"
+        ]
+      },
+      "contrast": {
+        "wrong": "Feedback is good, so students should get more and more feedbacks.",
+        "wrongZh": "反馈很好，所以学生应获得越来越多的反馈。",
+        "better": "Targeted feedback can show students which step to revise before they try the task again.",
+        "betterZh": "有针对性的反馈可让学生知道重试任务前应修改哪一步。",
+        "reason": "feedbacks是内容义下的可数性错误；more and more也没有解释用途，改句指出修正步骤。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_independent_learning"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_independent_learning_e3"
+      ],
+      "sourceIds": [
+        "exam-learning",
+        "grammar-countability"
+      ]
+    },
+    {
+      "id": "kt-learning-connection",
+      "title": "学习：连接理论与实际约束",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "learning"
+      ],
+      "functionIds": [
+        "contrast",
+        "example",
+        "mechanism"
+      ],
+      "meaning": "说明概念在具体任务中怎样使用，以及现实条件如何暴露概念的局限。",
+      "form": "apply a principle to + 情境；adjust an approach when + 条件；connect A with B",
+      "formZh": "用apply a principle to把原理用于情境；用when说明何时调整方法；用connect A with B连接两者。",
+      "usage": "适合理论与实践、课程与项目类任务；既写知识怎样指导行动，也写行动如何促使重新理解。",
+      "boundary": "不把实践写成取代理论；两者同样重要不等于每周分配完全相同时间。",
+      "example": "Students can apply a planning principle to a group project and adjust the schedule when a necessary resource is unavailable.",
+      "exampleZh": "学生可将规划原理用于小组项目，并在必要资源不可用时调整日程。",
+      "recall": {
+        "prompt": "写出“把一个原则用于具体情境”的英语结构。",
+        "reference": "apply a principle to a specific situation",
+        "referenceZh": "将一项原理用于具体情境。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "换成社团预算：解释预算概念如何用于活动，以及实际报价如何促使调整。",
+        "reference": "A budgeting model can help a club compare expected costs before choosing an activity. Actual price quotations may reveal that one option needs to be reduced or replaced.",
+        "referenceZh": "预算模型可帮助社团在选择活动前比较预计成本。实际报价可能表明某个方案需要缩减或替换。",
+        "criteria": [
+          "概念指导具体行动",
+          "实际约束促使调整",
+          "不赞美一方而否定另一方"
+        ]
+      },
+      "contrast": {
+        "wrong": "Practice is useful, so academic learning is unnecessary.",
+        "wrongZh": "实践有用，所以学术学习没有必要。",
+        "better": "Academic concepts can guide a project, while practical constraints show where the plan needs adjustment.",
+        "betterZh": "学术概念可指导项目，而实际限制会显示计划哪些地方需要调整。",
+        "reason": "原句语法正确但结论跳跃；实践有价值不能推出理论无用。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_social_practice_academic_learning"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_social_practice_academic_learning_e1"
+      ],
+      "sourceIds": [
+        "exam-learning",
+        "exam-campus-writing"
+      ]
+    },
+    {
+      "id": "kt-campus-access",
+      "title": "校园：按障碍设计服务",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "campus"
+      ],
+      "functionIds": [
+        "define",
+        "solution",
+        "condition"
+      ],
+      "meaning": "服务是否有用，取决于使用者能否在实际需要时完成任务。",
+      "form": "remove a barrier to + 名词/动名词；make a service easier to use；provide an alternative",
+      "formZh": "用remove a barrier to说明消除哪种使用障碍；用easier to use说明便利性；用provide an alternative给替代渠道。",
+      "usage": "从时间、说明、设备或语言等具体障碍分析，建议应针对障碍。",
+      "boundary": "宣传服务不等于使服务可用；不能默认所有学生具有相同时间或设备。",
+      "example": "An evening collection period could remove a scheduling barrier for students who have classes during the day.",
+      "exampleZh": "晚间取用时段可为白天有课的学生消除时间安排上的障碍。",
+      "recall": {
+        "prompt": "用remove a barrier to写出一个具体的服务改进目标。",
+        "reference": "Clear instructions can remove a barrier to using an unfamiliar service.",
+        "referenceZh": "清晰说明可消除使用陌生服务时的一项障碍。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "学生预约系统只接受一种设备：写2句改进建议，说明不同使用条件。",
+        "reference": "Campus staff could offer a browser-based form as well as the mobile option. A service desk could help students who cannot access either channel.",
+        "referenceZh": "校园工作人员可以在手机渠道之外提供浏览器表单。服务台可以帮助两种渠道都无法使用的学生。",
+        "criteria": [
+          "措施处理设备障碍",
+          "保留替代渠道",
+          "不泛称改善所有服务"
+        ]
+      },
+      "contrast": {
+        "wrong": "The university should advertise the service more, so every student can use it.",
+        "wrongZh": "大学应更多宣传服务，这样每个学生都能使用。",
+        "better": "The university should check which devices students can access and provide a workable alternative.",
+        "betterZh": "大学应核查学生能使用哪些设备，并提供可行的替代方式。",
+        "reason": "原句是证据与机制问题：广告不能自动消除设备障碍；改句回应具体限制。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2022-06-library-services",
+        "cet4-2021-12-orientation"
+      ],
+      "relatedExpressionIds": [
+        "cet4-library-1"
+      ],
+      "sourceIds": [
+        "exam-library-proposal",
+        "exam-campus-writing"
+      ]
+    },
+    {
+      "id": "kt-campus-activity",
+      "title": "校园：说明活动如何让人参与",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "campus"
+      ],
+      "functionIds": [
+        "reader",
+        "sequence",
+        "example"
+      ],
+      "meaning": "活动设计需要任务、分工与参与入口，不只写有意义。",
+      "form": "give participants an opportunity to + 动词；assign a manageable role；start with + 名词",
+      "formZh": "用give participants an opportunity to说明参与者有机会做什么；分配可承担的角色，并说明从什么开始。",
+      "usage": "说明初学者怎样加入、做什么和怎样取得反馈；不同角色可以支持不同参与需要。",
+      "boundary": "提供机会不等于所有人都参加或学到同样内容；不要强迫学生分享不愿公开的经历。",
+      "example": "A beginner's session could start with a short demonstration and give participants an opportunity to practise one simple task.",
+      "exampleZh": "面向初学者的活动可以从简短演示开始，让参与者有机会练习一项简单任务。",
+      "recall": {
+        "prompt": "写出“给参加者一次练习机会”的完整英语句子。",
+        "reference": "The session gives participants an opportunity to practise a manageable task.",
+        "referenceZh": "活动让参与者有机会练习一项可承担的任务。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "校园书籍交流活动如何让第一次参加的人加入？写2句具体安排。",
+        "reference": "New participants could begin by introducing one book in pairs rather than speaking to the whole room. A host could then invite volunteers to share a short recommendation.",
+        "referenceZh": "新参与者可以先两人一组介绍一本书，而非面对全场发言。主持人随后可以邀请自愿者分享简短推荐。",
+        "criteria": [
+          "为新参加者提供具体入口",
+          "流程前后相连",
+          "不保证每个人愿意发言"
+        ]
+      },
+      "contrast": {
+        "wrong": "The activity will make all students confident and successful.",
+        "wrongZh": "活动将使所有学生自信且成功。",
+        "better": "A short paired discussion can offer a manageable first step for students who are not ready to speak to the whole group.",
+        "betterZh": "简短的两人讨论可为还没准备好面对全体发言的学生提供容易迈出的第一步。",
+        "reason": "原句语法正确但效果承诺过大；改句说明参与方式与人群边界。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2023-12-campus-event",
+        "cet4-2021-12-orientation"
+      ],
+      "relatedExpressionIds": [
+        "cet4-event-2"
+      ],
+      "sourceIds": [
+        "exam-team",
+        "exam-campus-writing"
+      ]
+    },
+    {
+      "id": "kt-technology-source",
+      "title": "科技：先检查主张与原始来源",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "technology"
+      ],
+      "functionIds": [
+        "evidence",
+        "sequence",
+        "precision"
+      ],
+      "meaning": "区分信息内容、传播热度和来源质量；传播多不等于可靠。",
+      "form": "trace a claim to its source；check whether + 从句；distinguish popularity from reliability",
+      "formZh": "用trace a claim to its source追溯说法来源，用check whether核查内容，并区分传播热度与可靠性。",
+      "usage": "讨论数字素养时，写出查找出处、日期、依据和与主张是否相符的步骤。",
+      "boundary": "有出处不自动等于真实；不能凭账号知名度保证全部信息可靠。别编造查证结果。",
+      "example": "Before sharing a claim, users can trace it to its source and check whether the source actually supports the statement.",
+      "exampleZh": "分享某种说法前，使用者可追溯来源，并检查来源是否真正支持该说法。",
+      "recall": {
+        "prompt": "不看示例，写出“把主张追溯到来源”的英语结构。",
+        "reference": "trace a claim to its source",
+        "referenceZh": "追溯某种说法的来源。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "网帖只截取图表一角：写2句查验行动，不先判定真假。",
+        "reference": "The reader should look for the full chart and check its date, units and source. A cropped image may omit information needed to interpret the claim.",
+        "referenceZh": "读者应查找完整图表，核对日期、单位和来源。裁剪图片可能省略解释该说法所需的信息。",
+        "criteria": [
+          "先寻找原材料",
+          "检查单位时间与范围",
+          "不凭片段作确定结论"
+        ]
+      },
+      "contrast": {
+        "wrong": "Thousands of people shared the claim, so it must be true.",
+        "wrongZh": "数千人分享了这种说法，所以它一定是真的。",
+        "better": "Frequent sharing shows that a claim attracted attention; its accuracy still needs to be checked.",
+        "betterZh": "频繁分享说明某种说法引起了关注；准确性仍需核查。",
+        "reason": "原句语法正确但将热度当真伪证据；改句区分两者。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_digital_literacy",
+        "cet6_2025_06_responsible_social_media"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_digital_literacy_e2",
+        "cet6_2025_06_responsible_social_media_e1"
+      ],
+      "sourceIds": [
+        "exam-technology",
+        "exam-social-media"
+      ]
+    },
+    {
+      "id": "kt-technology-tools",
+      "title": "科技：保留人的判断任务",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "technology"
+      ],
+      "functionIds": [
+        "define",
+        "condition",
+        "concession"
+      ],
+      "meaning": "说明工具承担哪些步骤，使用者仍要作哪些判断，避免把效率与理解混为一谈。",
+      "form": "use a tool to + 动词；remain responsible for + 动名词；compare rather than accept",
+      "formZh": "用use a tool to说明工具用途，remain responsible for说明仍应承担的责任；比较输出，而非直接接受。",
+      "usage": "用于AI或自动化讨论，先明确任务，再解释核对和选择如何由人完成。",
+      "boundary": "工具辅助并非天然削弱能力，完全代做也不等于学会；不承诺一种提示方法解决所有风险。",
+      "example": "A writer could use a tool to generate alternatives while remaining responsible for checking the facts and choosing a suitable version.",
+      "exampleZh": "写作者可以用工具生成不同方案，同时仍负责核查事实并选择合适版本。",
+      "recall": {
+        "prompt": "用remain responsible for说明工具使用者还需做的工作。",
+        "reference": "Users remain responsible for checking whether an output fits the task.",
+        "referenceZh": "使用者仍负责检查输出是否符合任务。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "工具给出社团宣传海报方案：写2句说明人要怎样判断方案，而非直接接受。",
+        "reference": "The group could compare the proposed layouts against the audience's needs. Members should check readability and factual details before choosing or revising a design.",
+        "referenceZh": "小组可以根据受众需求比较拟议布局。成员应在选择或修改设计前核查可读性和事实细节。",
+        "criteria": [
+          "具体任务与判断标准",
+          "人完成检查与选择",
+          "不把工具输出当事实保证"
+        ]
+      },
+      "contrast": {
+        "wrong": "The tool produced the text, so the writer has no responsibility for its errors.",
+        "wrongZh": "文字是工具生成的，所以写作者不必为其中的错误负责。",
+        "better": "Even when a tool produces a draft, the writer remains responsible for checking and revising it.",
+        "betterZh": "即使工具生成了草稿，写作者仍负责检查和修改。",
+        "reason": "原句是责任推断错误；生成过程不能取消发布者对使用内容的检查责任。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2025_06_ai_creativity"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2025_06_ai_creativity_e2",
+        "cet6_2025_06_ai_creativity_e3"
+      ],
+      "sourceIds": [
+        "exam-ai",
+        "exam-technology"
+      ]
+    },
+    {
+      "id": "kt-career-evidence",
+      "title": "职业：用过程材料展示能力",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "career"
+      ],
+      "functionIds": [
+        "evidence",
+        "example",
+        "reader"
+      ],
+      "meaning": "把能力主张接到可理解的作品、行动和改进过程，不只罗列自我赞美。",
+      "form": "demonstrate a skill through + 材料/行动；explain how + 从句；document a revision",
+      "formZh": "用demonstrate a skill through说明以什么材料或行动展示技能，用explain how解释过程，并记录修改。",
+      "usage": "选择与岗位有关的任务，说明自己做了什么、为什么调整和如何判断结果。",
+      "boundary": "一个作品不保证胜任所有工作；不得捏造实习、职位或统计；没有经历可写拟议练习方案。",
+      "example": "An applicant can demonstrate problem-solving through a short account of how a design changed after user feedback.",
+      "exampleZh": "申请者可简述设计如何因用户反馈而改变，以展示解决问题的能力。",
+      "recall": {
+        "prompt": "写出“通过一项材料展示技能”的英语结构。",
+        "reference": "demonstrate a skill through a specific piece of work",
+        "referenceZh": "通过一份具体作品展示技能。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "想申请活动助理但没有实习：写2句合理准备行动，不虚构履历。",
+        "reference": "The student could prepare a sample event timetable and explain how it handles conflicting needs. Revising it after feedback would provide a concrete example to discuss in an interview.",
+        "referenceZh": "学生可以准备一份活动日程样例，解释它如何处理相互冲突的需求。根据反馈修改日程，会提供一个可在面试中讨论的具体例子。",
+        "criteria": [
+          "不伪造已有履历",
+          "材料与活动助理任务相关",
+          "说明反馈后的修改"
+        ]
+      },
+      "contrast": {
+        "wrong": "I am excellent at every task and will always succeed.",
+        "wrongZh": "我每项任务都很出色，而且永远会成功。",
+        "better": "A revised timetable can show how I identified a conflict and adjusted the plan.",
+        "betterZh": "修改后的日程可展示我如何识别冲突并调整计划。",
+        "reason": "原句语法可成立但无证据且范围过大；改句限定能力与过程材料。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2025_06_career_preparation"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2025_06_career_preparation_e3"
+      ],
+      "sourceIds": [
+        "exam-career"
+      ]
+    },
+    {
+      "id": "kt-career-adapt",
+      "title": "职业：把技能缺口变成练习计划",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "career"
+      ],
+      "functionIds": [
+        "define",
+        "sequence",
+        "solution"
+      ],
+      "meaning": "根据任务要求识别不足，选有针对性的练习与反馈，避免只搜集证书。",
+      "form": "identify a gap between A and B；practise a task；review progress against + 标准",
+      "formZh": "用identify a gap between A and B识别差距；练习具体任务，并按标准检查进展。",
+      "usage": "写清目标任务、当前能力和下一步可实践内容；把学习与使用连接。",
+      "boundary": "岗位广告不等于全部职业价值；证书有时必要，但不能单凭数量推出实际能力。",
+      "example": "A student could compare a job's writing requirements with a sample report, identify one weakness and choose a focused task to practise.",
+      "exampleZh": "学生可以将岗位写作要求与报告样例比较，识别一个弱点，再选一项针对性任务练习。",
+      "recall": {
+        "prompt": "写出“按明确标准检查进展”的英语结构。",
+        "reference": "review progress against clear criteria",
+        "referenceZh": "根据清晰标准检查进展。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "兼职岗位需要协调预约：写3步准备计划，避免泛称努力学习。",
+        "reference": "First, identify the scheduling tasks the role requires. Next, practise resolving conflicts in a sample timetable. Finally, ask a reviewer to check whether the revised plan is clear and workable.",
+        "referenceZh": "先识别岗位要求的日程安排任务，再用样例时间表练习解决冲突；最后请审核者检查修改后的计划是否清晰可行。",
+        "criteria": [
+          "任务要求具体",
+          "练习与要求对应",
+          "有检查标准"
+        ]
+      },
+      "contrast": {
+        "wrong": "Collecting more certificates always proves better workplace performance.",
+        "wrongZh": "收集更多证书总能证明更好的工作表现。",
+        "better": "Relevant certificates may show completed training, while a practical task can provide evidence of how the skill is used.",
+        "betterZh": "相关证书可能表明已完成培训，而实际任务可提供技能运用的证据。",
+        "reason": "原句语法正确但将证书数与表现直接等同；改句区分训练经历与任务能力。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2025_06_career_preparation"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2025_06_career_preparation_e1"
+      ],
+      "sourceIds": [
+        "exam-career",
+        "exam-learning"
+      ]
+    },
+    {
+      "id": "kt-environment-lifetime",
+      "title": "环保：优先减少可避免的替换",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "environment"
+      ],
+      "functionIds": [
+        "mechanism",
+        "example",
+        "condition"
+      ],
+      "meaning": "解释维修、再使用或适量购买如何减少浪费，同时考虑安全与用途。",
+      "form": "extend the useful life of + 物品；reduce the need to replace + 物品；when safe and practical",
+      "formZh": "说明延长物品使用寿命、减少更换需要；用when safe and practical限定安全与可行条件。",
+      "usage": "选择一种物品，说清为什么仍可使用及哪项行动能延长寿命。",
+      "boundary": "不主张修复有安全风险或必须更新的设备；再使用不自动代表全生命周期更环保，未有数据不比较排放。",
+      "example": "Replacing a loose button can extend the useful life of a coat that is otherwise in good condition.",
+      "exampleZh": "外套其他部分完好时，更换一颗松脱的纽扣可延长它的使用寿命。",
+      "recall": {
+        "prompt": "用extend the useful life of写一句具体维修情境。",
+        "reference": "A simple repair can extend the useful life of a bag when the main material is still sound.",
+        "referenceZh": "当包的主体材料仍完好时，简单维修可延长其使用寿命。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "食堂活动准备一次性展示牌：写2句减少替换的方案，别捏造减碳比例。",
+        "reference": "Organisers could use signs with replaceable paper inserts instead of making a new board for each event. The frame could then be reused when the information changes.",
+        "referenceZh": "组织者可以使用能更换纸质内页的标牌，而非每场活动都制作新板。信息变化时，框架就可以再次使用。",
+        "criteria": [
+          "措施减少具体替换",
+          "说明哪部分可重复用",
+          "不虚构环境统计"
+        ]
+      },
+      "contrast": {
+        "wrong": "We should keep using every broken product forever.",
+        "wrongZh": "我们应该永远继续使用每一件损坏的产品。",
+        "better": "Repair or reuse can reduce replacement when the item remains safe and suitable for its purpose.",
+        "betterZh": "物品仍安全且适合用途时，维修或再利用可减少更换。",
+        "reason": "原句是过度绝对化，忽略安全和用途；改句限定适用条件。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2022_06_environmental_lifestyle"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2022_06_environmental_lifestyle_e2"
+      ],
+      "sourceIds": [
+        "exam-environment",
+        "book-writing-sample"
+      ]
+    },
+    {
+      "id": "kt-environment-design",
+      "title": "环保：让合适的选择实际可用",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "environment"
+      ],
+      "functionIds": [
+        "solution",
+        "condition",
+        "mechanism"
+      ],
+      "meaning": "日常行动需要便利设施、说明与维护；不把全部责任推给个人意识。",
+      "form": "make an option convenient；provide access to + 设施；maintain + 名词",
+      "formZh": "用convenient说明选择的便利性，用provide access to说明设施可用性，用maintain说明维护。",
+      "usage": "从实际障碍分析，如找不到设施、距离太远或设备失修；提出能改变行动条件的设计。",
+      "boundary": "方便不保证人人使用；系统支持与个人责任可同时讨论。没有测量不承诺总体环境收益。",
+      "example": "A clearly marked refill point can make carrying a reusable bottle more practical during a long campus day.",
+      "exampleZh": "在校园度过较长一天时，清楚标示的补水点可让携带可重复使用的水瓶更方便。",
+      "recall": {
+        "prompt": "写一句make + 宾语 + convenient结构，说明一种环保选择。",
+        "reference": "Accessible refill points can make using a reusable bottle convenient.",
+        "referenceZh": "容易到达的补水点可让使用可重复使用的水瓶更方便。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "回收点藏在偏僻角落且标识不清：写2句设计建议，说明谁维护。",
+        "reference": "Campus staff could place clearly labelled collection points along common routes. Staff would also need to check the bins regularly and keep the instructions readable.",
+        "referenceZh": "校园工作人员可以沿常用路线设置清楚标示的收集点。工作人员还需定期检查收集箱，并保持说明清晰可读。",
+        "criteria": [
+          "措施对应位置和标识障碍",
+          "维护者明确",
+          "不只喊提高意识"
+        ]
+      },
+      "contrast": {
+        "wrong": "Students lack awareness, so waste is entirely their fault.",
+        "wrongZh": "学生缺乏意识，所以浪费完全是他们的错。",
+        "better": "Clear labels and convenient collection points can support responsible disposal alongside students' own efforts.",
+        "betterZh": "清晰标签和便捷收集点可配合学生自身努力，支持负责任地处理废弃物。",
+        "reason": "原句归因过度且把环境条件遗漏；改句加入系统与个人的共同作用。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2022_06_environmental_lifestyle"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2022_06_environmental_lifestyle_e3"
+      ],
+      "sourceIds": [
+        "exam-environment"
+      ]
+    },
+    {
+      "id": "kt-health-routine",
+      "title": "健康：用现实安排回应日常需要",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "health"
+      ],
+      "functionIds": [
+        "condition",
+        "solution",
+        "precision"
+      ],
+      "meaning": "在日常身心健康主题中写具体可行安排，不用一种习惯承诺解决所有困难。",
+      "form": "make time for + 活动；fit + 活动 + into + 日程；adapt ... to ...",
+      "formZh": "用make time for安排活动时间，用fit ... into把活动放入日程，用adapt ... to按条件调整。",
+      "usage": "考虑时间、偏好和可及性，说明某安排怎样更容易持续；写作示例不替代医疗建议。",
+      "boundary": "健康效果因人而异；不写治愈或必定改善，不据情境诊断失眠、焦虑等疾病。",
+      "example": "A brief outdoor break may be easier to fit into a busy day than an activity that requires a long journey.",
+      "exampleZh": "短暂的户外休息可能比需要长途出行的活动更容易安排进忙碌的一天。",
+      "recall": {
+        "prompt": "用fit ... into写一句现实的活动安排。",
+        "reference": "A short walk can be fitted into a lunch break if the route is accessible.",
+        "referenceZh": "如果路线方便到达，午休时可以安排短暂步行。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "讨论忙碌学生日常休息：写2句有条件安排，包含个人差异。",
+        "reference": "Students could set aside a short break between demanding tasks and choose an activity they find comfortable. The timing and form should be adapted to their workload and individual needs.",
+        "referenceZh": "学生可以在高强度任务之间留出短暂休息，并选择让自己舒适的活动。时间和形式应按工作量及个人需要调整。",
+        "criteria": [
+          "安排具体且现实",
+          "承认个人差异",
+          "不作治疗承诺"
+        ]
+      },
+      "contrast": {
+        "wrong": "Taking a walk guarantees good mental health for everyone.",
+        "wrongZh": "散步保证每个人都有良好的心理健康。",
+        "better": "A suitable outdoor break may support everyday well-being, but individual needs and other forms of support still matter.",
+        "betterZh": "合适的户外休息可能支持日常身心状态，但个人需求和其他支持方式仍然重要。",
+        "reason": "原句无依据保证所有人健康；改句限定日常作用并保留差异。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2023_06_mental_wellbeing"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2023_06_mental_wellbeing_e2"
+      ],
+      "sourceIds": [
+        "exam-health"
+      ]
+    },
+    {
+      "id": "kt-health-support",
+      "title": "健康：支持需要可找到也可使用",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "health"
+      ],
+      "functionIds": [
+        "define",
+        "solution",
+        "reader"
+      ],
+      "meaning": "支持不只有宣传口号，还需清楚入口、合适时间和尊重隐私的流程。",
+      "form": "make support accessible；explain how to contact + 服务；respect a person's privacy",
+      "formZh": "说明让支持服务便于使用、如何联系服务，以及如何尊重个人隐私。",
+      "usage": "说明需要帮助的人如何找到服务；讨论服务安排时关注费用、时间和沟通方式。",
+      "boundary": "不能要求公开私人问题或把同伴支持写成替代所有专业服务；appropriate取决于情境。",
+      "example": "A clear contact page can show students how to request support without asking them to disclose personal details in a public forum.",
+      "exampleZh": "清晰的联系页面可告诉学生如何寻求支持，而无需在公开论坛披露个人细节。",
+      "recall": {
+        "prompt": "用make support accessible写一句具体服务条件。",
+        "reference": "Flexible appointment times can help make support accessible to students with different schedules.",
+        "referenceZh": "灵活的预约时间可帮助不同日程的学生更容易获得支持。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "校园帮助热线只有宣传标题无使用说明：写2句改进，注意隐私。",
+        "reference": "The notice should explain the contact method and the hours when a response is available. Students should be able to ask initial questions privately rather than post sensitive details in a public group.",
+        "referenceZh": "通知应说明联系方法和可获得回复的时段。学生应能私下询问初步问题，而不是在公开群组发布敏感细节。",
+        "criteria": [
+          "入口与服务时间明确",
+          "提供私密初步询问",
+          "不保证服务解决全部问题"
+        ]
+      },
+      "contrast": {
+        "wrong": "Students should announce all their problems online so that everyone can help.",
+        "wrongZh": "学生应在网上公开所有问题，让每个人都能帮助他们。",
+        "better": "Students should have a private way to ask for appropriate support.",
+        "betterZh": "学生应有私下寻求适当支持的途径。",
+        "reason": "原句语法可成立但忽略隐私与意愿；改句为求助提供合适渠道。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2023_06_mental_wellbeing"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2023_06_mental_wellbeing_e3"
+      ],
+      "sourceIds": [
+        "exam-health"
+      ]
+    },
+    {
+      "id": "kt-relationships-perspective",
+      "title": "沟通：先准确理解对方的顾虑",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "relationships"
+      ],
+      "functionIds": [
+        "define",
+        "concession",
+        "reader"
+      ],
+      "meaning": "理解对方观点需要确认其理由，而不是先替对方贴标签。",
+      "form": "ask what matters to + 人；check whether + 理解；acknowledge a concern without + 动名词",
+      "formZh": "用ask what matters to询问对方在意什么，用check whether核实理解；acknowledge ... without doing表示“承认顾虑而不做某事”。",
+      "usage": "适合分歧或关系处理：先提问和复述，再讨论可改变的安排。",
+      "boundary": "理解不等于接受不合理要求；不能保证尊重必然得到回报，也不要求忍受伤害。",
+      "example": "A student can check whether the teacher's concern is about the deadline or the quality of the work before suggesting a change.",
+      "exampleZh": "学生可先确认教师担心的是截止时间还是作品质量，再提出调整建议。",
+      "recall": {
+        "prompt": "写出“确认对方顾虑是什么”的英语句子。",
+        "reference": "We can ask what matters most to the other person before proposing a solution.",
+        "referenceZh": "提出方案前，我们可以先询问对方最在意什么。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "室友因晚间噪声有分歧：写2句先确认需求再提出讨论入口。",
+        "reference": "The roommates could clarify when each person needs quiet and which activities create the disturbance. They could then discuss a schedule that addresses those specific needs.",
+        "referenceZh": "室友可以明确各自何时需要安静，以及哪些活动造成打扰，再讨论回应这些具体需求的时间安排。",
+        "criteria": [
+          "先确认具体需求",
+          "没有替任何一方贴标签",
+          "方案与噪声时段关联"
+        ]
+      },
+      "contrast": {
+        "wrong": "Anyone who disagrees with me is unreasonable.",
+        "wrongZh": "任何不同意我的人都不讲道理。",
+        "better": "A disagreement may reflect different needs, so it is useful to understand the other person's reasons.",
+        "betterZh": "分歧可能反映不同需求，因此了解对方的理由是有用的。",
+        "reason": "原句语法可成立但把分歧直接当品格缺陷；改句保留探究理由。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2023_06_friendly_discussion"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2023_06_friendly_discussion_e3"
+      ],
+      "sourceIds": [
+        "exam-relationships",
+        "exam-discussion",
+        "exam-ethics"
+      ]
+    },
+    {
+      "id": "kt-relationships-boundaries",
+      "title": "沟通：尊重与明确边界可以并存",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "relationships"
+      ],
+      "functionIds": [
+        "condition",
+        "solution",
+        "precision"
+      ],
+      "meaning": "合作需要说明能做什么、不能承诺什么以及可以提供的替代安排。",
+      "form": "be willing to + 动词；be unable to + 动词；offer an alternative；agree on + 具体事项",
+      "formZh": "用be willing to表达愿意做什么，用be unable to说明做不到什么；可给替代方案，并就具体事项达成一致。",
+      "usage": "用具体时间、责任或行为表达边界，避免只说永远支持或完全拒绝。",
+      "boundary": "边界不是拒绝倾听的借口；紧急安全情境不能只靠普通讨论，写作情景不构成个人关系咨询。",
+      "example": "A group member can offer to check the draft while explaining that they cannot take on another full section before the deadline.",
+      "exampleZh": "小组成员可以提出检查草稿，同时说明自己无法在截止日期前再负责完整的一部分。",
+      "recall": {
+        "prompt": "写一句既说明愿意帮助又限定可承担任务的英语。",
+        "reference": "I am willing to review the outline, but I cannot write another section before Friday.",
+        "referenceZh": "我愿意审核提纲，但无法在周五前再写一节。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "朋友请你代做全部作业：写2句尊重而明确的回应，并给替代帮助。",
+        "reference": "I cannot complete the assignment for you, but I can help you identify where you are stuck. We could discuss one example so that you can attempt the rest yourself.",
+        "referenceZh": "我无法替你完成作业，但可以帮你找出卡在哪里。我们可以讨论一个例子，让你自己尝试完成其余部分。",
+        "criteria": [
+          "不代做全部任务",
+          "明确可提供的帮助",
+          "语气尊重且没有无限承诺"
+        ]
+      },
+      "contrast": {
+        "wrong": "Being a good friend means agreeing to every request.",
+        "wrongZh": "做好朋友意味着答应每一个请求。",
+        "better": "A supportive friend can listen carefully while setting honest limits on what they can do.",
+        "betterZh": "支持朋友的人可以认真倾听，同时坦诚说明自己能做什么、不能做什么。",
+        "reason": "原句语法正确但把友好等同无条件服从；改句包含尊重和可承担边界。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2022_12_team_spirit"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2022_12_team_spirit_e1"
+      ],
+      "sourceIds": [
+        "exam-relationships",
+        "exam-team"
+      ]
+    },
+    {
+      "id": "kt-community-needs",
+      "title": "社区：先确认需要再提供帮助",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "community"
+      ],
+      "functionIds": [
+        "reader",
+        "evidence",
+        "solution"
+      ],
+      "meaning": "帮助以实际任务和受助者选择为起点，不用自己的偏好替对方决定。",
+      "form": "respond to an expressed need；ask whether help is wanted；match an activity with + 需要",
+      "formZh": "回应对方已表达的需求，先询问是否需要帮助，再将活动与需求对应。",
+      "usage": "具体说明向谁了解需要、如何调整任务与怎么检查是否有用。",
+      "boundary": "年龄、身份或困难不等于没有自主判断；不得未经同意操作设备、读取资料或公开个人情况。",
+      "example": "Volunteers could ask residents which tasks they want help with before designing a practice session.",
+      "exampleZh": "志愿者可以先询问居民想在哪些任务上得到帮助，再设计练习活动。",
+      "recall": {
+        "prompt": "用ask whether表达提供帮助前的一项确认。",
+        "reference": "Volunteers should ask whether help is wanted before taking over a task.",
+        "referenceZh": "志愿者在接手任务前，应先询问对方是否需要帮助。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "志愿者想替居民整理手机文件：写2句尊重意愿和隐私的做法。",
+        "reference": "The volunteer should first ask which task the resident wants to complete. Guidance can be offered while the resident controls the device, and private files should not be opened without permission.",
+        "referenceZh": "志愿者应先询问居民想完成哪项任务。可在居民自己操作设备时给予指导，未经许可不应打开私人文件。",
+        "criteria": [
+          "居民决定任务",
+          "保留操作自主权",
+          "保护私人资料"
+        ]
+      },
+      "contrast": {
+        "wrong": "Older residents cannot decide what they need, so volunteers should do everything.",
+        "wrongZh": "老年居民无法决定自己需要什么，所以志愿者应包办一切。",
+        "better": "Volunteers can ask residents about their priorities and offer help with the tasks they choose.",
+        "betterZh": "志愿者可以询问居民的优先事项，并帮助他们完成居民自己选择的任务。",
+        "reason": "原句是无依据年龄概括和自主权遗漏；改句以实际意愿为依据。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2023_12_elderly_contribution",
+        "cet6_2023_03_digital_gap_elderly"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2023_12_elderly_contribution_e3"
+      ],
+      "sourceIds": [
+        "exam-ethics",
+        "exam-technology"
+      ]
+    },
+    {
+      "id": "kt-community-continuity",
+      "title": "社区：让协作有清楚分工和后续",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "community"
+      ],
+      "functionIds": [
+        "sequence",
+        "condition",
+        "solution"
+      ],
+      "meaning": "服务能持续，需要可承担任务、交接与维护，而不是一次热情承诺。",
+      "form": "assign a clear role；hand over + 信息/责任；review whether + 从句",
+      "formZh": "分配清晰角色，交接信息或责任，并检查相关情况是否成立。",
+      "usage": "说明负责人、行动频率和反馈如何流向下一次安排；分工不意味着各做各的。",
+      "boundary": "不能把自愿服务写成无偿无限责任；有专业或安全要求的任务需要合适培训和监督。",
+      "example": "A rota can show who checks the shared equipment and how an unresolved problem is passed to the next organiser.",
+      "exampleZh": "值班表可说明谁检查共享设备，以及未解决的问题如何交给下一位组织者。",
+      "recall": {
+        "prompt": "写出“给成员分配清楚角色”的英语结构。",
+        "reference": "assign each member a clear role",
+        "referenceZh": "给每位成员分配清晰角色。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "社区交换活动计划每月举办：写2句分工和交接方案，避免承诺永远举办。",
+        "reference": "One organiser could record which items are available, while another checks the venue arrangements. A short handover note would allow the next group to see unfinished tasks before confirming another event.",
+        "referenceZh": "一名组织者可以记录哪些物品可用，另一名检查场地安排。简短交接说明会让下一组在确认下一场活动前看到未完成的任务。",
+        "criteria": [
+          "不同角色明确",
+          "有交接信息",
+          "后续安排取决于实际条件"
+        ]
+      },
+      "contrast": {
+        "wrong": "All volunteers should do all the work together forever.",
+        "wrongZh": "所有志愿者应该永远一起做所有工作。",
+        "better": "Volunteers can take manageable roles and record unfinished tasks for the next group.",
+        "betterZh": "志愿者可承担适量职责，并为下一组记录未完成的任务。",
+        "reason": "原句语法可成立但分工、负担和持续条件含糊；改句给出可承担协作方式。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2022_12_team_spirit"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2022_12_team_spirit_e2"
+      ],
+      "sourceIds": [
+        "exam-team",
+        "exam-ethics"
+      ]
+    },
+    {
+      "id": "kt-culture-context",
+      "title": "文化：解释背景而非排列高低",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "culture"
+      ],
+      "functionIds": [
+        "define",
+        "example",
+        "reader"
+      ],
+      "meaning": "帮助陌生读者理解一项实践或文本的背景、参与者意义和具体例子。",
+      "form": "explain the background of + 实践；understand a practice in its context；ask how + 从句",
+      "formZh": "解释某种做法的背景，在具体语境中理解它；用ask how询问过程或方式。",
+      "usage": "先问读者可能不理解什么，再选择必要背景；避免堆砌没有解释的专有名词。",
+      "boundary": "本单元为跨语言任务的文化教学拓展；不宣称某传统代表全部人群，也不作文化优劣排名。事实细节需另行核验。",
+      "example": "A museum label can explain how an object was used and why it mattered to the people who made it.",
+      "exampleZh": "博物馆说明牌可解释一件物品如何使用，以及它为何对制作者重要。",
+      "recall": {
+        "prompt": "写出“解释一项实践的背景”的英语结构。",
+        "reference": "explain the background of a cultural practice",
+        "referenceZh": "解释一种文化做法的背景。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "为不熟悉某传统工艺的访客写2句讲解方法；不编具体历史年代。",
+        "reference": "The guide could begin with the materials and the purpose of the object. A short demonstration could then show how the technique connects with everyday use.",
+        "referenceZh": "讲解员可以先介绍材料和物品用途，再用简短演示展示技法如何与日常使用相联系。",
+        "criteria": [
+          "回应陌生读者需要",
+          "背景与实物或行为关联",
+          "不捏造年代或代表性"
+        ]
+      },
+      "contrast": {
+        "wrong": "Our tradition is superior to every other culture.",
+        "wrongZh": "我们的传统比其他任何文化都优越。",
+        "better": "Explaining a tradition's context can help visitors understand its meaning without ranking different cultures.",
+        "betterZh": "解释传统的背景可帮助访客理解其含义，而不对不同文化排高低。",
+        "reason": "原句语法成立但作无依据优劣概括；改句讨论可完成的解释任务。"
+      },
+      "relatedQuestionIds": [],
+      "relatedExpressionIds": [],
+      "sourceIds": [
+        "exam-culture"
+      ]
+    },
+    {
+      "id": "kt-culture-participation",
+      "title": "文化：把欣赏转化为合适参与",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "culture"
+      ],
+      "functionIds": [
+        "condition",
+        "solution",
+        "concession"
+      ],
+      "meaning": "文化实践的参与需要准确解释、合适入口和对参与者意愿的尊重。",
+      "form": "make a practice accessible to + 人；invite people to + 动词；preserve meaning while + 动名词",
+      "formZh": "让某种做法便于特定人群参与，邀请他们做具体行动，并在做某事时保留其含义。",
+      "usage": "说明新参与者如何提问、观察或尝试，同时哪些意义和规则需先理解。",
+      "boundary": "公开推广不等于可以擅自改写、占有或公开私人实践；不要把所有传统都当静止不变。具体禁忌需要真实出处。",
+      "example": "A craft workshop could welcome beginners with a short explanation before inviting them to try a suitable step.",
+      "exampleZh": "手工艺工作坊可以先作简短解释，欢迎初学者，再邀请他们尝试一个合适步骤。",
+      "recall": {
+        "prompt": "用invite people to写一句合适的文化参与安排。",
+        "reference": "The workshop can invite visitors to try one suitable step after explaining its purpose.",
+        "referenceZh": "工作坊可在解释目的后，邀请访客尝试一个合适步骤。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "设计文学交流活动：写2句让初次参加者分享理解，避免只有老师公布唯一解释。",
+        "reference": "Participants could read a short passage and explain which detail shaped their interpretation. The host could invite different readings while asking everyone to connect a view with the text.",
+        "referenceZh": "参与者可以读一小段文字，并说明哪个细节影响了自己的解读。主持人可以邀请不同解读，同时请每个人把观点与文本联系起来。",
+        "criteria": [
+          "参与任务具体",
+          "允许不同解释",
+          "观点仍需对应文本"
+        ]
+      },
+      "contrast": {
+        "wrong": "Visitors must copy every practice exactly or they do not respect the culture.",
+        "wrongZh": "访客必须原样照做每种文化做法，否则就是不尊重文化。",
+        "better": "Visitors can ask about a practice's meaning and follow the requirements that are relevant to the activity.",
+        "betterZh": "访客可以询问某种做法的含义，并遵守与该活动相关的要求。",
+        "reason": "原句语法可成立但把尊重化约为完全模仿；改句关注理解和相关要求。"
+      },
+      "relatedQuestionIds": [],
+      "relatedExpressionIds": [],
+      "sourceIds": [
+        "exam-culture",
+        "exam-relationships"
+      ]
+    },
+    {
+      "id": "kt-consumption-value",
+      "title": "消费：比较总成本和实际用途",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "consumption"
+      ],
+      "functionIds": [
+        "contrast",
+        "condition",
+        "precision"
+      ],
+      "meaning": "价格只是一个维度；使用频率、维护和是否满足需要也影响价值判断。",
+      "form": "compare the total cost of A and B；meet a specific need；be good value if + 条件",
+      "formZh": "比较两种选择的总成本，明确具体需求；用if说明在什么条件下物有所值。",
+      "usage": "从具体购买情景选择标准，不把低价、品牌或选项多自动等同更好。",
+      "boundary": "这是日常写作取舍训练，不是金融投资建议；没有数据不能断言某商品更耐用或某品牌最佳。",
+      "example": "A reusable item may offer good value if it suits the user's needs and will be used often enough.",
+      "exampleZh": "可重复使用的物品若适合使用者需求，且使用频率足够高，就可能物有所值。",
+      "recall": {
+        "prompt": "写出“比较两个选项总成本”的英语结构。",
+        "reference": "compare the total cost of two options",
+        "referenceZh": "比较两种选择的总成本。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "比较便宜但需频繁替换的记事本与可补充页的本子：写2句，保留使用需求条件。",
+        "reference": "The lower initial price may suit someone who needs only a few pages. For a frequent user, a refillable notebook could be worth considering if replacement pages are affordable and available.",
+        "referenceZh": "较低的初始价格可能适合只需几页纸的人。对经常使用的人，如果替换内页价格合适且买得到，活页笔记本可能值得考虑。",
+        "criteria": [
+          "区分初始价和持续成本",
+          "结论取决于使用频率",
+          "不编实际价格或耐用年限"
+        ]
+      },
+      "contrast": {
+        "wrong": "The cheapest product is always the best choice.",
+        "wrongZh": "最便宜的产品总是最佳选择。",
+        "better": "A low-priced product can be good value when it meets the intended need without adding frequent replacement costs.",
+        "betterZh": "低价产品若满足预定需求，又不增加频繁更换的成本，就可以物有所值。",
+        "reason": "原句语法成立但单一标准绝对化；改句比较用途与持续成本。"
+      },
+      "relatedQuestionIds": [],
+      "relatedExpressionIds": [],
+      "sourceIds": [
+        "book-writing-sample"
+      ]
+    },
+    {
+      "id": "kt-consumption-information",
+      "title": "消费：从促销信息回到真实需要",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "consumption"
+      ],
+      "functionIds": [
+        "evidence",
+        "sequence",
+        "condition"
+      ],
+      "meaning": "把吸引注意的包装、折扣或热度与可核实的商品信息分开。",
+      "form": "check the conditions of + 优惠；compare details rather than slogans；avoid an unnecessary purchase",
+      "formZh": "核查优惠条件，比较具体信息而非宣传口号，避免不必要的购买。",
+      "usage": "先确定用途，再检查尺寸、材料、退换条件等相关信息；评论和广告也须看来源。",
+      "boundary": "不说所有广告都欺骗或所有网购都危险；低价和限时文字不证明有购买必要。",
+      "example": "A buyer can check whether a discount applies to the item they need instead of assuming that every promotion saves money.",
+      "exampleZh": "买家可检查折扣是否适用于所需物品，而不假定每次促销都省钱。",
+      "recall": {
+        "prompt": "写一句“检查优惠条件而非只看口号”的英语。",
+        "reference": "Buyers should check the conditions of an offer rather than rely only on the promotional slogan.",
+        "referenceZh": "买家应核查优惠条件，而非只依赖宣传口号。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "网店催促“最后机会”，但你尚不确定商品尺寸：写2句理性行动，别泛称抵制所有广告。",
+        "reference": "The buyer should check the size information and return conditions before deciding. A time-limited message does not remove the need to know whether the item is suitable.",
+        "referenceZh": "买家应在决定前核查尺寸信息和退货条件。限时消息并不能免除确认物品是否合适的需要。",
+        "criteria": [
+          "核查与用途有关的信息",
+          "不被时限替代判断",
+          "不把所有商家负面化"
+        ]
+      },
+      "contrast": {
+        "wrong": "A large discount means the item is necessary.",
+        "wrongZh": "折扣大就意味着物品有必要买。",
+        "better": "A discount may lower the price, but the buyer still needs to decide whether the item serves a real purpose.",
+        "betterZh": "折扣可能降低价格，但买家仍需判断物品是否满足真实用途。",
+        "reason": "原句语法成立但把优惠与需求混淆；改句区分价格作用和使用需要。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_digital_literacy"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2024_06_digital_literacy_e2"
+      ],
+      "sourceIds": [
+        "book-writing-sample",
+        "exam-technology"
+      ]
+    },
+    {
+      "id": "kt-ethics-attribution",
+      "title": "诚信：分清他人的观点和自己的判断",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "ethics"
+      ],
+      "functionIds": [
+        "evidence",
+        "precision",
+        "define"
+      ],
+      "meaning": "说明信息来自哪里、自己如何理解和改写，不把他人成果伪装成自己的事实或经验。",
+      "form": "identify the source of + 内容；distinguish quotation from interpretation；acknowledge assistance",
+      "formZh": "标明内容来源，区分引文与自己的解释，并说明获得过的帮助。",
+      "usage": "使用材料时保留出处，在任务允许范围内解释而非复制；工具协助也应按相应任务规则处理。",
+      "boundary": "考试短文不必机械套学术引用格式，除非题目要求；不虚构名人名言、调查、亲历或来源。",
+      "example": "A student can identify the source of a claim and explain which part is an interpretation rather than a direct quotation.",
+      "exampleZh": "学生可标明某种说法的来源，并说明哪部分是解释、而非直接引文。",
+      "recall": {
+        "prompt": "写出“说明一项主张来源”的英语结构。",
+        "reference": "identify the source of a claim",
+        "referenceZh": "标明某种说法的来源。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "社团展示引用网上制作方法：写2句说明如何诚实呈现资料与改动。",
+        "reference": "The group should acknowledge where the method was found and explain how it was adapted for the demonstration. Changes made by the group should be distinguished from the original instructions.",
+        "referenceZh": "小组应说明从哪里找到方法，以及如何为演示调整它。小组所作修改应与原始说明区分开。",
+        "criteria": [
+          "标明材料来源",
+          "区分原方法与改动",
+          "不要求无意义复杂格式"
+        ]
+      },
+      "contrast": {
+        "wrong": "Changing a few words makes someone else's idea entirely my own.",
+        "wrongZh": "改几个词就能让别人的想法完全变成我自己的。",
+        "better": "Rephrasing an idea does not remove the need to acknowledge its source when attribution is required.",
+        "betterZh": "在需要注明来源时，改述某个观点并不能免除注明来源的责任。",
+        "reason": "原句语法可成立但混淆改写与原创；改句根据任务规则保留来源责任。"
+      },
+      "relatedQuestionIds": [
+        "cet4-2025-12-academic-writing"
+      ],
+      "relatedExpressionIds": [
+        "cet4-academic-1"
+      ],
+      "sourceIds": [
+        "exam-campus-writing",
+        "exam-ethics"
+      ]
+    },
+    {
+      "id": "kt-ethics-consent",
+      "title": "责任：取得同意并说明使用范围",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "ethics"
+      ],
+      "functionIds": [
+        "condition",
+        "reader",
+        "solution"
+      ],
+      "meaning": "涉及他人的信息或作品时，明确用途和范围，允许对方作出真实选择。",
+      "form": "obtain consent before + 动名词；explain how + 信息将被使用；respect a refusal",
+      "formZh": "做某事前先取得同意，说明信息将如何使用，并尊重拒绝。",
+      "usage": "讨论照片、故事或共同成果公开时，先说明会向谁展示、用于什么，再获得相应同意。",
+      "boundary": "一次同意不自动包含全部未来用途；公开可见不等于可以任意转用。具体法律规定需另查，本单元不是法律意见。",
+      "example": "Organisers should explain how an event photograph will be used before asking participants whether it may be posted.",
+      "exampleZh": "组织者应先解释活动照片将如何使用，再询问参与者是否允许发布。",
+      "recall": {
+        "prompt": "用obtain consent before写出公开信息前的行动。",
+        "reference": "Obtain consent before posting a photograph that identifies another person.",
+        "referenceZh": "发布能识别他人身份的照片前，先取得同意。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "社团想公开成员的个人故事：写2句尊重同意及拒绝的安排。",
+        "reference": "The organiser should explain where the story would appear and ask which details the member is willing to share. A refusal should not prevent the member from taking part in other activities.",
+        "referenceZh": "组织者应解释故事将在哪里出现，并询问成员愿意分享哪些细节。拒绝不应妨碍该成员参加其他活动。",
+        "criteria": [
+          "用途范围明确",
+          "本人选择哪些细节",
+          "拒绝不等于失去普通参与机会"
+        ]
+      },
+      "contrast": {
+        "wrong": "Joining the club means agreeing to every future use of personal information.",
+        "wrongZh": "加入社团就意味着同意今后所有个人信息使用方式。",
+        "better": "Club participation does not by itself establish permission to publish personal details for any purpose.",
+        "betterZh": "参与社团本身，并不代表允许出于任何目的发布个人细节。",
+        "reason": "原句语法成立但把加入组织推成无限授权；改句限定同意范围。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2025_06_responsible_social_media"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2025_06_responsible_social_media_e2"
+      ],
+      "sourceIds": [
+        "exam-social-media",
+        "exam-ethics"
+      ]
+    },
+    {
+      "id": "kt-habits-routine",
+      "title": "习惯：让行动有明确入口和可承担尺度",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "habits"
+      ],
+      "functionIds": [
+        "sequence",
+        "condition",
+        "solution"
+      ],
+      "meaning": "计划需要可识别时间、地点或前置动作，以及一次能完成的小任务。",
+      "form": "set aside time for + 活动；start with a manageable step；link an action to + 情境",
+      "formZh": "为活动留出时间，从可承担的小步骤开始，并将行动与具体情境连接。",
+      "usage": "把“每天努力”改成什么时候做什么，并留有不适合当天条件时的调整方式。",
+      "boundary": "这是行为计划表达训练，不保证固定天数形成习惯，也不要求学习者每天无限增加负担。",
+      "example": "A student could set aside a few minutes after drafting to check one recurring spelling problem.",
+      "exampleZh": "学生可以在写完草稿后留出几分钟，检查一个反复出现的拼写问题。",
+      "recall": {
+        "prompt": "用set aside time for写一个具体行动计划。",
+        "reference": "Set aside a short period after drafting for checking a recurring error.",
+        "referenceZh": "写完草稿后留出一小段时间，检查反复出现的错误。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "想减少临时忘带活动材料：写2句简单准备流程，避免只说提高自律。",
+        "reference": "The organiser could keep a short materials list beside the event timetable. Checking the list while packing for the event could help the organiser notice missing items before leaving.",
+        "referenceZh": "组织者可以在活动日程旁保留一份简短材料清单。为活动收拾物品时检查清单，可帮助组织者在出发前发现遗漏。",
+        "criteria": [
+          "行动有明确入口",
+          "任务尺度可承担",
+          "不将遗漏直接归为品格缺陷"
+        ]
+      },
+      "contrast": {
+        "wrong": "People who forget things simply lack discipline.",
+        "wrongZh": "忘事的人只是缺乏自律。",
+        "better": "A visible checklist can provide a practical reminder at the point when materials need to be prepared.",
+        "betterZh": "可见的清单能在准备材料时提供实用提醒。",
+        "reason": "原句语法成立但单一归因和人格化；改句改变行动条件。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2025_06_responsible_social_media"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2025_06_responsible_social_media_e3"
+      ],
+      "sourceIds": [
+        "book-writing-sample",
+        "exam-social-media"
+      ]
+    },
+    {
+      "id": "kt-habits-adjustment",
+      "title": "习惯：根据中断原因调整而非一味加量",
+      "category": "topic",
+      "core": false,
+      "exam": "both",
+      "themeIds": [
+        "habits"
+      ],
+      "functionIds": [
+        "evidence",
+        "mechanism",
+        "synthesis"
+      ],
+      "meaning": "持续行动需要检查任务是否合适；一次中断是可分析信息，不等于全盘失败。",
+      "form": "review what interrupted + 计划；adjust the plan to + 条件；resume with + 小行动",
+      "formZh": "检查什么打断了计划，按条件调整，再从一个小行动恢复。",
+      "usage": "从时间冲突、任务过大或步骤不清等具体原因调整；检查后再改变一个因素。",
+      "boundary": "不把所有中断都归因于意志，也不宣称每次降低任务都有益；需要保持真正学习或工作目标。",
+      "example": "If a planned session is repeatedly missed because of a timetable conflict, moving it to an available period may be more practical than adding extra tasks.",
+      "exampleZh": "如果计划中的活动因日程冲突反复错过，将其移到有空的时段，可能比增加额外任务更实际。",
+      "recall": {
+        "prompt": "写出“分析什么打断了计划”的英语结构。",
+        "reference": "review what interrupted the plan",
+        "referenceZh": "检查什么打断了计划。",
+        "note": "先不看示例，用自己的英语写出结构与意思；同义改写可以成立，参考句不是唯一答案。"
+      },
+      "application": {
+        "prompt": "同学总在睡前被消息打断阅读：写2句调整计划，并指出需要观察的结果。",
+        "reference": "The student could try reading at a less interrupted time and silence non-essential notifications during that period. The next check should ask whether the planned pages were actually read, rather than whether the plan looked impressive.",
+        "referenceZh": "学生可以尝试在较少被打断的时段阅读，并在这段时间关闭非必要通知。下一次检查应关注是否真的读完计划页数，而非计划看起来是否出色。",
+        "criteria": [
+          "调整回应具体中断原因",
+          "保留实际阅读目标",
+          "检查行动结果而非计划外观"
+        ]
+      },
+      "contrast": {
+        "wrong": "Missing one session proves that the whole plan is useless.",
+        "wrongZh": "错过一次活动就证明整个计划没用。",
+        "better": "One missed session can prompt a review of the timing or task size before the learner decides what to change.",
+        "betterZh": "错过一次活动可促使学习者先检查时间或任务量，再决定改什么。",
+        "reason": "原句语法成立但从一次中断推全盘无用；改句把中断当作需要分析的信息。"
+      },
+      "relatedQuestionIds": [
+        "cet6_2024_06_independent_learning",
+        "cet6_2025_06_responsible_social_media"
+      ],
+      "relatedExpressionIds": [
+        "cet6_2025_06_responsible_social_media_e3"
+      ],
+      "sourceIds": [
+        "book-writing-sample",
+        "exam-learning"
+      ]
+    }
+  ]
+}

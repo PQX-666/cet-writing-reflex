@@ -2,6 +2,10 @@
 
 # dependencies
 /node_modules
+/.npm-cache/
+/tmp/
+/.env.local
+!/.env.example
 /.pnp
 .pnp.*
 .yarn/*
@@ -15,6 +19,10 @@
 
 # next.js
 /.next/
+/.next-pages/
+/docs/screenshots/knowledge-bilingual-dev.jpg
+/docs/screenshots/knowledge-detail-mobile-qa.jpg
+/docs/screenshots/knowledge-mobile.jpg
 /out/
 
 # production
@@ -32,6 +40,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!/.env.example
 
 # vercel
 .vercel

@@ -1,0 +1,1605 @@
+[
+  {
+    "id": "cet4-2025-12-academic-writing",
+    "exam": "CET4",
+    "year": 2025,
+    "month": "12",
+    "title": "是否要求所有大学生学习学术写作",
+    "theme": "大学课程与学术表达",
+    "taskKind": "discuss",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://eol.nju.edu.cn/cet4/papers/202512-2.html",
+        "title": "2025年12月 第2套 · 四级自测",
+        "publisher": "南京大学域名公开学习资源",
+        "kind": "university-paper",
+        "note": "高校域名公开的自测页及排版试卷；非考试院正式发布。仅核验题干，不采用该页名为“评卷标准”的参考范文作为官方标准。"
+      }
+    ],
+    "prompt": "有人提议所有大学生都应学习学术写作。写一篇回应，说明你对这一提议的看法。",
+    "promptZh": "有人提议所有大学生都应学习学术写作。写一篇回应，说明你对这一提议的看法。",
+    "promptMode": "scenario",
+    "directions": "A proposal would require every university student to study academic writing. Respond with an essay explaining your opinion of this proposal. Complete the task within 30 minutes, using 120 to 180 words.",
+    "directionsZh": "有人提议要求每一位大学生学习学术写作。请写一篇短文回应这一提议，说明你的看法。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "回应大学课程要求的提议，读者关注是否值得普遍实施。",
+      "objective": "明确是否支持，并用学术写作的具体作用或实施成本解释立场。",
+      "requirements": [
+        "回应所有大学生学习学术写作的提议",
+        "明确表达并解释自己的观点",
+        "写成连贯的短文，控制在 120–180 词"
+      ],
+      "optionalIdeas": [
+        "解释证据与观点的关系",
+        "区分基础课程和专业进阶课程",
+        "考虑不同专业与学生的学习负担"
+      ],
+      "avoid": [
+        "只谈英语学习的重要性而不回应学术写作",
+        "把学术写作等同于使用生僻词",
+        "认为反对或有条件支持一定扣分"
+      ],
+      "acceptedKeywords": [
+        "academic writing",
+        "academic skills",
+        "research writing",
+        "writing course",
+        "writing training",
+        "学术写作",
+        "学术表达",
+        "论文写作",
+        "写作课程"
+      ]
+    },
+    "routes": [
+      {
+        "label": "有条件支持：共同基础，专业调整",
+        "outline": [
+          "表明支持共同的基础训练",
+          "解释证据、引用、组织观点的价值",
+          "用一个作业情境说明",
+          "限定课时并按专业设计任务"
+        ]
+      },
+      {
+        "label": "反对普遍要求：按实际需要提供支持",
+        "outline": [
+          "承认学术写作对相关学习任务有用",
+          "解释不同学生的已有基础与实际写作需要可能不同",
+          "说明为什么统一要求未必是最合适的安排",
+          "提出按需工作坊和任务中的具体指导"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "基础训练能让学生更清楚地支持观点。",
+        "claimZh": "基础训练能让学生更清楚地支持观点。",
+        "mechanism": "要求区分个人判断与资料证据，会促使学生解释结论从何而来。",
+        "mechanismZh": "要求区分个人判断与资料证据，会促使学生解释结论从何而来。",
+        "example": "写调查报告时，学生用调查结果支持建议，并说明样本有限。",
+        "exampleZh": "写调查报告时，学生用调查结果支持建议，并说明样本有限。",
+        "link": "因此，基础课程具有跨专业价值，但不意味着每个专业使用相同写法。",
+        "linkZh": "因此，基础课程具有跨专业价值，但不意味着每个专业使用相同写法。"
+      },
+      {
+        "claim": "统一要求仍需要适应专业情境。",
+        "claimZh": "统一要求仍需要适应专业情境。",
+        "mechanism": "专业任务与所学内容贴近，学生更容易理解写作规则的用途。",
+        "mechanismZh": "专业任务与所学内容贴近，学生更容易理解写作规则的用途。",
+        "example": "工程学生解释设计选择，历史学生比较资料，两者都需要清晰论证。",
+        "exampleZh": "工程学生解释设计选择，历史学生比较资料，两者都需要清晰论证。",
+        "link": "课程可教共同原则，再用不同作业练习。",
+        "linkZh": "课程可教共同原则，再用不同作业练习。"
+      }
+    ],
+    "modelEssay": "I support the proposal that every university student should learn the basics of academic writing. Such training is useful even for students who do not plan to become researchers.\n\nFirst, it teaches us to connect a claim with evidence. When writing a report, we need to explain what our information shows and what it cannot prove. This habit can make our arguments clearer. Second, learning to acknowledge sources helps us distinguish our own ideas from those of other writers. A short assignment based on two articles would give students practical experience with this skill.\n\nHowever, the course should be adapted to different majors. Engineering students could explain a design decision, while history students could compare accounts of an event. The university should also keep the workload reasonable and provide feedback on a draft.\n\nA basic course with relevant tasks would therefore be more valuable than one that merely asks students to memorize formal phrases.",
+    "modelEssayZh": [
+      "我支持让每一位大学生学习学术写作基础的提议。即使对于不打算成为研究人员的学生，这种训练也有用。",
+      "首先，它教我们把观点与证据联系起来。写报告时，我们需要解释资料说明了什么，以及它不能证明什么。这种习惯有助于让论证更清楚。其次，学习注明来源，能帮助我们区分自己的想法与其他作者的想法。一份基于两篇文章的简短作业，可以让学生实际练习这项技能。",
+      "不过，课程应按不同专业作调整。工程专业学生可以解释一项设计决定，历史专业学生则可以比较对同一事件的不同记述。学校还应让作业量保持合理，并对初稿提供反馈。",
+      "因此，包含相关任务的基础课程，会比仅要求学生记忆正式表达的课程更有价值。"
+    ],
+    "modelNotes": [
+      "参考作文 154 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创参考作文；不是官方答案，也不承诺某个分数。",
+      "论证顺序为立场→两个具体用途→实施条件；有条件支持是有效回应。",
+      "承认来源能帮助避免混淆，但课程效果仍取决于任务与反馈，不能说一门课保证消除抄袭。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-academic-1",
+        "text": "connect a claim with evidence",
+        "meaning": "把观点与证据联系起来",
+        "pattern": "connect + 名词 + with/to + 名词；claim 是待论证的观点。",
+        "patternZh": "connect 后接名词，再用 with 或 to 接另一个名词；claim 指有待论证的观点。",
+        "example": "A report should connect its main claim with evidence from the survey.",
+        "exampleZh": "报告应把主要观点与调查所得的证据联系起来。",
+        "boundary": "适合研究、报告和论证；没有资料时不能用此表达假装已经提供证据。"
+      },
+      {
+        "id": "cet4-academic-2",
+        "text": "be adapted to different majors",
+        "meaning": "按不同专业作调整",
+        "pattern": "be adapted to + 名词；to 是介词。主动式为 adapt the course to students' needs。",
+        "patternZh": "表示“按……作调整”的被动结构；to 后接名词，to 是介词。主动说法意为“按学生的需要调整课程”。",
+        "example": "The writing tasks should be adapted to different majors.",
+        "exampleZh": "写作任务应按不同专业作调整。",
+        "boundary": "在表示按专业或需求调整时，to 后接这些对象；若表达设计用途，可另用 be designed to do。不要混淆适应对象与目的。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Academic writing is very important. It can improve many abilities. All students should learn it because it is good for their future.",
+      "weakParagraphZh": "学术写作非常重要。它可以提高许多能力。所有学生都应该学习它，因为它对他们的未来有好处。",
+      "improvedParagraph": "Academic writing helps students explain why a claim is reasonable. For example, a student reporting survey results must show how the findings support a recommendation. This skill is useful in many subjects, so a basic course would be worthwhile.",
+      "improvedParagraphZh": "学术写作帮助学生解释一个观点为什么合理。例如，汇报调查结果的学生必须说明这些发现如何支持一项建议。这项技能在许多学科中都有用，因此开设基础课程会有价值。",
+      "explanation": "把笼统的 many abilities 换成可观察的能力，再用报告情境连接能力与课程价值。例子支持基本训练，而非证明所有人都需要同一高级课程。",
+      "transferPrompt": "教学自拟：学校拟要求所有学生接受基础数据素养训练。先独立写一段支持或反对的理由，不沿用学术写作的例子。",
+      "transferHint": "选一个真实的数据使用场景，说明判断或误用会怎样影响结果，再回应是否应普遍开设。",
+      "boundaryPrompt": "把结论写成 Academic writing guarantees success in every career，是否合理？",
+      "boundaryAnswer": "不合理。学习写作可能帮助表达和论证，但不能保证所有职业中的成功。可改为 Clear writing can be useful in many careers。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Academic writing can make students to think clearly.",
+        "wrongZh": "学术写作可以让学生清晰地思考。",
+        "right": "Academic writing can help students think clearly.",
+        "rightZh": "学术写作可以帮助学生清晰地思考。",
+        "why": "make + 宾语 + 动词原形；help 后可接原形或 to do。这里选 help 避免夸大确定效果。"
+      },
+      {
+        "wrong": "Every students should learn it.",
+        "wrongZh": "每个学生都应该学习它。",
+        "right": "Every student should learn it.",
+        "rightZh": "每个学生都应该学习它。",
+        "why": "every 后接单数可数名词。"
+      }
+    ]
+  },
+  {
+    "id": "cet4-2025-06-college-chinese",
+    "exam": "CET4",
+    "year": 2025,
+    "month": "06",
+    "title": "大学语文是否应成为必修课",
+    "theme": "课程价值与学习负担",
+    "taskKind": "discuss",
+    "deep": false,
+    "evaluation": true,
+    "sources": [
+      {
+        "url": "https://cet4-6.xdf.cn/202506/14532235.html",
+        "title": "2025年6月大学英语四级作文试题及范文（第一套）",
+        "publisher": "新东方",
+        "kind": "institution-transcription",
+        "note": "教育机构公开的真题整理；用于核验考试年月与写作任务，非考试院原始试卷或官方评分标准。"
+      },
+      {
+        "url": "https://guonei-cos.koocdn.com/common/d02cbf90d6b74220882349f7d4a29a92.pdf",
+        "title": "大学英语四级考试2025年6月真题（第一套）",
+        "publisher": "新东方在线公开试卷资源",
+        "kind": "institution-transcription",
+        "note": "公开排版试卷，检索文本核验完整写作要求；文件直读的可访问性可能变化。非官方原卷。"
+      }
+    ],
+    "prompt": "学校征求学生意见：大学语文是否有必要成为必修课？写一篇短文表达你的看法。",
+    "promptZh": "学校征求学生意见：大学语文是否有必要成为必修课？写一篇短文表达你的看法。",
+    "promptMode": "scenario",
+    "directions": "Your university is collecting student views on whether College Chinese needs to be compulsory. Write an essay giving your position on this question. You have 30 minutes; the essay must contain 120 to 180 words.",
+    "directionsZh": "学校正在征集学生意见，讨论大学语文是否需要设为必修课。请写一篇短文，表达你对这一问题的立场。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "就大学课程设置向学校表达意见。",
+      "objective": "讨论大学语文的必修必要性，解释支持、反对或有条件支持的立场。",
+      "requirements": [
+        "回应大学语文是否有必要必修",
+        "给出明确观点及相关理由",
+        "完成 120–180 词的连贯短文"
+      ],
+      "optionalIdeas": [
+        "阅读与表达的实际用途",
+        "文学、文化理解与讨论",
+        "课时、任务质量与专业学习负担"
+      ],
+      "avoid": [
+        "把大学语文写成外语课",
+        "只介绍中国传统文化而没有回应必修问题",
+        "声称语文课必然提高所有学生的成绩"
+      ],
+      "acceptedKeywords": [
+        "College Chinese",
+        "Chinese course",
+        "Chinese language course",
+        "Chinese literature",
+        "compulsory Chinese",
+        "大学语文",
+        "语文必修",
+        "中文课程",
+        "中国文学"
+      ]
+    },
+    "routes": [
+      {
+        "label": "有条件支持一门实用基础课",
+        "outline": [
+          "明确支持",
+          "用具体阅读和表达任务说明价值",
+          "承认专业学习负担",
+          "建议短课程和实际任务"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "大学语文可以提供更系统的阅读与表达练习。",
+        "claimZh": "大学语文可以提供更系统的阅读与表达练习。",
+        "mechanism": "比较不同文本和修改表达，会让学生发现解释是否清晰、措辞是否适合读者。",
+        "mechanismZh": "比较不同文本和修改表达，会让学生发现解释是否清晰、措辞是否适合读者。",
+        "example": "把一篇难懂的通知改写成同学容易理解的版本。",
+        "exampleZh": "把一篇难懂的通知改写成同学容易理解的版本。",
+        "link": "这种用途支持基础课程，但也提示课程不能仅靠记忆知识点。",
+        "linkZh": "这种用途支持基础课程，但也提示课程不能仅靠记忆知识点。"
+      }
+    ],
+    "modelEssay": "In my view, College Chinese should be a compulsory course, provided that it offers useful tasks and a reasonable workload. University students need opportunities to improve their reading and communication in their first language as well as in English.\n\nOne benefit is learning to read complex texts carefully. Students could compare two articles on the same issue and explain where the writers disagree. Another benefit is clearer expression. For example, revising a confusing notice would help students consider what readers actually need to know. These activities would be more useful than simply memorizing facts about famous writers.\n\nStill, students already have demanding courses in their own majors. College Chinese should therefore be a short foundation course, with some choice of reading materials. Assessment could include a reading response and a revised piece of writing.\n\nWith this practical design, making the course compulsory would give all students opportunities to practise skills that they can use beyond the classroom.",
+    "modelEssayZh": [
+      "在我看来，只要课程安排实用任务、作业量合理，大学语文就应成为必修课。大学生需要机会提高母语及英语的阅读和沟通能力。",
+      "一个好处是学习仔细阅读复杂文本。学生可以比较讨论同一问题的两篇文章，说明作者的分歧所在。另一个好处是表达更清楚。例如，修改一则难懂的通知，有助于让学生考虑读者真正需要知道什么。这些活动会比单纯记忆著名作家的相关知识更有用。",
+      "不过，学生本专业的课程已经很繁重。因此，大学语文应是一门简短的基础课程，并让学生对阅读材料有一定选择。考核可以包括一份阅读回应和一篇修改后的文章。",
+      "采用这种实用的设计，将课程设为必修课，就能让所有学生都有机会练习可用于课堂之外的技能。"
+    ],
+    "modelNotes": [
+      "参考作文 157 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创参考作文，采用有条件支持；反对统一必修也可以成立，关键是回应任务并解释理由。",
+      "教学评估题：首次独立作答前不宜查看思路、范文和表达。",
+      "“provided that”后给出支持成立的条件；不需要为了复杂度强行使用此结构。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-chinese-1",
+        "text": "provided that",
+        "meaning": "只要；条件是",
+        "pattern": "provided that + 完整从句，表达明确条件。",
+        "patternZh": "“只要……”后接完整句子，用来明确说明条件。",
+        "example": "The course would be worthwhile, provided that students receive useful feedback.",
+        "exampleZh": "只要学生能得到有用的反馈，这门课程就会有价值。",
+        "boundary": "条件必须与结论相关；它不等于简单的 because，也不能凭一个条件保证效果。"
+      },
+      {
+        "id": "cet4-chinese-2",
+        "text": "give students access to",
+        "meaning": "让学生有机会接触或使用",
+        "pattern": "give + 人 + access to + 名词；access 通常不可数，to 是介词。",
+        "patternZh": "给某人接触或使用某物的机会；access 通常不可数，后面的 to 是介词。",
+        "example": "A short course can give students access to useful reading strategies.",
+        "exampleZh": "一门简短的课程可以让学生接触有用的阅读策略。",
+        "boundary": "适合课程、资源和服务的可获得性；不表示已经掌握能力，不能与 guarantee mastery 等同。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Chinese is our language, so College Chinese must be compulsory. It is useful and meaningful and important.",
+      "weakParagraphZh": "中文是我们的语言，所以大学语文必须设为必修课。它有用、有意义，而且很重要。",
+      "improvedParagraph": "College Chinese could help students read demanding texts more carefully. Comparing two articles on the same topic, for instance, would require students to identify different claims and explain them accurately. This is a practical reason to offer a basic course.",
+      "improvedParagraphZh": "大学语文可以帮助学生更仔细地阅读较难的文本。例如，比较同一主题的两篇文章，会要求学生找出不同观点，并准确解释它们。这是开设基础课程的一个实际理由。",
+      "explanation": "“是我们的语言”不足以推出必修。改写补充具体学习活动和能力，但必要性仍可进一步从普遍需求、成本和替代方案论证。",
+      "transferPrompt": "教学自拟：学校考虑把公共演讲列为必修课。先独立表达立场，再给出一个具体任务和一项实施限制。",
+      "transferHint": "换成演讲训练的真实场景，不要照搬“比较文章”的例子。",
+      "boundaryPrompt": "Chinese literature has a long history. Therefore, College Chinese must be compulsory. 两句之间是否已经把理由讲清？",
+      "boundaryAnswer": "没有。历史悠久本身不能直接推出所有学生必须修课。需说明学生有哪些普遍学习需要，课程怎样满足这些需要，以及相比选修或其他训练为何更合适。支持或反对都可以成立，但必须解释必要性。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "College Chinese should be a compulsory.",
+        "wrongZh": "大学语文应该是“一个必修的……”。",
+        "right": "College Chinese should be a compulsory course.",
+        "rightZh": "大学语文应该是一门必修课。",
+        "why": "compulsory 是形容词；此处需补充名词 course，或改成 should be compulsory。"
+      },
+      {
+        "wrong": "It gives students access for useful skills.",
+        "wrongZh": "它让学生有机会接触有用的技能。",
+        "right": "It gives students access to useful learning resources.",
+        "rightZh": "它让学生有机会使用有用的学习资源。",
+        "why": "固定搭配 access to；access 通常指获得资源或机会，不能直接等同于掌握技能。"
+      }
+    ]
+  },
+  {
+    "id": "cet4-2024-12-green-campus",
+    "exam": "CET4",
+    "year": 2024,
+    "month": "12",
+    "title": "学生如何建设绿色校园",
+    "theme": "校园环境与可执行行动",
+    "taskKind": "propose",
+    "deep": false,
+    "evaluation": true,
+    "sources": [
+      {
+        "url": "https://fltrp-gy.oss-cn-shanghai.aliyuncs.com/upload/cms/20250310/%E7%9B%AE%E5%BD%95%2B%E6%A0%B7%E7%AB%A0-%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%E5%85%A8%E8%A7%A3%2B%E6%A0%87%E5%87%86%E9%A2%84%E6%B5%8B%28%E5%A4%87%E6%88%982025.6%29%20.pdf",
+        "title": "大学英语四级考试真题全解+标准预测（备战2025.6）目录与样章",
+        "publisher": "外语教学与研究出版社公开样章",
+        "kind": "institution-transcription",
+        "note": "出版社公开样章第 2 页含 2024 年 12 月写作卷面整理；题干核验，不采用出版物范文或点评。"
+      }
+    ],
+    "prompt": "校报下一期征文：学生可以如何为绿色校园作贡献？请写一篇投稿短文。",
+    "promptZh": "校报下一期征文：学生可以如何为绿色校园作贡献？请写一篇投稿短文。",
+    "promptMode": "scenario",
+    "directions": "The university newspaper wants student contributions for an issue about building a green campus. Submit an essay describing what students can do to help. Allow 30 minutes and write between 120 and 180 words.",
+    "directionsZh": "校报正在为建设绿色校园的专题征集学生稿件。请投稿一篇短文，说明学生可以做什么来提供帮助。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "面向校报读者介绍学生能采取的环保行动。",
+      "objective": "说明学生如何参与，并解释行动与环境改善的联系。",
+      "requirements": [
+        "回应绿色校园主题",
+        "以学生可采取的行动为中心",
+        "以校报投稿短文完成 120–180 词"
+      ],
+      "optionalIdeas": [
+        "减少食物或用品浪费",
+        "重复使用物品、分享闲置资源",
+        "与学校合作改善设施并追踪实施"
+      ],
+      "avoid": [
+        "只写环保很重要而没有行动",
+        "让学生独自决定学校大型工程",
+        "凭空编造节能比例等统计数据"
+      ],
+      "acceptedKeywords": [
+        "green campus",
+        "sustainable campus",
+        "campus environment",
+        "campus sustainability",
+        "environmentally friendly campus",
+        "绿色校园",
+        "环保校园",
+        "校园环境",
+        "可持续校园"
+      ]
+    },
+    "routes": [
+      {
+        "label": "个人习惯与同伴合作",
+        "outline": [
+          "提出学生可以从日常习惯行动",
+          "说明减少浪费的具体方法",
+          "提出可持续的同伴项目",
+          "把改善设施与学校合作联系起来"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "减少浪费需要降低行动难度，而不只是喊口号。",
+        "claimZh": "减少浪费需要降低行动难度，而不只是喊口号。",
+        "mechanism": "给出明确、方便的选择，学生更容易在日常生活中坚持。",
+        "mechanismZh": "给出明确、方便的选择，学生更容易在日常生活中坚持。",
+        "example": "先取小份食物，需要时再加；把可用旧物放到方便交换的地点。",
+        "exampleZh": "先取小份食物，需要时再加；把可用旧物放到方便交换的地点。",
+        "link": "这些做法体现学生可以落实的贡献。",
+        "linkZh": "这些做法体现学生可以落实的贡献。"
+      }
+    ],
+    "modelEssay": "Students can contribute to a green campus by changing daily habits and making it easier for others to do the same. A useful starting point is reducing waste in places we visit every day.\n\nIn the canteen, we can choose smaller portions and ask for more only when needed. This can reduce the amount of food left on our plates. In classrooms, the last person to leave should check the lights and other equipment. These simple actions connect environmental concerns with specific routines.\n\nStudents can also work together. A monthly exchange table would allow us to pass on books and other usable items instead of throwing them away. Volunteers could explain the rules and keep the area tidy. If drinking water stations are inconvenient, we could collect suggestions and discuss improvements with the university.\n\nA green campus depends on regular participation. Choosing a few practical actions and checking whether they are being followed is more useful than organizing a campaign that ends after one day.",
+    "modelEssayZh": [
+      "学生可以通过改变日常习惯，并让其他人更容易采取同样的行动，为绿色校园作贡献。一个实用的起点，是减少我们每天都会去的地方所产生的浪费。",
+      "在食堂，我们可以先取小份食物，只有需要时再加。这能减少餐盘中剩下的食物。在教室里，最后离开的人应检查灯和其他设备。这些简单行动，把环保关切落实到具体的日常做法中。",
+      "学生也可以共同参与。每月设置一次物品交换摊位，能让我们把书籍和其他仍可用的物品转交给别人，而不是扔掉。志愿者可以解释规则，保持场地整洁。如果饮水点使用不方便，我们可以收集建议，与学校讨论改进办法。",
+      "绿色校园依赖持续参与。选择几项可行的行动，并检查人们是否坚持执行，比组织一场一天就结束的活动更有用。"
+    ],
+    "modelNotes": [
+      "参考作文 165 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创参考作文；举措和情境为示范，不是题干给定事实。",
+      "教学评估题：应先完成自己的草稿，再查看本页。",
+      "没有用伪造百分比证明成效；用合理机制说明小行动为何可能有帮助。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-green-1",
+        "text": "reduce the amount of waste",
+        "meaning": "减少废物的量",
+        "pattern": "reduce + the amount of + 不可数名词；可数名词用 the number of。",
+        "patternZh": "“减少……的量”中的 amount 用于不可数名词；可数名词的数量用 number。",
+        "example": "Sharing usable items can reduce the amount of waste produced on campus.",
+        "exampleZh": "共享仍可使用的物品，可以减少校园产生的废物量。",
+        "boundary": "waste 作废物或浪费通常不可数；不要对所有物品统称 recyclable，也不要无依据写具体减少比例。"
+      },
+      {
+        "id": "cet4-green-2",
+        "text": "make it easier for others to do",
+        "meaning": "使别人更容易做某事",
+        "pattern": "make it + 形容词 + for + 人 + to do；it 为形式宾语。",
+        "patternZh": "“使某人做某事更容易”：it 是形式宾语，后面的动词不定式说明具体做什么。",
+        "example": "Clear signs make it easier for students to sort their waste.",
+        "exampleZh": "清楚的标识能让学生更容易分类垃圾。",
+        "boundary": "说明便利性的措施应具体；“更容易”不等于保证大家都会做。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "We should protect the environment. We should do many things. If we try our best, our campus will be perfect.",
+      "weakParagraphZh": "我们应该保护环境。我们应该做很多事情。只要我们尽力，校园就会完美。",
+      "improvedParagraph": "Students can reduce waste by sharing items they no longer need. A monthly exchange table, for example, would let usable books find new owners. Clear rules and a convenient location would make participation easier.",
+      "improvedParagraphZh": "学生可以共享自己不再需要的物品，以减少浪费。例如，每月设置一次物品交换摊位，就能让仍可使用的书籍找到新主人。明确的规则和方便的地点，会让参与更容易。",
+      "explanation": "用一项学生可落实的做法替代泛泛号召，并补充为什么有效和如何实施；删除无法证明的 perfect。",
+      "transferPrompt": "教学自拟：校园食堂如何减少食物浪费？先写一个可执行建议，再解释学生为什么可能愿意参加。",
+      "transferHint": "不要只把 exchange table 换成 canteen；重新设计行动、参与条件和反馈方法。",
+      "boundaryPrompt": "能否写 Students must replace all the university's power systems 来体现行动具体？",
+      "boundaryAnswer": "行动虽然具体，但超出学生的权限、资源和能力。可以建议学生记录问题、反馈意见或参加学校组织的节能活动。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "We should decrease the number of waste.",
+        "wrongZh": "我们应该减少废物的数量。",
+        "right": "We should reduce the amount of waste.",
+        "rightZh": "我们应该减少废物的量。",
+        "why": "waste 在此不可数，搭配 amount；number 用于可数项目。"
+      },
+      {
+        "wrong": "Sharing books makes students easier to reduce waste.",
+        "wrongZh": "共享书籍让学生在减少浪费这件事上变得“更容易”。",
+        "right": "Sharing books makes it easier for students to reduce waste.",
+        "rightZh": "共享书籍让学生更容易减少浪费。",
+        "why": "原句错误地把 students 描述为 easier；采用形式宾语结构表达做事更容易。"
+      }
+    ]
+  },
+  {
+    "id": "cet4-2024-06-library-public",
+    "exam": "CET4",
+    "year": 2024,
+    "month": "06",
+    "title": "大学图书馆是否应向公众开放",
+    "theme": "公共资源与校园服务",
+    "taskKind": "discuss",
+    "deep": false,
+    "evaluation": true,
+    "sources": [
+      {
+        "url": "https://www.kmxwd.com/4574.html",
+        "title": "2024年6月大学英语四级真题及答案（卷一）",
+        "publisher": "昆明新文道",
+        "kind": "institution-transcription",
+        "note": "教育机构公开排版整理；题干核验为大学图书馆是否向公众开放。正文 Directions 写作时长为 30 分钟，页面 Part I 标题出现 25 分钟的不一致，采用 Directions 要求。"
+      }
+    ],
+    "prompt": "学校征求学生意见：大学图书馆是否应向公众开放？请写一篇短文说明你的观点。",
+    "promptZh": "学校征求学生意见：大学图书馆是否应向公众开放？请写一篇短文说明你的观点。",
+    "promptMode": "scenario",
+    "directions": "Your university seeks student opinions about allowing the general public to use its library. Write an essay explaining your view on public access. Finish within 30 minutes, using 120 to 180 words.",
+    "directionsZh": "学校正在征求学生对允许公众使用大学图书馆的意见。请写一篇短文，说明你对向公众开放的看法。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "学校在决定大学图书馆是否向公众开放时征求学生意见。",
+      "objective": "明确开放立场，解释收益与对学生服务的影响。",
+      "requirements": [
+        "回应大学图书馆面向公众开放的问题",
+        "表达自己的观点并解释",
+        "完成 120–180 词的连贯短文"
+      ],
+      "optionalIdeas": [
+        "公众阅读和教育机会",
+        "座位、开放时段、预约和身份登记",
+        "保护学生学习资源与安全管理"
+      ],
+      "avoid": [
+        "写成图书馆服务提案而没有回答是否开放",
+        "把向公众开放等同于免费开放全部收费数据库",
+        "声称没有任何管理成本或风险"
+      ],
+      "acceptedKeywords": [
+        "public access",
+        "open to the public",
+        "general public",
+        "local residents",
+        "community members",
+        "公众开放",
+        "社会公众",
+        "当地居民",
+        "社区读者",
+        "对外开放"
+      ]
+    },
+    "routes": [
+      {
+        "label": "支持有条件开放",
+        "outline": [
+          "明确支持适度开放",
+          "解释公共阅读收益",
+          "承认容量有限",
+          "用时段和预约保障学生资源"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "开放能扩大资源的受益范围，但需要保障学生服务。",
+        "claimZh": "开放能扩大资源的受益范围，但需要保障学生服务。",
+        "mechanism": "公众得到阅读机会；高峰时段限制或预约可以减少资源冲突。",
+        "mechanismZh": "公众得到阅读机会；高峰时段限制或预约可以减少资源冲突。",
+        "example": "普通周末试行有限预约，考试周保留主要学习空间。",
+        "exampleZh": "普通周末试行有限预约，考试周保留主要学习空间。",
+        "link": "因此，支持开放的立场可以包含必要条件。",
+        "linkZh": "因此，支持开放的立场可以包含必要条件。"
+      }
+    ],
+    "modelEssay": "I believe our university library should be open to the public under clear rules. Sharing some of its resources could benefit local residents without preventing students from studying effectively.\n\nThe library has books that many people cannot easily obtain elsewhere. Allowing visitors to read them would create more opportunities for learning. It could also encourage useful contact between the university and the surrounding community.\n\nHowever, space is limited, especially before examinations. The university should begin with a small pilot programme during quieter periods. Visitors could book places in advance and follow the same rules on noise and the use of materials as students. During examination weeks, most study spaces should remain available to students. Access to paid online resources would require separate consideration.\n\nAfter the trial, the library could collect feedback from both groups and check how its services have been affected. Public access would then be a decision based on actual use rather than a promise to open every resource at once.",
+    "modelEssayZh": [
+      "我认为，我们大学的图书馆应在明确规则下向公众开放。共享部分资源，可能既能让当地居民受益，又不妨碍学生有效地学习。",
+      "图书馆有一些许多人在其他地方不容易获取的书。允许访客阅读这些书，会创造更多学习机会。这也可能促进学校与周边社区之间有益的联系。",
+      "不过，空间有限，尤其是在考试前。学校应先在较清闲的时段开展小规模试点。访客可以提前预约名额，并遵守与学生相同的噪声和资料使用规则。在考试周，大部分学习空间应留给学生使用。付费在线资源的使用权限，则需要另行考虑。",
+      "试行后，图书馆可以收集双方的反馈，检查服务受到了什么影响。这样，是否向公众开放就会成为基于实际使用情况的决定，而不是一次性开放所有资源的承诺。"
+    ],
+    "modelNotes": [
+      "参考作文 163 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创参考作文；开放规则、试点安排为作者的建议，不是试卷给定事实。",
+      "教学评估题：先独立写作再阅读范文。",
+      "有效观点可以是支持、反对或有条件支持；不能用统一立场判对错。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-public-1",
+        "text": "under clear rules",
+        "meaning": "在明确规则之下",
+        "pattern": "under + 名词短语，说明制度或条件；规则内容应随后写清。",
+        "patternZh": "under 后接名词短语，表示在某种制度或条件下；随后应说明具体规则。",
+        "example": "Public access could be introduced under clear rules.",
+        "exampleZh": "可以在明确规则下向公众开放图书馆。",
+        "boundary": "不能用这个短语代替全部实施细节；管理规则仍需兼顾容量、身份和资源权限。"
+      },
+      {
+        "id": "cet4-public-2",
+        "text": "book places in advance",
+        "meaning": "提前预约名额或座位",
+        "pattern": "book + 可数宾语；in advance 表示提前。",
+        "patternZh": "book 表示预约，后接可数的预约对象；in advance 表示提前。",
+        "example": "Visitors could book places in advance during the trial.",
+        "exampleZh": "在试行期间，访客可以提前预约名额。",
+        "boundary": "book 是预约，不是保证能获得所有资源；若指房间、时段，应相应写 book a room/a time slot。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "The library should open because reading is good. Everybody can go there. There will be no problems.",
+      "weakParagraphZh": "图书馆应该开放，因为阅读有好处。每个人都可以去那里。不会出现任何问题。",
+      "improvedParagraph": "Opening the library during quieter periods could give local residents more opportunities to read. However, study spaces are limited. A booking system would allow the library to control visitor numbers while protecting students' access.",
+      "improvedParagraphZh": "在较清闲的时段开放图书馆，可能让当地居民获得更多阅读机会。不过，学习空间有限。预约制度可以让图书馆控制访客人数，同时保障学生的使用机会。",
+      "explanation": "补充收益、容量限制和应对方法；把无依据的“没有问题”换成可检查的实施条件。",
+      "transferPrompt": "教学自拟：学校体育场是否应向社区居民开放？独立写出立场、理由和一个需要处理的限制。",
+      "transferHint": "重新考虑设施安全、维护、课程时段；不要直接套用付费数据库等图书馆专属条件。",
+      "boundaryPrompt": "The library should give every visitor free access to all online databases. 这个主张为什么需要谨慎？",
+      "boundaryAnswer": "公众到馆阅读不自动意味着学校有权开放全部付费数据库。需要考虑订阅许可、管理资源和题干范围，可建议另行评估。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "The library should open to public.",
+        "wrongZh": "图书馆应该向公众开放。",
+        "right": "The library should be open to the public.",
+        "rightZh": "图书馆应该向公众开放。",
+        "why": "be open 表示开放状态；the public 是常见名词表达，意为公众。"
+      },
+      {
+        "wrong": "Visitors should obey to the rules.",
+        "wrongZh": "访客应该遵守规则。",
+        "right": "Visitors should follow the rules.",
+        "rightZh": "访客应该遵守规则。",
+        "why": "obey 是及物动词，直接接 rules；follow the rules 也自然。"
+      }
+    ]
+  },
+  {
+    "id": "cet4-2023-06-community-service",
+    "exam": "CET4",
+    "year": 2023,
+    "month": "06",
+    "title": "社区服务的益处与我能提供的服务",
+    "theme": "社会参与与个人能力",
+    "taskKind": "explain",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://fltrp-gy.oss-cn-shanghai.aliyuncs.com/upload/cms/20240904/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%E5%85%A8%E8%A7%A3%2B%E6%A0%87%E5%87%86%E9%A2%84%E6%B5%8B%28%E5%A4%87%E6%88%982024.12%29%20-%E7%9B%AE%E5%BD%95%2B%E6%A0%B7%E7%AB%A0.pdf",
+        "title": "大学英语四级考试真题全解+标准预测（备战2024.12）目录与样章",
+        "publisher": "外语教学与研究出版社公开样章",
+        "kind": "institution-transcription",
+        "note": "出版社公开样章含 2023 年 6 月作文卷面整理；题目要求同时写益处与自己能够提供的服务。非官方原卷。"
+      }
+    ],
+    "prompt": "学生会组织大学生参加社区服务的线上讨论。写一篇短文，说明社区服务的益处，以及你能提供什么服务。",
+    "promptZh": "学生会组织大学生参加社区服务的线上讨论。写一篇短文，说明社区服务的益处，以及你能提供什么服务。",
+    "promptMode": "scenario",
+    "directions": "For a Student Union online discussion, write an essay about university students serving their communities. Explain the benefits of community service and identify services you personally could provide. Use 120 to 180 words and complete it in 30 minutes.",
+    "directionsZh": "请为学生会组织的线上讨论写一篇短文，讨论大学生为社区提供服务。说明社区服务的益处，并指出你自己可以提供哪些服务。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "在学生会线上讨论中谈大学生参与社区服务。",
+      "objective": "同时解释服务价值与自身可贡献的具体服务。",
+      "requirements": [
+        "讨论大学生社区服务的益处",
+        "说明自己能够提供的服务",
+        "写成 120–180 词的讨论短文"
+      ],
+      "optionalIdeas": [
+        "针对不同居民的真实需要",
+        "把专业、技能和服务相联系",
+        "安排持续参与与居民反馈"
+      ],
+      "avoid": [
+        "只列大学生获得的好处而遗漏自己提供的服务",
+        "把志愿者写成能够提供任何专业服务",
+        "只有 help people 等泛泛表述"
+      ],
+      "acceptedKeywords": [
+        "community service",
+        "community work",
+        "volunteering",
+        "volunteer service",
+        "local residents",
+        "社区服务",
+        "志愿服务",
+        "社区志愿",
+        "居民服务"
+      ]
+    },
+    "routes": [
+      {
+        "label": "数字技能支持：需要与能力相匹配",
+        "outline": [
+          "概括居民与学生双方的益处",
+          "用解释任务说明沟通训练",
+          "写自己可提供的基础手机操作帮助",
+          "说明持续时间、沟通方式和能力边界"
+        ]
+      },
+      {
+        "label": "课后学习陪伴：从稳定的小任务入手",
+        "outline": [
+          "解释服务给居民带来的帮助",
+          "说明备课和倾听的学习价值",
+          "提出自己擅长学科的基础辅导",
+          "说明可靠安排与家长反馈"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "社区服务可以帮助学生理解不同人的需要。",
+        "claimZh": "社区服务可以帮助学生理解不同人的需要。",
+        "mechanism": "面对真实问题时，志愿者需要倾听、调整解释方式，而非只完成课堂任务。",
+        "mechanismZh": "面对真实问题时，志愿者需要倾听、调整解释方式，而非只完成课堂任务。",
+        "example": "为老年人讲解手机操作时，先观察他们在哪一步感到困难。",
+        "exampleZh": "为老年人讲解手机操作时，先观察他们在哪一步感到困难。",
+        "link": "沟通能力的可能收益来自具体互动，不是参加活动自动产生。",
+        "linkZh": "沟通能力的可能收益来自具体互动，不是参加活动自动产生。"
+      },
+      {
+        "claim": "服务应与自己现有能力匹配。",
+        "claimZh": "服务应与自己现有能力匹配。",
+        "mechanism": "限定任务并稳定参与，比承诺复杂但无能力完成的服务更可靠。",
+        "mechanismZh": "限定任务并稳定参与，比承诺复杂但无能力完成的服务更可靠。",
+        "example": "每周帮居民练习发消息或使用地图，但不处理账号密码和金融事务。",
+        "exampleZh": "每周帮居民练习发消息或使用地图，但不处理账号密码和金融事务。",
+        "link": "这种安排既回应“我能提供什么”，也让方案可信。",
+        "linkZh": "这种安排既回应“我能提供什么”，也让方案可信。"
+      }
+    ],
+    "modelEssay": "Community service can benefit both local residents and university students. Residents receive practical support, while students have opportunities to understand needs that are different from their own.\n\nFor students, the experience can develop communication skills. Explaining a task to someone with little experience requires patience and clear language. Listening to residents also helps us see whether our ideas are actually useful, rather than simply assuming that they are.\n\nI could help older residents learn basic phone skills at the community centre. For example, I could show them how to send messages or find a bus route. I would prepare simple instructions and let each person practise at their own pace. I would not handle passwords or offer financial advice, since these tasks require different expertise.\n\nTo make the service reliable, I could volunteer for an hour each week and ask participants what they want to learn next. A small service that meets a real need would be more helpful than a large promise that I cannot keep.",
+    "modelEssayZh": [
+      "社区服务可以使当地居民和大学生双方受益。居民得到实际帮助，学生则有机会了解与自己不同的需求。",
+      "对学生来说，这种经历可以培养沟通技能。向缺乏相关经验的人解释一项任务，需要耐心和清楚的语言。倾听居民的意见，也有助于我们判断自己的想法是否真的有用，而不是直接假定它们有用。",
+      "我可以在社区中心帮助老年居民学习基本的手机操作。例如，我可以向他们演示如何发消息或查找公交路线。我会准备简单的操作说明，让每个人按自己的速度练习。我不会处理密码或提供财务建议，因为这些任务需要不同的专业知识。",
+      "为了让服务可靠，我可以每周做一小时志愿服务，并询问参与者接下来想学什么。满足真实需要的小规模服务，会比我无法兑现的大承诺更有帮助。"
+    ],
+    "modelNotes": [
+      "参考作文 167 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创参考作文；社区中心、服务计划均为示范情境。",
+      "两项题干任务都被回应：益处与个人服务。只写志愿服务重要性会漏项。",
+      "at their own pace 指按自己的速度练习，不等于缺少目标和反馈。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-community-1",
+        "text": "meet a real need",
+        "meaning": "满足真实需要",
+        "pattern": "meet + need；need 可数，此处用 a real need。",
+        "patternZh": "meet 在这里表示满足，后接 need；need 可以计数，这里表示“一项真实需要”。",
+        "example": "A useful volunteer project should meet a real need in the community.",
+        "exampleZh": "有用的志愿项目应满足社区的一项真实需要。",
+        "boundary": "需要应具体，并可由交流或观察支持；不能把志愿者自己的兴趣自动当作居民需要。"
+      },
+      {
+        "id": "cet4-community-2",
+        "text": "at their own pace",
+        "meaning": "按他们自己的速度",
+        "pattern": "at + one's own pace；代词与前文的人保持一致。",
+        "patternZh": "表示“按某人自己的速度”；代词要与前文所指的人一致。",
+        "example": "Older learners can practise basic phone skills at their own pace.",
+        "exampleZh": "年长的学习者可以按自己的速度练习基本的手机操作。",
+        "boundary": "适合练习或学习节奏；不表示可以忽略服务时限，也不等于学习效果保证。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Community service is good for us. It can improve our skills and make us happy. I can help people do many things.",
+      "weakParagraphZh": "社区服务对我们有好处。它能提高我们的技能，让我们开心。我可以帮助别人做很多事情。",
+      "improvedParagraph": "Helping residents with basic phone tasks would give me practice in explaining ideas clearly. I could prepare simple instructions for sending messages and let residents try each step themselves. This would provide practical support while helping me learn to listen.",
+      "improvedParagraphZh": "帮助居民完成基本的手机操作，会让我练习怎样把想法解释清楚。我可以准备简单的发消息说明，让居民亲自尝试每一步。这样既能提供实际帮助，也能帮助我学会倾听。",
+      "explanation": "把技能落到解释和倾听，再把个人服务落到发消息的步骤；收益与服务建立因果联系。",
+      "transferPrompt": "教学自拟：社区正在招募学生为儿童组织周末阅读活动。独立写一段，兼顾活动益处与你能承担的具体任务。",
+      "transferHint": "说明儿童需要什么、你会做什么、这项互动怎样帮助参与者；不要照搬手机操作的词汇。",
+      "boundaryPrompt": "写 I can solve all elderly people's problems 能提升说服力吗？",
+      "boundaryAnswer": "不能。承诺远超个人能力，且 all 过度概括。具体说明可以提供的基础服务、持续安排与必要边界更可信。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Community service benefits for students.",
+        "wrongZh": "社区服务对学生有益。",
+        "right": "Community service benefits students.",
+        "rightZh": "社区服务使学生受益。",
+        "why": "benefit 作及物动词时直接接受益对象；名词写法是 brings benefits to students。"
+      },
+      {
+        "wrong": "I can teach old people how using phones.",
+        "wrongZh": "我可以教老年人怎样使用手机。",
+        "right": "I can show older people how to use phones.",
+        "rightZh": "我可以向年长者演示如何使用手机。",
+        "why": "疑问词 + to do 构成名词性结构；older people 在此语境中表达自然。"
+      }
+    ]
+  },
+  {
+    "id": "cet4-2023-12-campus-event",
+    "exam": "CET4",
+    "year": 2023,
+    "month": "12",
+    "title": "令我印象最深的校园活动",
+    "theme": "具体经历与反思",
+    "taskKind": "describe",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://mtoutiao.xdf.cn/cet4-6/202312/13552888.html",
+        "title": "2023年12月英语四级作文试题及范文",
+        "publisher": "新东方",
+        "kind": "institution-transcription",
+        "note": "考试当日公开整理，第一篇题干为校报征集最令人印象深刻的校园活动。仅采用任务信息，范文不复制。"
+      },
+      {
+        "url": "https://www.educity.cn/cet/5221237.html",
+        "title": "2023年12月英语四级作文真题及参考范文",
+        "publisher": "希赛教育",
+        "kind": "institution-transcription",
+        "note": "机构考试资料用于交叉核验校报征文情境和校园活动主题；非官方答案。"
+      }
+    ],
+    "prompt": "校报征集学生短文，介绍最令自己印象深刻的一次校园活动。请写一篇投稿。",
+    "promptZh": "校报征集学生短文，介绍最令自己印象深刻的一次校园活动。请写一篇投稿。",
+    "promptMode": "scenario",
+    "directions": "Write a contribution to your university newspaper about the campus event that impressed you most. Describe a particular event and show why it was memorable for you. You have 30 minutes to produce an essay of 120 to 180 words.",
+    "directionsZh": "请为校报投稿，介绍最令你印象深刻的一次校园活动。描述一项具体活动，并说明它为什么让你难忘。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "面向校报读者讲述最令自己印象深刻的校园活动。",
+      "objective": "聚焦一次具体活动，用细节说明印象深刻的原因。",
+      "requirements": [
+        "写一次校园活动，而不是泛谈校园生活",
+        "回应“最令自己印象深刻”",
+        "完成校报投稿短文，全文 120–180 词"
+      ],
+      "optionalIdeas": [
+        "交代活动时间、地点与内容",
+        "描述一个关键时刻",
+        "说明活动怎样改变认识或行为"
+      ],
+      "avoid": [
+        "只论述参加活动的普遍好处",
+        "堆列多场活动而没有重点",
+        "套入与活动无关的社会现象开头"
+      ],
+      "acceptedKeywords": [
+        "campus event",
+        "campus activity",
+        "university event",
+        "workshop",
+        "festival",
+        "competition",
+        "校园活动",
+        "校园事件",
+        "工作坊",
+        "校园比赛",
+        "校园节日"
+      ]
+    },
+    "routes": [
+      {
+        "label": "一次关键时刻带来行为改变",
+        "outline": [
+          "点明具体校园活动",
+          "交代原先的困难或认识",
+          "描写活动中的关键帮助或行动",
+          "说明随后发生的变化"
+        ]
+      },
+      {
+        "label": "一次合作经历让我理解团队",
+        "outline": [
+          "点明活动和自己的角色",
+          "描述任务分工与冲突",
+          "写一个解决问题的具体场景",
+          "说明印象深刻的原因与后续反思"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "具体过程比笼统评价更能说明活动为何难忘。",
+        "claimZh": "具体过程比笼统评价更能说明活动为何难忘。",
+        "mechanism": "读者看到作者遇到的困难与转折，就能理解情感和认识的来源。",
+        "mechanismZh": "读者看到作者遇到的困难与转折，就能理解情感和认识的来源。",
+        "example": "一个同学示范排查问题，随后让作者亲自试做。",
+        "exampleZh": "一个同学示范排查问题，随后让作者亲自试做。",
+        "link": "活动的意义由这一细节支撑，而不是仅用 wonderful 概括。",
+        "linkZh": "活动的意义由这一细节支撑，而不是仅用 “精彩” 概括。"
+      },
+      {
+        "claim": "后续行为可以支撑“活动改变了我”的判断。",
+        "claimZh": "后续行为可以支撑“活动改变了我”的判断。",
+        "mechanism": "描述之后怎样行动，为抽象的认识变化提供可观察的例子。",
+        "mechanismZh": "描述之后怎样行动，为抽象的认识变化提供可观察的例子。",
+        "example": "以前因怕犯错不提问，此后更愿意在课堂上请求解释。",
+        "exampleZh": "以前因怕犯错不提问，此后更愿意在课堂上请求解释。",
+        "link": "行为变化回扣最令人印象深刻，但只代表作者经历，不能推广为所有人。",
+        "linkZh": "行为变化回扣最令人印象深刻，但只代表作者经历，不能推广为所有人。"
+      }
+    ],
+    "modelEssay": "The campus event that impressed me most was a repair workshop held in our student centre last autumn. Students brought simple objects that no longer worked and learned how to examine them with experienced volunteers.\n\nI arrived with a desk lamp and expected someone else to fix it for me. Instead, a volunteer asked me to describe the problem and check each possible cause. When I got stuck, she demonstrated one step and then let me try it myself. With her guidance, I found a loose connection.\n\nWhat made the event memorable was not just taking a working lamp home. I discovered that asking a clear question and trying a small step could make an unfamiliar task less frightening. Since then, I have been more willing to ask for explanations in class.\n\nThe workshop gave me a useful experience of learning through patient guidance. It reminded me that practical activities can sometimes change our habits as well as teach us a skill.",
+    "modelEssayZh": [
+      "最令我印象深刻的校园活动，是去年秋天在学生中心举行的一次维修工作坊。学生带来一些已经不能使用的简单物品，向有经验的志愿者学习如何检查它们。",
+      "我带着一盏台灯来到现场，原以为别人会替我修好它。但一位志愿者让我先描述问题，再逐一检查可能的原因。遇到困难时，她示范一步，然后让我自己尝试。在她的指导下，我找到了一处松动的连接。",
+      "这次活动之所以难忘，不只是因为我带回了一盏能用的灯。我发现，提出一个清楚的问题，再尝试迈出一小步，可以让陌生任务不那么令人害怕。从那以后，我在课堂上更愿意请求别人解释。",
+      "工作坊让我经历了一次在耐心指导下学习的过程。它提醒我，实践活动有时既能教会我们一项技能，也能改变我们的习惯。"
+    ],
+    "modelNotes": [
+      "参考作文 162 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创参考作文；工作坊、台灯与人物细节为教学示范，不是考题事实。",
+      "文章聚焦单次活动，转折点与活动后的行为变化支持印象深刻的原因。",
+      "过去活动用过去时，持续影响可用现在完成时；不必把所有句子强行统一时态。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-event-1",
+        "text": "what made the event memorable was",
+        "meaning": "让这次活动难忘的是",
+        "pattern": "What + 从句构成主语；was 后接名词或名词化结构。",
+        "patternZh": "what 引导的从句作主语，表示“让活动难忘的事情”；was 后接名词或相当于名词的表达。",
+        "example": "What made the event memorable was the chance to solve a problem myself.",
+        "exampleZh": "让这次活动难忘的，是自己解决问题的机会。",
+        "boundary": "需要给出实际原因；这种句式适合聚焦，不必在每段重复以制造复杂度。"
+      },
+      {
+        "id": "cet4-event-2",
+        "text": "be more willing to",
+        "meaning": "更愿意做",
+        "pattern": "be + more willing + to do；willing 描述人的意愿。",
+        "patternZh": "表示“更愿意做……”：后接动词不定式；willing 描述人的意愿。",
+        "example": "After the workshop, I was more willing to ask questions.",
+        "exampleZh": "工作坊结束后，我更愿意提问了。",
+        "boundary": "表达意愿变化，不等于能力已经提高或行为永远改变；只有比较情境清楚时 more 才有依据。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "The activity was wonderful. I learned a lot and felt happy. It was meaningful and I will never forget it.",
+      "weakParagraphZh": "这次活动非常精彩。我学到了很多，也很开心。它很有意义，我永远不会忘记。",
+      "improvedParagraph": "When I could not identify the problem, a volunteer showed me how to check one part at a time. She then let me repeat the process. Solving the problem myself made the workshop memorable and gave me more confidence to ask questions.",
+      "improvedParagraphZh": "我找不出问题时，一位志愿者教我如何一次检查一个部件。然后，她让我重复这个过程。自己解决问题，让这次工作坊变得难忘，也让我更有信心提问。",
+      "explanation": "以关键场景支持感受；明确谁做了什么以及为什么有影响。learned a lot 被具体过程替换。",
+      "transferPrompt": "教学自拟：写一次校园合作活动中的难忘时刻。先选一个转折点，再说明它对你后来的行动有什么影响。",
+      "transferHint": "更换活动和冲突来源，不照抄修灯经历。若没有后续变化，也可说明为何当时的感受难忘。",
+      "boundaryPrompt": "这类题能否整篇只写 Campus activities improve students' communication skills？",
+      "boundaryAnswer": "不够。它是普遍观点，未介绍一次具体校园活动，也未说明为什么最令作者印象深刻。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "I have attended the workshop last autumn.",
+        "wrongZh": "我去年秋天参加过这次工作坊。",
+        "right": "I attended the workshop last autumn.",
+        "rightZh": "我去年秋天参加了这次工作坊。",
+        "why": "last autumn 是已完成的过去时间，通常用一般过去时；持续至今的变化另可用现在完成时。"
+      },
+      {
+        "wrong": "The event made me to ask questions.",
+        "wrongZh": "这次活动让我提问。",
+        "right": "The event encouraged me to ask questions.",
+        "rightZh": "这次活动鼓励我提问。",
+        "why": "make + 宾语 + 动词原形；encourage + 宾语 + to do，且更准确地表达鼓励作用。"
+      }
+    ]
+  },
+  {
+    "id": "cet4-2022-06-library-services",
+    "exam": "CET4",
+    "year": 2022,
+    "month": "06",
+    "title": "改进学校图书馆服务的提案",
+    "theme": "问题诊断与可行建议",
+    "taskKind": "propose",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet4.koolearn.com/20220611/878420.html",
+        "title": "2022年6月英语四级作文题目：写给图书馆的建议信",
+        "publisher": "新东方在线",
+        "kind": "institution-transcription",
+        "note": "教育机构公开的真题整理；用于核验考试年月与写作任务，非考试院原始试卷或官方评分标准。"
+      },
+      {
+        "url": "https://www.hqwx.com/web_news/html/2022-6/16549281966544.html",
+        "title": "2022年6月大学英语四级作文真题：学校图书馆改进服务提案（网友版）",
+        "publisher": "环球网校",
+        "kind": "institution-transcription",
+        "note": "机构公开整理明确标作网友版；与新东方当日题目交叉核验当前问题及解决办法，不宣称官方原卷。"
+      }
+    ],
+    "prompt": "为学校图书馆写一份改进服务的提案，说明目前存在的问题，并提出可能的解决办法。",
+    "promptZh": "为学校图书馆写一份改进服务的提案，说明目前存在的问题，并提出可能的解决办法。",
+    "promptMode": "scenario",
+    "directions": "Prepare a proposal to improve your school library's services. Describe current problems and suggest possible solutions to them. Complete your writing in 30 minutes and keep it within 120 to 180 words.",
+    "directionsZh": "请写一份改进学校图书馆服务的提案，说明当前的问题，并提出可能的解决办法。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "向学校图书馆提出服务改进建议。",
+      "objective": "把当前问题与可行解决方法对应起来。",
+      "requirements": [
+        "围绕学校图书馆服务",
+        "说明目前存在的问题",
+        "提出与问题对应的可能解决办法",
+        "写成 120–180 词的提案"
+      ],
+      "optionalIdeas": [
+        "资源检索与新生指导",
+        "开放时段与学生使用需求",
+        "试行方案、成本与反馈"
+      ],
+      "avoid": [
+        "只写图书馆的重要性",
+        "罗列建议却不解释它解决什么问题",
+        "许诺一次提案能解决所有问题",
+        "把 proposal 强制等同于必须写称呼落款的信"
+      ],
+      "acceptedKeywords": [
+        "library services",
+        "library service",
+        "school library",
+        "university library",
+        "library staff",
+        "图书馆服务",
+        "学校图书馆",
+        "校图书馆",
+        "图书馆改进"
+      ]
+    },
+    "routes": [
+      {
+        "label": "使用障碍：检索指导与高峰时段",
+        "outline": [
+          "说明改进目标",
+          "问题一：新生不会检索→简明指导和演示",
+          "问题二：晚间使用冲突→有限延长开放试点",
+          "说明收集反馈再调整"
+        ]
+      },
+      {
+        "label": "资源获取：可见性与请求流程",
+        "outline": [
+          "说明学生使用资源时的具体障碍",
+          "分类与指示不清→更清晰标识和检索说明",
+          "紧缺材料难获取→建议借阅预约或采购反馈",
+          "承认资源限制并确定优先次序"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "检索指导可以针对“有资源却不会使用”的问题。",
+        "claimZh": "检索指导可以针对“有资源却不会使用”的问题。",
+        "mechanism": "操作说明和演示降低初次使用的困难，使学生能自行找到资料。",
+        "mechanismZh": "操作说明和演示降低初次使用的困难，使学生能自行找到资料。",
+        "example": "新生用简短步骤说明完成一次目录检索。",
+        "exampleZh": "新生用简短步骤说明完成一次目录检索。",
+        "link": "建议与当前障碍一一对应，体现提案针对性。",
+        "linkZh": "建议与当前障碍一一对应，体现提案针对性。"
+      },
+      {
+        "claim": "开放时段调整可以先小规模试行。",
+        "claimZh": "开放时段调整可以先小规模试行。",
+        "mechanism": "限定时段并记录使用情况，可判断需求是否足以支持额外人员成本。",
+        "mechanismZh": "限定时段并记录使用情况，可判断需求是否足以支持额外人员成本。",
+        "example": "工作日晚间延长一小时，一个月后查看人数与反馈。",
+        "exampleZh": "工作日晚间延长一小时，一个月后查看人数与反馈。",
+        "link": "承认成本能提高可行性，而非假设图书馆随时有无限资源。",
+        "linkZh": "承认成本能提高可行性，而非假设图书馆随时有无限资源。"
+      }
+    ],
+    "modelEssay": "I would like to propose two improvements to our library services. They address difficulties that students may face when looking for resources and arranging their study time.\n\nFirst, new students often need guidance on using the catalogue. A short search guide on the library website, together with brief demonstrations at the beginning of term, would help them find materials independently. Staff could also collect common questions and use them to improve the guide.\n\nSecond, some students have classes late in the afternoon and find the evening opening hours too short. The library could try staying open for one extra hour on weekdays for a month. Recording visitor numbers would help staff decide whether the change is worth the additional cost.\n\nThese suggestions do not require every service to be changed at once. I recommend a small trial, followed by feedback from students and library staff. This would allow the library to identify which improvements are genuinely useful before committing more resources.",
+    "modelEssayZh": [
+      "我想为图书馆服务提出两项改进。它们针对学生查找资源和安排学习时间时可能遇到的困难。",
+      "首先，新生往往需要有人指导他们使用目录。图书馆网站上的简短检索指南，加上学期开始时的简要演示，可以帮助他们独立查找资料。工作人员还可以收集常见问题，用来改进指南。",
+      "其次，有些学生下午较晚还有课，觉得晚间开放时间太短。图书馆可以试行在工作日多开放一小时，持续一个月。记录到馆人数，有助于工作人员判断这项改变是否值得付出额外成本。",
+      "这些建议并不要求所有服务同时改变。我建议先进行小规模试行，再收集学生和图书馆工作人员的反馈。这样，图书馆可以在投入更多资源前，确定哪些改进真正有用。"
+    ],
+    "modelNotes": [
+      "参考作文 161 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创参考作文；具体问题与试点数字为示范假设，不是对任何实际学校图书馆的调查结论。",
+      "正文不是正式信件，也符合提案任务；格式选择应服从题干。",
+      "每项问题后紧接对应措施，再用试行与反馈处理可行性。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-library-1",
+        "text": "address difficulties that students face",
+        "meaning": "处理学生面临的困难",
+        "pattern": "address + 问题类名词；此处 address 是动词，不接 to。",
+        "patternZh": "表示“着手处理问题”，直接接问题类名词，不加 to；address 在这里是动词。",
+        "example": "The proposal addresses difficulties that students face when searching for materials.",
+        "exampleZh": "这份提案针对学生查找资料时面临的困难。",
+        "boundary": "address 表示着手处理，不保证解决；要写清困难和措施，避免 address all problems 的夸大。"
+      },
+      {
+        "id": "cet4-library-2",
+        "text": "be worth the additional cost",
+        "meaning": "值得付出额外成本",
+        "pattern": "be worth + 名词或 doing；不能写 worth to do。",
+        "patternZh": "“值得……”后接名词或动名词（动词-ing形式），不能接 to 加动词原形。",
+        "example": "A longer opening period may be worth the additional cost if enough students use it.",
+        "exampleZh": "如果使用的学生足够多，延长开放时间可能值得付出额外成本。",
+        "boundary": "需要对收益与成本作合理比较；may/if 能表达判断条件，不应在无数据时宣称已确定划算。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "The library should improve services. It should have more books and more time and better workers. Then everyone will like it.",
+      "weakParagraphZh": "图书馆应该改进服务。它应该有更多书、更多时间和更好的工作人员。这样每个人都会喜欢它。",
+      "improvedParagraph": "Some new students struggle to find materials in the catalogue. A short online guide and a brief demonstration would show them how to search independently. Staff could use recurring questions to decide which steps need clearer explanations.",
+      "improvedParagraphZh": "有些新生很难在目录中找到资料。一份简短的在线指南和一次简要演示，可以教他们怎样独立检索。工作人员可以根据反复出现的问题，判断哪些步骤需要解释得更清楚。",
+      "explanation": "选择具体障碍，解释措施如何作用；没有凭空要求所有资源增加，也不把满意度写成确定结果。",
+      "transferPrompt": "教学自拟：为学校健身房写一段改进建议。明确一个使用问题、一个对应办法和一种试行后的检查方式。",
+      "transferHint": "从预约、拥挤或器材指导中选一个问题；换成体育设施的机制与限制。",
+      "boundaryPrompt": "The library must open 24 hours a day because students need convenience. 是否是充分的方案？",
+      "boundaryAnswer": "不是。它未比较需求与人员、安全和运行成本。可以先调查需求或限定时段试行；全天开放并非唯一有效立场。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "This change is worth to try.",
+        "wrongZh": "这项改变值得尝试。",
+        "right": "This change is worth trying.",
+        "rightZh": "这项改变值得尝试。",
+        "why": "worth 后接名词或动名词，不接 to do。"
+      },
+      {
+        "wrong": "The library should provide students more guidance.",
+        "wrongZh": "图书馆应该给学生提供更多指导。",
+        "right": "The library should provide students with more guidance.",
+        "rightZh": "图书馆应该给学生提供更多指导。",
+        "why": "常见结构为 provide somebody with something，或 provide something for somebody。"
+      }
+    ]
+  },
+  {
+    "id": "cet4-2021-12-orientation",
+    "exam": "CET4",
+    "year": 2021,
+    "month": "12",
+    "title": "帮助新生适应大学的迎新方案",
+    "theme": "校园适应与活动设计",
+    "taskKind": "propose",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://news.koolearn.com/20211218/1251644.html",
+        "title": "2021年12月英语四级作文题目：新生适应提案",
+        "publisher": "新东方在线",
+        "kind": "institution-transcription",
+        "note": "教育机构公开的真题整理；用于核验考试年月与写作任务，非考试院原始试卷或官方评分标准。"
+      },
+      {
+        "url": "https://cet4.koolearn.com/20211218/863186.html",
+        "title": "2021年12月四级作文题目：新生适应提案",
+        "publisher": "新东方在线",
+        "kind": "institution-transcription",
+        "note": "教育机构公开的真题整理；用于核验考试年月与写作任务，非考试院原始试卷或官方评分标准。"
+      }
+    ],
+    "prompt": "为帮助新生适应新环境和大学学习设计迎新项目，并写一份提案。可以包括目标、时长、参加者和活动安排。",
+    "promptZh": "为帮助新生适应新环境和大学学习设计迎新项目，并写一份提案。可以包括目标、时长、参加者和活动安排。",
+    "promptMode": "scenario",
+    "directions": "Write a proposal for an orientation programme that helps new students adjust to their surroundings and university study. You may include its purpose, length, participants and activities. Spend 30 minutes on a text of 120 to 180 words.",
+    "directionsZh": "请为迎新项目写一份提案，帮助新生适应新环境和大学学习。你可以包括项目目标、时长、参加者和活动安排。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "设计帮助新生适应环境与学业的迎新项目。",
+      "objective": "提出连贯、可执行的项目，照顾生活适应与学业适应。",
+      "requirements": [
+        "写迎新项目提案",
+        "回应适应新环境与大学学习的目标",
+        "完成 120–180 词"
+      ],
+      "optionalIdeas": [
+        "目的、时长、参与者和活动为题干列出的可选项目，而非四个逐项必填点",
+        "同伴导师、设施介绍与提问机会",
+        "阅读、课程选择和学习计划指导",
+        "活动后的后续支持"
+      ],
+      "avoid": [
+        "只安排娱乐却忽略学习适应",
+        "把题干 may include 误判为所有项目必须逐项出现",
+        "没有解释活动如何帮助新生"
+      ],
+      "acceptedKeywords": [
+        "orientation",
+        "freshmen",
+        "new students",
+        "first-year students",
+        "adapt to university",
+        "迎新",
+        "新生适应",
+        "大学新生",
+        "入学适应"
+      ]
+    },
+    "routes": [
+      {
+        "label": "两天活动加后续支持",
+        "outline": [
+          "目标：降低初入大学的不确定感",
+          "第一天熟悉地点并见导师",
+          "第二天练习大学学习任务",
+          "一月后跟进需求"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "迎新项目需要把介绍转化为学生能做的任务。",
+        "claimZh": "迎新项目需要把介绍转化为学生能做的任务。",
+        "mechanism": "学生亲自尝试找资源、规划学习，再得到答疑，比单向接收大量信息更容易落实。",
+        "mechanismZh": "学生亲自尝试找资源、规划学习，再得到答疑，比单向接收大量信息更容易落实。",
+        "example": "在导师陪同下找一本课程所需的书，再讨论如何安排一周学习。",
+        "exampleZh": "在导师陪同下找一本课程所需的书，再讨论如何安排一周学习。",
+        "link": "活动因此回应环境和学业两类适应目标。",
+        "linkZh": "活动因此回应环境和学业两类适应目标。"
+      }
+    ],
+    "modelEssay": "I propose a two-day orientation programme to help new students become familiar with campus life and prepare for university study. Senior students and academic advisers could work together to provide practical guidance.\n\nOn the first day, small groups would visit essential places such as the library and student support centre. Each group would also meet a student mentor who could answer everyday questions. A simple campus task, such as finding a book, would help participants use the information immediately.\n\nThe second day would focus on learning. Advisers could explain how to read course requirements and plan a week's study. Students would then make a sample timetable and discuss it in pairs. This activity would give them a chance to ask questions before classes become demanding.\n\nThe programme should end with clear contact details for further support. Mentors could check in after a month to find out what difficulties remain. In this way, orientation would begin an ongoing process of adjustment rather than end with a campus tour.",
+    "modelEssayZh": [
+      "我提议开展一个为期两天的迎新项目，帮助新生熟悉校园生活，为大学学习做好准备。高年级学生和学业导师可以共同提供实用指导。",
+      "第一天，小组会参观图书馆、学生支持中心等重要地点。每组还会见到一位能解答日常问题的学生导师。找一本书之类的简单校园任务，可以帮助参与者立即运用刚得到的信息。",
+      "第二天的重点是学习。学业导师可以解释如何阅读课程要求、安排一周的学习。学生随后制作一份示例时间表，并两人一组讨论。在课程变得繁重之前，这项活动会给他们提问的机会。",
+      "项目结束时应提供清楚的联系方式，方便学生继续寻求帮助。导师可以在一个月后跟进，了解还有哪些困难。这样，迎新就会开启一个持续适应的过程，而不是在参观校园后就结束。"
+    ],
+    "modelNotes": [
+      "参考作文 167 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创参考作文；两天安排与一个月后跟进是建议，非题干规定。",
+      "原题目的、时长、参与者、活动为 may include；不能据此自动认定遗漏任一项就是不合题。",
+      "不仅游览校园，也设置课程要求与学习计划任务。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-orientation-1",
+        "text": "become familiar with",
+        "meaning": "熟悉",
+        "pattern": "become familiar with + 名词；与 be familiar with 区分变化过程和状态。",
+        "patternZh": "表示“逐渐熟悉……”：后接名词；它强调变化过程，而“已经熟悉”描述状态。",
+        "example": "A guided tour can help new students become familiar with the campus.",
+        "exampleZh": "有人带领的参观可以帮助新生熟悉校园。",
+        "boundary": "熟悉地点不代表已经适应全部大学生活；应继续说明实际任务和支持。"
+      },
+      {
+        "id": "cet4-orientation-2",
+        "text": "focus on learning",
+        "meaning": "把重点放在学习上",
+        "pattern": "focus on + 名词或动名词；on 是介词。",
+        "patternZh": "“把重点放在……”后接名词或动名词（动词-ing形式）；on 是介词。",
+        "example": "The second day would focus on planning study tasks.",
+        "exampleZh": "第二天的重点会是规划学习任务。",
+        "boundary": "说明具体重点比泛称 important 更清楚；不能写 focus on to do，也不表示生活适应部分可以忽略。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "We will show freshmen many buildings. The programme will be interesting. They will adapt to university completely.",
+      "weakParagraphZh": "我们会带新生看很多建筑。这个项目会很有趣。他们将完全适应大学。",
+      "improvedParagraph": "After a short library tour, each group would try finding a book with a student mentor. The task would help new students use the library rather than simply remember its location. Mentors could answer questions that arise during the search.",
+      "improvedParagraphZh": "简短参观图书馆后，每组会在学生导师陪同下尝试找一本书。这项任务能帮助新生使用图书馆，而不只是记住它的位置。导师可以回答检索过程中出现的问题。",
+      "explanation": "把被动参观改成一个能操作的任务，并说明它如何服务适应目标；删去 completely 这类没有证据的结果承诺。",
+      "transferPrompt": "教学自拟：为刚加入英语社团的同学设计一次入门活动。写目标、一个实际任务和一种后续支持。",
+      "transferHint": "考虑社团成员的需求，不能把大学迎新中的校园参观原样挪过去。",
+      "boundaryPrompt": "没有写 duration 就一定违反原题要求吗？",
+      "boundaryAnswer": "不一定。题干说 may include，这些要素是可选提示。方案仍应连贯可行，但不能把建议项当成全部硬性评分点。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "The programme helps students adapt the new environment.",
+        "wrongZh": "这个项目帮助学生调整新环境。",
+        "right": "The programme helps students adapt to the new environment.",
+        "rightZh": "这个项目帮助学生适应新环境。",
+        "why": "adapt to 表示适应；adapt something 则是改编或调整某物。"
+      },
+      {
+        "wrong": "An advice will help freshmen.",
+        "wrongZh": "一个建议会帮助新生。",
+        "right": "A piece of advice will help new students.",
+        "rightZh": "一条建议会帮助新生。",
+        "why": "advice 不可数；可用 some advice 或 a piece of advice。"
+      }
+    ]
+  },
+  {
+    "id": "cet4-2019-12-learn-chinese-place",
+    "exam": "CET4",
+    "year": 2019,
+    "month": "12",
+    "title": "向外国朋友推荐学习中文的地点",
+    "theme": "建议书信与读者需要",
+    "taskKind": "application",
+    "deep": false,
+    "evaluation": true,
+    "sources": [
+      {
+        "url": "https://m.koolearn.com/news/20191214/1190050.html",
+        "title": "2019年12月英语四级作文题目：推荐学习汉语的地方",
+        "publisher": "新东方在线",
+        "kind": "institution-transcription",
+        "note": "教育机构公开的真题整理；用于核验考试年月与写作任务，非考试院原始试卷或官方评分标准。"
+      },
+      {
+        "url": "https://file.xdf.cn/uploads/191214/182_191214181054RMp98iCrzFUxxTMB.pdf",
+        "title": "2019年12月英语四级写作：推荐学习汉语的地方",
+        "publisher": "新东方公开试卷资源",
+        "kind": "institution-transcription",
+        "note": "公开 PDF 整理题干要求给外国朋友写信推荐学习汉语的地点；不与同期推荐城市旅游或推荐大学的不同题目混同。"
+      }
+    ],
+    "prompt": "外国朋友想学习中文，请写一封信，向他推荐一个学习中文的地方。",
+    "promptZh": "外国朋友想学习中文，请写一封信，向他推荐一个学习中文的地方。",
+    "promptMode": "scenario",
+    "directions": "A friend from abroad wants to learn Chinese. Write a letter recommending a place where your friend could study the language, with reasons for your recommendation. Finish in 30 minutes and use 120 to 180 words.",
+    "directionsZh": "一位外国朋友想学习中文。请写一封信，推荐一个他可以学习中文的地方，并说明推荐理由。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "向希望学中文的外国朋友提供学习地点建议。",
+      "objective": "推荐具体地点，并围绕对方的语言学习需要给出理由。",
+      "requirements": [
+        "采用给外国朋友的信件形式",
+        "推荐适合学习中文的地点",
+        "建议与学习中文的目的相关",
+        "全文 120–180 词"
+      ],
+      "optionalIdeas": [
+        "适合水平的课程和反馈",
+        "日常练习机会",
+        "选择前核对课程、费用与安排"
+      ],
+      "avoid": [
+        "只介绍旅游景点而不回应学习中文",
+        "套用推荐大学的另一道题却不讲语言学习需要",
+        "编造某机构的真实费用、课程效果或招生信息"
+      ],
+      "acceptedKeywords": [
+        "learn Chinese",
+        "study Chinese",
+        "Chinese language",
+        "Mandarin",
+        "Chinese classes",
+        "学习中文",
+        "学习汉语",
+        "中文学习",
+        "汉语课程",
+        "普通话"
+      ]
+    },
+    "routes": [
+      {
+        "label": "推荐地点，解释学习支持与实践",
+        "outline": [
+          "友好称呼并回应学习意愿",
+          "推荐一个具体地点",
+          "从课程选择与日常实践说明理由",
+          "提醒选课前核对并结束书信"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "推荐地点应服务对方的学习目标。",
+        "claimZh": "推荐地点应服务对方的学习目标。",
+        "mechanism": "合适难度的课程提供指导，日常任务则提供使用语言的情境。",
+        "mechanismZh": "合适难度的课程提供指导，日常任务则提供使用语言的情境。",
+        "example": "选择能指导发音的初级课程，并在熟悉的商店练习简短表达。",
+        "exampleZh": "选择能指导发音的初级课程，并在熟悉的商店练习简短表达。",
+        "link": "推荐理由因此与学习中文相关，而非只证明城市值得旅游。",
+        "linkZh": "推荐理由因此与学习中文相关，而非只证明城市值得旅游。"
+      }
+    ],
+    "modelEssay": "Dear Alex,\n\nI am glad to hear that you want to learn Chinese. I would suggest looking for a university language centre in Hangzhou. The city would offer a setting in which you could combine lessons with everyday practice.\n\nA suitable beginner course could help you build basic vocabulary and receive guidance on pronunciation. Before enrolling, check that the class matches your level and gives students opportunities to speak. Regular feedback would be more useful than a course that only asks you to memorize words.\n\nOutside class, you could practise simple conversations in familiar places, such as a nearby shop. Start with short tasks and keep a record of expressions that you find useful. Having classmates to practise with would also make the experience easier.\n\nPlease compare the course arrangements and costs before making a decision. If you tell me your current level and available time, I can help you think through the options.\n\nBest wishes,\nLi Hua",
+    "modelEssayZh": [
+      "亲爱的亚历克斯：",
+      "很高兴听说你想学中文。我建议你在杭州寻找一所大学的语言中心。这座城市可以提供一个把课堂学习与日常练习结合起来的环境。",
+      "合适的初级课程可以帮助你积累基础词汇，并得到发音指导。报名之前，要确认课程适合你的水平，也给学生提供开口练习的机会。定期反馈，会比只要求你背单词的课程更有用。",
+      "课外，你可以在熟悉的地方，比如附近的商店，练习简单对话。先从简短任务开始，并记录你觉得有用的表达。有同学一起练习，也会让学习经历更轻松。",
+      "请在决定之前比较课程安排和费用。如果你告诉我目前的水平和可用时间，我可以帮你仔细考虑不同选择。",
+      "祝好！",
+      "李华"
+    ],
+    "modelNotes": [
+      "参考作文 158 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创参考书信；示范地点建议并非对真实培训机构的招生或效果背书，须核对课程实际情况。",
+      "教学评估题：应先独立作答再看参考作文。",
+      "称呼、正文与落款一并计词；真实题干没有给定首句排除规则。",
+      "推荐理由围绕中文学习，不把旅游吸引力当作充分理由。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-chinese-place-1",
+        "text": "combine lessons with everyday practice",
+        "meaning": "把课堂学习与日常练习结合",
+        "pattern": "combine A with B；A、B 都用名词或动名词。",
+        "patternZh": "表示“把A与B结合”；两项都用名词或动名词（动词-ing形式）。",
+        "example": "The programme could combine lessons with everyday practice.",
+        "exampleZh": "这个项目可以把课堂学习与日常练习结合起来。",
+        "boundary": "两种活动都应有具体机会；仅在某个城市生活不意味着自然获得足够练习或正确反馈。"
+      },
+      {
+        "id": "cet4-chinese-place-2",
+        "text": "match your level",
+        "meaning": "符合你的水平",
+        "pattern": "match + 名词，直接接宾语；此处 level 指语言学习水平。",
+        "patternZh": "表示“与……相符”，直接接名词作宾语；这里的 level 指语言学习水平。",
+        "example": "Choose a course that matches your level.",
+        "exampleZh": "选择一门符合你水平的课程。",
+        "boundary": "不要误写 match with your level；适合水平是选择条件之一，不是学习成功的保证。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "I recommend Hangzhou because it is very beautiful. There are many places to visit. You will learn Chinese quickly.",
+      "weakParagraphZh": "我推荐杭州，因为它非常美丽。那里有很多值得参观的地方。你会很快学会中文。",
+      "improvedParagraph": "I suggest finding a beginner course in Hangzhou that matches your level. Lessons with speaking practice and feedback could help you build confidence. You could then use short expressions in everyday situations, such as buying food.",
+      "improvedParagraphZh": "我建议在杭州找一门符合你水平的初级课程。包含口语练习和反馈的课堂，可以帮助你建立信心。随后，你可以在买食物等日常情境中使用简短表达。",
+      "explanation": "让推荐理由回应语言学习，把城市吸引力换成课程质量和实践情境；去掉 quickly 的无依据效果保证。",
+      "transferPrompt": "教学自拟：给外国朋友写信，推荐一个适合练习英语口语的学习场所。先考虑对方水平，再给出两项相关理由。",
+      "transferHint": "改变语言、场所和实践机会；注意仍然以朋友为读者，而非正式写给招生部门。",
+      "boundaryPrompt": "可以写 This centre guarantees fluent Chinese in one month 来强化推荐吗？",
+      "boundaryAnswer": "不可以无依据作这种保证。语言学习速度受起点、练习、反馈和投入影响；应具体说明课程的合适性与可提供的机会。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "I suggest you to choose this course.",
+        "wrongZh": "我建议你选择这门课程。",
+        "right": "I suggest that you choose this course.",
+        "rightZh": "我建议你选择这门课程。",
+        "why": "suggest 常用 suggest doing 或 suggest that + 从句，不用 suggest somebody to do。"
+      },
+      {
+        "wrong": "The course matches with your level.",
+        "wrongZh": "这门课程符合你的水平。",
+        "right": "The course matches your level.",
+        "rightZh": "这门课程符合你的水平。",
+        "why": "match 在“符合”意义下通常直接接宾语。"
+      }
+    ]
+  },
+  {
+    "id": "cet4-2019-06-farm-report",
+    "exam": "CET4",
+    "year": 2019,
+    "month": "06",
+    "title": "报道学生会组织的当地农场参观",
+    "theme": "校园新闻与事件信息",
+    "taskKind": "describe",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet46.wendu.com/2019/0615/45822.shtml",
+        "title": "2019年6月英语四级真题作文范文（参观当地农场）",
+        "publisher": "文都教育",
+        "kind": "institution-transcription",
+        "note": "教育机构公开的真题整理；用于核验考试年月与写作任务，非考试院原始试卷或官方评分标准。"
+      },
+      {
+        "url": "https://m.koolearn.com/cet4/20190615/831211.html",
+        "title": "2019年6月英语四级真题第一套作文范文：农场",
+        "publisher": "新东方在线",
+        "kind": "institution-transcription",
+        "note": "教育机构公开的真题整理；用于核验考试年月与写作任务，非考试院原始试卷或官方评分标准。"
+      }
+    ],
+    "prompt": "为校报写一则新闻，报道学生会组织的一次当地农场参观。",
+    "promptZh": "为校报写一则新闻，报道学生会组织的一次当地农场参观。",
+    "promptMode": "scenario",
+    "directions": "Produce a news report for your campus newspaper about a visit to a local farm organised by the Student Union. You have 30 minutes to write a report containing 120 to 180 words.",
+    "directionsZh": "请为校报写一则新闻，报道学生会组织的一次当地农场参观。限时30分钟，120至180词。",
+    "directionsNote": "依据所列公开题源忠实整理，以下英文为任务要求的改写，并非试卷逐字原文。30 分钟；全文计词，无需给定首句。",
+    "wordRange": {
+      "min": 120,
+      "max": 180,
+      "excludeOpening": false
+    },
+    "reviewStatus": "independent-model-review",
+    "task": {
+      "situation": "面向校报读者报道学生会组织的当地农场参观。",
+      "objective": "清楚交代事件与有价值的参观过程，保持新闻报道体裁。",
+      "requirements": [
+        "为校报写新闻报道",
+        "事件是参观当地农场",
+        "组织者是学生会",
+        "全文 120–180 词"
+      ],
+      "optionalIdeas": [
+        "导语说明谁、何时、做了什么、在哪里",
+        "报道参观过程与学生了解的内容",
+        "用具体后续活动或回应说明结果"
+      ],
+      "avoid": [
+        "写成介绍农业重要性的议论文",
+        "写成第一人称日记或邀请信",
+        "只用 wonderful 等评价而不交代事件",
+        "把示范的新闻细节当成真实报道数据"
+      ],
+      "acceptedKeywords": [
+        "Student Union",
+        "students' union",
+        "local farm",
+        "farm visit",
+        "visit to a farm",
+        "farm trip",
+        "学生会",
+        "当地农场",
+        "农场参观",
+        "参观农场"
+      ]
+    },
+    "routes": [
+      {
+        "label": "导语、过程、结果",
+        "outline": [
+          "导语交代学生会与当地农场参观",
+          "选择两项有信息价值的过程细节",
+          "说明学生了解了什么",
+          "用后续分享或反馈结束"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "新闻报道应先让读者知道发生了什么。",
+        "claimZh": "新闻报道应先让读者知道发生了什么。",
+        "mechanism": "导语提供关键事件信息，后续细节解释过程，读者无需先阅读抽象评价。",
+        "mechanismZh": "导语提供关键事件信息，后续细节解释过程，读者无需先阅读抽象评价。",
+        "example": "先报道学生会组织参观，再写农场人员介绍种植和节水方法。",
+        "exampleZh": "先报道学生会组织参观，再写农场人员介绍种植和节水方法。",
+        "link": "信息顺序体现新闻用途，而非议论文的观点论证。",
+        "linkZh": "信息顺序体现新闻用途，而非议论文的观点论证。"
+      }
+    ],
+    "modelEssay": "The Student Union organised a visit to a local farm last Saturday, giving students an opportunity to learn about food production beyond the classroom. The group spent the morning observing farm work and talking with staff.\n\nThe visit began with an introduction to the crops grown on the farm. A worker then explained how the team checked soil conditions and planned watering. Students asked questions about the differences between the methods used for various crops. They also joined a short activity sorting vegetables, which helped them see why careful handling matters before food reaches a shop.\n\nAt the end of the visit, the organisers invited students to share what they had learned. Several participants described a better understanding of the work behind everyday meals. The Student Union plans to publish their short reports on its website so that other students can learn from the visit.\n\nThe activity connected classroom knowledge with a local workplace and encouraged further questions about agriculture.",
+    "modelEssayZh": [
+      "学生会上周六组织了一次当地农场参观，让学生有机会在课堂之外了解食品生产。同学们用一上午观察农场工作，并与工作人员交流。",
+      "参观首先介绍了农场种植的作物。随后，一位工作人员说明团队如何检查土壤状况、规划浇水。学生提问，了解不同作物所用方法的差异。他们还参加了一次简短的蔬菜分拣活动，这有助于他们理解，食品到达商店之前为什么需要小心处理。",
+      "参观结束时，组织者邀请学生分享学到的内容。几位参与者表示，他们更加理解了日常饭菜背后付出的劳动。学生会计划在网站上发布他们的简短报告，让其他同学也能从这次参观中学习。",
+      "这次活动把课堂知识与当地工作场所联系起来，也鼓励大家进一步提出有关农业的问题。"
+    ],
+    "modelNotes": [
+      "参考作文 160 词：按本工具英文词项规则计数，缩写、所有格与连字符复合词计作一词；本题全文均计入。",
+      "原创新闻写作示范；时间、活动过程、参与者回应与后续计划为虚构教学细节，不是实际采访记录。",
+      "新闻导语先交代组织者、事件、地点类别和时间，再写过程和结果。",
+      "题干没有要求具体人数、数字或引语；无需伪造统计来增强可信度。"
+    ],
+    "expressions": [
+      {
+        "id": "cet4-farm-1",
+        "text": "give students an opportunity to",
+        "meaning": "给学生机会做",
+        "pattern": "give + 人 + an opportunity + to do；an opportunity 后也可接 for + 名词。",
+        "patternZh": "表示“给某人做某事的机会”；opportunity 后接动词不定式，也可以用 for 接名词。",
+        "example": "The visit gave students an opportunity to observe farm work.",
+        "exampleZh": "这次参观给了学生观察农场工作的机会。",
+        "boundary": "适合活动提供的学习机会；不能直接把机会等同于专业技能已经掌握。"
+      },
+      {
+        "id": "cet4-farm-2",
+        "text": "learn about food production",
+        "meaning": "了解食品生产",
+        "pattern": "learn about + 主题名词；learn to do 表示学会做一项技能。",
+        "patternZh": "“了解……”后接主题名词；“学会做……”则用 to 后接动词原形。",
+        "example": "Students learned about food production by talking with farm workers.",
+        "exampleZh": "学生通过与农场工作人员交谈，了解了食品生产。",
+        "boundary": "参观了解用 learn about 更准确；未实际完成技能训练时不宜写 learned to run a farm。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Agriculture is important in modern society. Farms are good places. We should visit farms because they are useful.",
+      "weakParagraphZh": "农业在现代社会很重要。农场是好地方。我们应该参观农场，因为它们很有用。",
+      "improvedParagraph": "The Student Union organised a visit to a local farm last Saturday. During the morning tour, farm workers explained how they planned watering and handled vegetables. Students asked questions about the work involved in producing everyday food.",
+      "improvedParagraphZh": "学生会上周六组织了一次当地农场参观。上午参观时，农场工作人员介绍了如何规划浇水、处理蔬菜。学生询问了生产日常食物所涉及的工作。",
+      "explanation": "从泛泛议论转为事件导语和过程信息；保留组织者、农场参观与新闻读者需要。细节为教学自拟，不是题干事实。",
+      "transferPrompt": "教学自拟：为校报报道学生会组织的一次当地博物馆参观。独立写导语和一个过程段落。",
+      "transferHint": "改成博物馆具体活动与可获得的信息，保持组织者、时间、事件清楚；不要原样移植农作物细节。",
+      "boundaryPrompt": "用 I had a wonderful time and hope you will come next time 结束新闻报道合适吗？",
+      "boundaryAnswer": "更像日记或邀请。新闻可以报道参与者的体验或组织者后续计划，但应保持事件信息和适合校报的语气。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "The visit was organized by Student Union.",
+        "wrongZh": "这次参观由学生会组织。",
+        "right": "The visit was organised by the Student Union.",
+        "rightZh": "这次参观由学生会组织。",
+        "why": "具体学生会通常用 the Student Union；英美拼写 organised/organized 均可，全文保持一致。"
+      },
+      {
+        "wrong": "Students learned to food production.",
+        "wrongZh": "学生学会了“食品生产”。",
+        "right": "Students learned about food production.",
+        "rightZh": "学生了解了食品生产。",
+        "why": "learn about 后接主题名词；learn to 后接动词原形。"
+      }
+    ]
+  }
+]

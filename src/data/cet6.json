@@ -1,0 +1,3375 @@
+[
+  {
+    "id": "cet6_2024_06_independent_learning",
+    "legacyIds": [
+      "cet6_2024_12_01_independent_learning"
+    ],
+    "exam": "CET6",
+    "year": 2024,
+    "month": "06",
+    "title": "自主学习如何支持个人发展",
+    "theme": "学习成长类",
+    "taskKind": "explain",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://m.koolearn.com/cet6/20250417/898884.html",
+        "title": "2024年6月大学英语六级作文题：自主学习",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "机构完整 Directions 确认 2024 年 6 月，要求照抄给定首句，150–200 词；高校托管卷面交叉核对。旧数据误标 2024 年 12 月。机构套次与托管卷不同，不将套次作为题目身份。"
+      },
+      {
+        "url": "https://xxgcxy.ztbu.edu.cn/attachment/sites/item/2024_11/05_17/48925a74ccee4639.pdf",
+        "title": "2024年6月六级整理卷（高校托管PDF）",
+        "publisher": "郑州工商学院网站托管；第三方整理卷",
+        "kind": "university-paper",
+        "note": "卷面确认题目开头和完整要求；高校托管不等于官方发布，卷面另署第三方来源。"
+      }
+    ],
+    "prompt": "Nowadays, cultivating independent learning ability is becoming increasingly crucial for personal development.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with reasons, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据题源和用户原始资料忠实整理的训练指令，并非原始 Directions 的逐字转载；题目明确要求的给定首句应保留。计词按来源未排除首句的规则；不得由模板推断所有场次都排除首句。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "大学学习和毕业后的持续发展",
+      "objective": "解释自主学习能力如何支持个人发展，并说明指导的作用",
+      "requirements": [
+        "解释自主学习能力如何支持个人发展",
+        "至少通过一个具体任务说明主动检查、选择资源或调整方法的作用"
+      ],
+      "optionalIdeas": [
+        "识别理解缺口",
+        "处理陌生工作任务",
+        "先尝试，再寻求针对性反馈"
+      ],
+      "avoid": [
+        "将自主学习等同于拒绝教师帮助",
+        "只重复能力很重要而不解释"
+      ],
+      "acceptedKeywords": [
+        "independent learning",
+        "independent learning ability",
+        "自主学习",
+        "自主学习能力",
+        "personal development",
+        "个人发展"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "界定自主学习是选择、检查和调整",
+          "解释诊断知识缺口与适应新任务",
+          "用统计学习和新软件说明",
+          "提出主动学习与针对性指导相结合"
+        ]
+      },
+      {
+        "label": "思路二：从情境出发并说明边界",
+        "outline": [
+          "比较只复制答案与主动检查理解",
+          "展示求助前尝试如何改善反馈质量",
+          "说明独立与指导可以共存"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "自主学习帮助学生有针对性地补足知识。",
+        "mechanism": "检查自己的理解可以发现具体障碍，从而选择相应资源。",
+        "example": "读不懂图表的学生复习统计概念，并用一个小数据集检验理解。",
+        "link": "这使学习者逐渐能诊断问题，而非只等待答案。",
+        "claimZh": "自主学习帮助学生有针对性地补足知识。",
+        "mechanismZh": "检查自己的理解可以发现具体障碍，从而选择相应资源。",
+        "exampleZh": "读不懂图表的学生复习统计概念，并用一个小数据集检验理解。",
+        "linkZh": "这使学习者逐渐能诊断问题，而非只等待答案。"
+      },
+      {
+        "claim": "自主学习有助于适应陌生任务。",
+        "mechanism": "把大任务拆成可检验的小目标，可以减少对完整指令的依赖。",
+        "example": "毕业生学习新软件时先试一个功能，再检查结果。",
+        "link": "这种习惯将学习中的主动性迁移到工作。",
+        "claimZh": "自主学习有助于适应陌生任务。",
+        "mechanismZh": "把大任务拆成可检验的小目标，可以减少对完整指令的依赖。",
+        "exampleZh": "毕业生学习新软件时先试一个功能，再检查结果。",
+        "linkZh": "这种习惯将学习中的主动性迁移到工作。"
+      }
+    ],
+    "modelEssay": "Nowadays, cultivating independent learning ability is becoming increasingly crucial for personal development. This ability involves choosing useful resources, checking understanding and adjusting a plan when progress slows.\n\nOne benefit is that students can respond to specific gaps in their knowledge. A student who cannot interpret a graph, for example, can revisit the relevant statistics lesson and test the explanation on a small data set. Instead of copying an answer, the student learns how to diagnose and resolve a difficulty. Independent learning also helps people handle unfamiliar tasks. When a graduate encounters new software at work, the same habit of setting a small goal, trying a method and checking the result provides a practical starting point. Progress becomes less dependent on receiving complete instructions.\n\nHowever, independence does not mean refusing assistance. Teachers and colleagues can offer feedback that learners cannot easily obtain alone. Students should therefore practise explaining their difficulties, selecting resources and evaluating results before asking for targeted help. With this combination of initiative and guidance, they can gradually take greater responsibility for their own development.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2024_06_independent_learning_e1",
+        "text": "identify gaps in one's understanding",
+        "meaning": "发现理解上的缺口",
+        "pattern": "identify + 名词；gaps in + 名词",
+        "example": "A short quiz can help students identify gaps in their understanding.",
+        "boundary": "gap 常用复数；不要把知识缺口直接等同于缺少学习资源。",
+        "patternZh": "identify 后接要识别的对象；gaps in 表示某方面的不足，in 后接名词。",
+        "exampleZh": "一次简短测验可以帮助学生发现理解中的不足。"
+      },
+      {
+        "id": "cet6_2024_06_independent_learning_e2",
+        "text": "take responsibility for",
+        "meaning": "对……承担责任",
+        "pattern": "for + 名词或动名词",
+        "example": "Students should take responsibility for checking their own progress.",
+        "boundary": "for 后不能直接接动词原形；负责不意味着拒绝求助。",
+        "patternZh": "for 是介词，后接名词或动名词，说明需要负责的事情。",
+        "exampleZh": "学生应对检查自己的进展负责。"
+      },
+      {
+        "id": "cet6_2024_06_independent_learning_e3",
+        "text": "ask for targeted feedback",
+        "meaning": "寻求针对性反馈",
+        "pattern": "ask for + 名词短语",
+        "example": "After trying the problem, she asked for targeted feedback on her reasoning.",
+        "boundary": "feedback 是不可数名词，不写 feedbacks；需要说明反馈针对什么。",
+        "patternZh": "ask for 表示请求获得，后接所请求的事物这一名词短语。",
+        "exampleZh": "尝试解题后，她针对自己的推理寻求了有针对性的反馈。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Independent learning is very important. It is useful for everyone and will give students a bright future.",
+      "improvedParagraph": "Checking understanding helps students identify specific difficulties. A student who cannot interpret a graph can revisit the relevant statistics lesson and test the explanation on a small data set. The student then learns how to diagnose a problem rather than simply copy an answer.",
+      "explanation": "弱段只反复说重要和美好未来，没有说明能力怎样帮助发展。改进段把检查理解连接到诊断图表困难，再说明学习者如何逐步不依赖现成答案，直接回应自主学习的作用。",
+      "transferPrompt": "新员工如何学习一项陌生的工作技能？写出一条从自主学习到适应任务的因果链。",
+      "transferHint": "保留目标—尝试—检查—反馈的机制，替换场景，避免直接复述大学课堂例子。",
+      "boundaryPrompt": "自主学习能力越强，就越不应该向教师求助。这个结论成立吗？",
+      "boundaryAnswer": "不成立。自主学习强调主动判断和负责；针对性反馈可以纠正学习者自己难以发现的误解。",
+      "weakParagraphZh": "自主学习非常重要。它对每个人都有用，而且会给学生带来光明的未来。",
+      "improvedParagraphZh": "检查理解情况有助于学生发现具体困难。无法理解图表的学生可以重新学习相关的统计课程，并用一个小数据集检验自己的解释。这样，学生学到的是如何诊断问题，而不只是照抄答案。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Students should learn by themself.",
+        "right": "Students should learn by themselves.",
+        "why": "复数主语 students 对应反身代词 themselves。",
+        "wrongZh": "学生应该靠自己学习。",
+        "rightZh": "学生应该靠自己学习。"
+      },
+      {
+        "wrong": "Independent learners never ask for help.",
+        "right": "Independent learners try a method before asking for targeted help.",
+        "why": "原句将独立误解为完全不求助；改句明确求助前的主动尝试。",
+        "wrongZh": "自主学习者从不寻求帮助。",
+        "rightZh": "自主学习者先尝试一种方法，再寻求有针对性的帮助。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "Nowadays, cultivating independent learning ability is becoming increasingly crucial for personal development.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用理由、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "如今，培养自主学习能力对个人发展变得越来越重要。",
+    "modelEssayZh": [
+      "如今，培养自主学习能力对个人发展变得越来越重要。这种能力包括选择有用的资源、检查理解情况，以及在进展变慢时调整计划。",
+      "一个好处是，学生可以针对知识中的具体不足采取行动。例如，无法理解图表的学生可以重新学习相关的统计课程，并用一个小数据集检验自己的解释。学生学到的是如何诊断并解决困难，而不是照抄答案。自主学习也有助于人们处理陌生任务。当毕业生在工作中遇到新软件时，设定小目标、尝试一种方法并检查结果的同一习惯，能提供一个实际的起点。取得进展不再那么依赖完整指令。",
+      "不过，独立并不意味着拒绝帮助。教师和同事可以提供学习者独自难以获得的反馈。因此，学生应练习说明困难、选择资源和评价结果，然后再寻求有针对性的帮助。将主动性与指导结合起来，他们就能逐步对自身发展承担更多责任。"
+    ],
+    "requiredOpeningZh": "如今，培养自主学习能力对个人发展变得越来越重要。"
+  },
+  {
+    "id": "cet6_2024_06_digital_literacy",
+    "legacyIds": [
+      "cet6_2024_12_02_digital_literacy"
+    ],
+    "exam": "CET6",
+    "year": 2024,
+    "month": "06",
+    "title": "数字素养与技能的实际价值",
+    "theme": "数字信息类",
+    "taskKind": "explain",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet6.koolearn.com/20240615/887634.html",
+        "title": "2024年6月六级写作：数字素养和技能",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "考试年月和主题与机构、高校托管卷一致；旧数据误标 2024 年 12 月。给定句沿用用户资料，首句计入本题总词数。"
+      },
+      {
+        "url": "https://xxgcxy.ztbu.edu.cn/attachment/sites/item/2024_11/05_17/46194655adf91049.pdf",
+        "title": "2024年6月六级数字素养整理卷",
+        "publisher": "郑州工商学院网站托管；第三方整理卷",
+        "kind": "university-paper",
+        "note": "高校托管卷面用于交叉核对给定句和要求，不标为官方试卷。"
+      }
+    ],
+    "prompt": "There is a growing awareness of the importance of digital literacy and skills in today's world.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with reasons, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据题源和用户原始资料忠实整理的训练指令，并非原始 Directions 的逐字转载；题目明确要求的给定首句应保留。计词按来源未排除首句的规则；不得由模板推断所有场次都排除首句。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "数字工具广泛进入学习、工作和沟通",
+      "objective": "解释数字素养与技能的价值，同时涉及操作能力和信息判断",
+      "requirements": [
+        "同时回应数字素养与数字技能的价值",
+        "区分操作工具和判断信息，并用具体情境解释"
+      ],
+      "optionalIdeas": [
+        "整理数据减少重复工作",
+        "核验来源防止传播失实信息",
+        "保护个人信息"
+      ],
+      "avoid": [
+        "只谈使用手机熟练",
+        "断言技术必然提高所有人的效率"
+      ],
+      "acceptedKeywords": [
+        "digital literacy",
+        "digital skills",
+        "digital literacy and skills",
+        "数字素养",
+        "数字技能",
+        "信息判断"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "区分操作工具与判断信息",
+          "用表格项目解释效率",
+          "用核验消息解释责任",
+          "提出结合操作、核验和隐私的小项目"
+        ]
+      },
+      {
+        "label": "思路二：从情境出发并说明边界",
+        "outline": [
+          "从转发不可靠消息的情境出发",
+          "说明熟悉工具不等于善于判断",
+          "连接课程练习与生活中的使用边界"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "数字技能可以减少重复劳动。",
+        "mechanism": "整理和计算工具将注意力从复制数据转向解释结果。",
+        "example": "学生用表格比较调查回应并检查异常数值。",
+        "link": "工具能力因此支持更有意义的分析。",
+        "claimZh": "数字技能可以减少重复劳动。",
+        "mechanismZh": "整理和计算工具将注意力从复制数据转向解释结果。",
+        "exampleZh": "学生用表格比较调查回应并检查异常数值。",
+        "linkZh": "工具能力因此支持更有意义的分析。"
+      },
+      {
+        "claim": "数字素养可以改善信息判断。",
+        "mechanism": "核对来源、证据和其他可靠解释能发现不支持结论的信息。",
+        "example": "转发一条令人焦虑的消息前先检查出处。",
+        "link": "负责任的判断减少失实信息对他人决定的影响。",
+        "claimZh": "数字素养可以改善信息判断。",
+        "mechanismZh": "核对来源、证据和其他可靠解释能发现不支持结论的信息。",
+        "exampleZh": "转发一条令人焦虑的消息前先检查出处。",
+        "linkZh": "负责任的判断减少失实信息对他人决定的影响。"
+      }
+    ],
+    "modelEssay": "There is a growing awareness of the importance of digital literacy and skills in today's world. Digital competence includes both operating tools and judging the information those tools provide.\n\nPractical skills can reduce unnecessary work. In a class project, students who know how to organise a spreadsheet can compare survey responses and check unusual results without repeatedly copying figures. Their attention can then shift from handling files to interpreting evidence. Digital literacy is equally valuable because convenient access does not guarantee reliable information. Before sharing an alarming online claim, a student should identify its source, examine the evidence and compare it with a credible alternative. This process can prevent an unsupported message from influencing other people's decisions.\n\nThese benefits require practice rather than familiarity with a phone alone. Universities could ask students to complete small projects that involve organising data, checking sources and protecting personal details. Students should also explain why they trust a source, rather than simply listing links. Such tasks help connect digital skills with responsible judgment in study, work and everyday communication.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2024_06_digital_literacy_e1",
+        "text": "distinguish between A and B",
+        "meaning": "区分A与B",
+        "pattern": "distinguish between + 名词 + and + 名词",
+        "example": "Students should distinguish between popularity and reliability.",
+        "boundary": "固定搭配用 between ... and ...；流行度与可靠性不能等同。",
+        "patternZh": "distinguish between A and B 表示区分 A 与 B，两项通常用名词表达。",
+        "exampleZh": "学生应区分受欢迎程度与可靠性。"
+      },
+      {
+        "id": "cet6_2024_06_digital_literacy_e2",
+        "text": "assess the reliability of",
+        "meaning": "评估……的可靠性",
+        "pattern": "assess the reliability of + 信息或来源",
+        "example": "Before sharing a claim, we should assess the reliability of its source.",
+        "boundary": "评估不等于证明绝对真实；reliability 是名词，不能换成 reliable。",
+        "patternZh": "assess the reliability of 后接信息或来源，表示评估其可靠性。",
+        "exampleZh": "分享一项说法之前，我们应评估其来源的可靠性。"
+      },
+      {
+        "id": "cet6_2024_06_digital_literacy_e3",
+        "text": "protect personal information",
+        "meaning": "保护个人信息",
+        "pattern": "protect + 名词；protect ... from ...",
+        "example": "Strong passwords can help protect personal information from unauthorised access.",
+        "boundary": "information 不可数；密码不能保证完全安全，宜用 can help。",
+        "patternZh": "protect 后接要保护的对象；protect A from B 表示保护 A 免受 B 的影响。",
+        "exampleZh": "强密码可以帮助保护个人信息，防止未经授权的访问。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Digital skills are good. Students can use phones every day, so they have enough digital literacy.",
+      "improvedParagraph": "Frequent phone use does not guarantee reliable judgment. Before sharing an online claim, a student can examine its source and compare its evidence with a credible alternative. This check helps prevent an unsupported message from influencing others.",
+      "explanation": "弱段把手机使用频率当作数字素养的证据。改进段补充核验来源和证据的具体行为，再解释为何能减少不可靠消息的传播，回应判断能力这一维度。",
+      "transferPrompt": "面对网上一则招聘消息，如何判断它是否值得相信？",
+      "transferHint": "把来源、证据和交叉核验迁移到招聘情境；不要把网站好看视作可信证据。",
+      "boundaryPrompt": "一名学生每天使用社交媒体六小时，就能证明他具备充分数字素养吗？",
+      "boundaryAnswer": "不能。使用频率无法证明能评估证据、保护信息或负责任地传播内容。",
+      "weakParagraphZh": "数字技能很好。学生每天都能使用手机，所以他们已有足够的数字素养。",
+      "improvedParagraphZh": "经常使用手机并不保证判断可靠。在分享一项网络说法之前，学生可以检查其来源，并将其中证据与可信的其他证据作比较。这项核查有助于防止缺乏依据的消息影响他人。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Digital literacy and skills has become important.",
+        "right": "Digital literacy and skills have become important.",
+        "why": "and 连接两个并列概念，通常按复数主语处理。",
+        "wrongZh": "数字素养和技能已变得重要。",
+        "rightZh": "数字素养和技能已变得重要。"
+      },
+      {
+        "wrong": "We should assess the reliable of a source.",
+        "right": "We should assess the reliability of a source.",
+        "why": "the ... of 结构此处需要名词 reliability。",
+        "wrongZh": "我们应该评估一个来源的可靠性。",
+        "rightZh": "我们应该评估一个来源的可靠性。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "There is a growing awareness of the importance of digital literacy and skills in today's world.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用理由、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "人们越来越意识到数字素养和技能在当今世界中的重要性。",
+    "modelEssayZh": [
+      "人们越来越意识到数字素养和技能在当今世界中的重要性。数字能力既包括操作工具，也包括判断这些工具提供的信息。",
+      "实际操作技能可以减少不必要的工作。在课堂项目中，懂得整理电子表格的学生可以比较调查回答并检查异常结果，而不必反复复制数字。这样，他们的注意力就可以从处理文件转向解读证据。数字素养同样有价值，因为便捷获取信息并不保证信息可靠。在分享一条令人担忧的网络说法之前，学生应确定其来源、检查证据，并与另一种可信说法作比较。这个过程可以防止缺乏依据的消息影响他人的决定。",
+      "这些好处需要通过练习获得，不能只靠熟悉手机。大学可以让学生完成小型项目，其中涉及整理数据、核查来源和保护个人信息。学生还应解释为什么信任某个来源，而不只是列出链接。这类任务有助于在学习、工作和日常交流中，将数字技能与负责任的判断联系起来。"
+    ],
+    "requiredOpeningZh": "人们越来越意识到数字素养和技能在当今世界中的重要性。"
+  },
+  {
+    "id": "cet6_2024_06_social_practice_academic_learning",
+    "legacyIds": [
+      "cet6_2024_12_03_social_practice_academic_learning"
+    ],
+    "exam": "CET6",
+    "year": 2024,
+    "month": "06",
+    "title": "学术学习与社会实践如何相互支持",
+    "theme": "学习成长类",
+    "taskKind": "compare",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://m.koolearn.com/cet6/20250417/898861.html",
+        "title": "2024年6月六级作文：社会实践与学术学习",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "机构完整 Directions 确认 2024 年 6 月及给定句，150–200 词，未排除首句。旧数据误标 2024 年 12 月；题目要求两者同样重要，不要求时间平均分配。"
+      }
+    ],
+    "prompt": "Nowadays more and more college students have come to realize social practice and academic learning are equally important.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with reasons, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据题源和用户原始资料忠实整理的训练指令，并非原始 Directions 的逐字转载；题目明确要求的给定首句应保留。计词按来源未排除首句的规则；不得由模板推断所有场次都排除首句。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "大学生需要连接课堂知识与社会实践",
+      "objective": "解释两者为何同样重要及其互补关系",
+      "requirements": [
+        "同时讨论社会实践与学术学习",
+        "解释两者互补或相互支持，而非只称赞其中一项"
+      ],
+      "optionalIdeas": [
+        "理论指导调查设计",
+        "实践暴露现实限制",
+        "项目反思修正理解"
+      ],
+      "avoid": [
+        "只讨论 social practice",
+        "把 equally important 解释为每周必须各占一半时间"
+      ],
+      "acceptedKeywords": [
+        "social practice",
+        "academic learning",
+        "social practice and academic learning",
+        "社会实践",
+        "学术学习",
+        "equally important",
+        "同样重要"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "给出互补而非替代的立场",
+          "理论指导调查设计",
+          "实践反馈现实限制",
+          "建议课程与可管理项目相联"
+        ]
+      },
+      {
+        "label": "思路二：从情境出发并说明边界",
+        "outline": [
+          "从失败的调查项目出发",
+          "说明知识准备与现场调整各自作用",
+          "反思如何把经验变成可解释的学习"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "学术学习使实践更有根据。",
+        "mechanism": "概念与方法帮助学生设计问题并避免误导性结论。",
+        "example": "开展社区调查前先学习问卷设计和抽样限制。",
+        "link": "实践因此获得知识基础，而不只是完成活动。",
+        "claimZh": "学术学习使实践更有根据。",
+        "mechanismZh": "概念与方法帮助学生设计问题并避免误导性结论。",
+        "exampleZh": "开展社区调查前先学习问卷设计和抽样限制。",
+        "linkZh": "实践因此获得知识基础，而不只是完成活动。"
+      },
+      {
+        "claim": "实践能暴露理论应用中的限制。",
+        "mechanism": "真实参与者的理解和顾虑会挑战简化的课堂假设。",
+        "example": "居民对问题理解不同，学生据此修改调查并解释原因。",
+        "link": "经验促使学生重新理解学术原则。",
+        "claimZh": "实践能暴露理论应用中的限制。",
+        "mechanismZh": "真实参与者的理解和顾虑会挑战简化的课堂假设。",
+        "exampleZh": "居民对问题理解不同，学生据此修改调查并解释原因。",
+        "linkZh": "经验促使学生重新理解学术原则。"
+      }
+    ],
+    "modelEssay": "Nowadays more and more college students have come to realize social practice and academic learning are equally important. They contribute in different ways, and the strongest learning often occurs when students connect them deliberately.\n\nAcademic learning supplies concepts and methods for analysing a problem. Before conducting a community survey, for instance, students need to understand how to design questions and avoid misleading conclusions. Without this preparation, collecting many responses may produce little useful evidence. Social practice then reveals difficulties that a textbook example can overlook. Residents may interpret a question differently or hesitate to discuss a sensitive issue. By revising the survey and explaining these changes, students learn how theoretical principles operate under real constraints.\n\nRecognising equal importance does not require dividing every week into identical amounts of classroom and practical work. Different subjects and stages of study may need different arrangements. Universities can instead link selected courses with manageable projects and require students to reflect on the results. Students should ask both what their knowledge explains and what their experience challenges. This connection gives academic learning a practical purpose while making social practice more thoughtful.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2024_06_social_practice_academic_learning_e1",
+        "text": "apply theory to practice",
+        "meaning": "将理论用于实践",
+        "pattern": "apply + 名词 + to + 名词",
+        "example": "A community survey gives students a chance to apply theory to practice.",
+        "boundary": "to 是介词；应用还需要根据真实约束调整，不能断言理论适用所有情境。",
+        "patternZh": "apply A to B 表示把 A 应用于 B；A、B 都用名词表达。",
+        "exampleZh": "社区调查给学生提供了将理论应用于实践的机会。"
+      },
+      {
+        "id": "cet6_2024_06_social_practice_academic_learning_e2",
+        "text": "reveal the limitations of",
+        "meaning": "揭示……的局限",
+        "pattern": "reveal the limitations of + 方法或观点",
+        "example": "Fieldwork can reveal the limitations of a simplified model.",
+        "boundary": "某模型有局限不等于全部理论无用；应说清局限来自何处。",
+        "patternZh": "reveal the limitations of 后接方法或观点，表示揭示其局限。",
+        "exampleZh": "实地工作可以揭示简化模型的局限。"
+      },
+      {
+        "id": "cet6_2024_06_social_practice_academic_learning_e3",
+        "text": "complement each other",
+        "meaning": "相互补充",
+        "pattern": "复数主语 + complement each other",
+        "example": "Academic study and practical experience can complement each other.",
+        "boundary": "complement 表示补充；compliment 表示赞美，不可混淆。",
+        "patternZh": "复数主语后使用 complement each other，表示相互补充。",
+        "exampleZh": "学术学习与实践经验可以相互补充。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Social practice is very important. It helps students a lot. Therefore, social practice is the key to success.",
+      "improvedParagraph": "Academic learning helps students design sound survey questions, while social practice reveals how residents actually understand them. Revising a question in response to feedback connects classroom principles with real constraints. The two forms of learning therefore support each other.",
+      "explanation": "弱段只称赞社会实践，遗漏学术学习及二者关系。改进段分别写知识指导调查与实践反馈理解，形成双向支持，回应equally important而非把实践当唯一答案。",
+      "transferPrompt": "比较理论课程与实验操作的价值，并说明二者如何互相支持。",
+      "transferHint": "保留知识指导行动、实践反馈知识的双向结构，更换例子。",
+      "boundaryPrompt": "两者同样重要是否意味着所有专业都应将时间各分一半？",
+      "boundaryAnswer": "不意味着。价值上的同样重要不等于每个阶段投入完全相等；安排应考虑学科和任务。",
+      "weakParagraphZh": "社会实践非常重要。它对学生有很大帮助。因此，社会实践是成功的关键。",
+      "improvedParagraphZh": "学术学习帮助学生设计合理的调查问题，而社会实践揭示居民实际上如何理解这些问题。根据反馈修改问题，可以将课堂原则与现实约束联系起来。因此，两种学习形式相互支持。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Social practice and academic learning is important.",
+        "right": "Social practice and academic learning are important.",
+        "why": "两个独立并列概念作主语，谓语用 are。",
+        "wrongZh": "社会实践与学术学习很重要。",
+        "rightZh": "社会实践与学术学习很重要。"
+      },
+      {
+        "wrong": "Only social practice matters for college students.",
+        "right": "Social practice complements academic learning.",
+        "why": "原句遗漏题目另一个核心对象，不能充分回应给定命题。",
+        "wrongZh": "对大学生来说，只有社会实践重要。",
+        "rightZh": "社会实践补充学术学习。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "Nowadays more and more college students have come to realize social practice and academic learning are equally important.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用理由、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "如今，越来越多的大学生已经认识到，社会实践与学术学习同样重要。",
+    "modelEssayZh": [
+      "如今，越来越多的大学生已经认识到，社会实践与学术学习同样重要。两者以不同方式发挥作用，而当学生有意识地把它们联系起来时，学习往往最有成效。",
+      "学术学习为分析问题提供概念和方法。例如，在开展社区调查之前，学生需要理解如何设计问题以及如何避免误导性结论。如果没有这样的准备，收集大量回答也可能无法产生多少有用证据。随后，社会实践会揭示课本例子可能忽略的困难。居民可能对一个问题有不同理解，也可能不愿讨论敏感议题。通过修改调查并说明这些改动，学生能够了解理论原则如何在现实约束下发挥作用。",
+      "认识到两者同样重要，并不意味着每周都必须给课堂学习与实践活动分配完全相同的时间。不同学科和学习阶段可能需要不同安排。大学可以把选定课程与负担适当的项目连接起来，并要求学生反思结果。学生应同时思考：自己的知识解释了什么，自己的经历又对什么提出了挑战。这种联系既赋予学术学习实际用途，也让社会实践更有思考深度。"
+    ],
+    "requiredOpeningZh": "如今，越来越多的大学生已经认识到，社会实践与学术学习同样重要。"
+  },
+  {
+    "id": "cet6_2023_12_elderly_contribution",
+    "legacyIds": [
+      "cet6_2023_12_01_elderly_contribution"
+    ],
+    "exam": "CET6",
+    "year": 2023,
+    "month": "12",
+    "title": "老年人的经验如何转化为社会贡献",
+    "theme": "社会责任类",
+    "taskKind": "explain",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://xxgcxy.ztbu.edu.cn/attachment/sites/item/2024_11/05_17/25c49f1f88fb4617.pdf",
+        "title": "2023年12月六级整理卷：老年人的贡献（高校托管PDF）",
+        "publisher": "郑州工商学院网站托管；第三方整理卷",
+        "kind": "university-paper",
+        "note": "高校页面实际链接的整理卷第1页完整Directions确认30分钟、150–200词不包括给定首句；原句为experience单数，并允许评论、例子或个人观察。卷面另署第三方来源，高校托管不等于官方发布。"
+      },
+      {
+        "url": "https://cet6.koolearn.com/20231216/881494.html",
+        "title": "2023年12月六级写作：老年人的贡献",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "当次机构整理交叉确认主题；其范文使用experiences，不把参考作文开头当作原题。给定句采用高校托管完整卷面的experience。"
+      }
+    ],
+    "prompt": "With their valuable skills and experience, elderly people can continue to make significant contributions to society.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with comments, examples or personal observations. Write 150–200 words after the given opening.",
+    "directionsNote": "以上为根据高校托管完整整理卷忠实整理的英文训练要求，并非原始 Directions 的逐字转载；该卷面明确150–200词不包括给定首句。保留给定句experience单数，不以机构范文的experiences替换原题。高校托管不等于官方发布。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": true
+    },
+    "task": {
+      "situation": "有技能和经验的老年人希望继续参与社会",
+      "objective": "解释经验如何产生贡献，并提出适合参与的安排",
+      "requirements": [
+        "解释老年人的技能与经验如何转化为社会贡献",
+        "用具体参与方式说明机制，并尊重个人选择"
+      ],
+      "optionalIdeas": [
+        "为年轻人提供具体指导",
+        "参与社区活动",
+        "尊重健康状况和个人选择"
+      ],
+      "avoid": [
+        "将所有老年人描述为身体衰弱或技术落后",
+        "把贡献写成必须继续就业的义务"
+      ],
+      "acceptedKeywords": [
+        "elderly people",
+        "older people",
+        "老年人",
+        "skills and experience",
+        "技能和经验",
+        "contribution",
+        "社会贡献"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "说明经验具有可传递的价值",
+          "用退休技师指导维修展示机制",
+          "用社区活动展示参与",
+          "提出灵活自愿和可及安排"
+        ]
+      },
+      {
+        "label": "思路二：从情境出发并说明边界",
+        "outline": [
+          "从社区技能需求出发",
+          "安排老年人分享经验并与年轻人协作",
+          "解释尊重选择如何使参与持续"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "经验可以帮助年轻人避免常见错误。",
+        "mechanism": "长期实践积累的判断可以补充初学者掌握的书面步骤。",
+        "example": "退休技师展示如何判断自行车刹车故障。",
+        "link": "指导把个人技能变成社区可用的知识。",
+        "claimZh": "经验可以帮助年轻人避免常见错误。",
+        "mechanismZh": "长期实践积累的判断可以补充初学者掌握的书面步骤。",
+        "exampleZh": "退休技师展示如何判断自行车刹车故障。",
+        "linkZh": "指导把个人技能变成社区可用的知识。"
+      },
+      {
+        "claim": "灵活安排能帮助老年人持续参与。",
+        "mechanism": "可选择时长和角色，能降低健康、交通和体力障碍。",
+        "example": "社区提供每周一次的短时技能工作坊。",
+        "link": "参与者保有选择权，贡献更可能持续。",
+        "claimZh": "灵活安排能帮助老年人持续参与。",
+        "mechanismZh": "可选择时长和角色，能降低健康、交通和体力障碍。",
+        "exampleZh": "社区提供每周一次的短时技能工作坊。",
+        "linkZh": "参与者保有选择权，贡献更可能持续。"
+      }
+    ],
+    "modelEssay": "With their valuable skills and experience, elderly people can continue to make significant contributions to society. Their contribution can be especially useful when communities create suitable opportunities for them to share what they know.\n\nExperienced older people can guide younger learners through problems that written instructions do not fully explain. For example, a retired mechanic might show volunteers how to identify a bicycle brake fault before replacing any parts. This practical judgment helps learners avoid unnecessary work and makes a repair programme more effective. Older residents can also contribute to community life by organising local activities or advising a neighbourhood group. Participation gives other people access to knowledge that might otherwise remain unused.\n\nHowever, the opportunity to contribute should not become a duty to keep working. Health, interests and available time differ considerably between individuals. Communities could therefore offer short workshops, flexible roles and accessible venues, while allowing participants to decline a request. Younger volunteers can assist with equipment or travel arrangements. By matching opportunities with individual preferences, society can benefit from older people's experience while respecting their freedom to choose.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2023_12_elderly_contribution_e1",
+        "text": "share practical expertise",
+        "meaning": "分享实践经验与专长",
+        "pattern": "share + 名词；share ... with ...",
+        "example": "Retired engineers can share practical expertise with young volunteers.",
+        "boundary": "expertise 不可数，不写 expertises；应说明专长来自何种活动。",
+        "patternZh": "share 后接分享的内容；share A with B 表示与 B 分享 A。",
+        "exampleZh": "退休工程师可以与年轻志愿者分享实际专长。"
+      },
+      {
+        "id": "cet6_2023_12_elderly_contribution_e2",
+        "text": "make a contribution to",
+        "meaning": "为……作出贡献",
+        "pattern": "make a contribution to + 名词或动名词",
+        "example": "Older residents can make a contribution to improving local services.",
+        "boundary": "to 是介词，后接 improving；贡献不只等于有偿工作。",
+        "patternZh": "make a contribution to 表示为某事作贡献；to 是介词，后接名词或动名词。",
+        "exampleZh": "老年居民可以为改善本地服务作出贡献。"
+      },
+      {
+        "id": "cet6_2023_12_elderly_contribution_e3",
+        "text": "match opportunities with individual preferences",
+        "meaning": "使机会符合个人偏好",
+        "pattern": "match A with B",
+        "example": "Organisers should match opportunities with individual preferences.",
+        "boundary": "不能据年龄替所有人推断偏好；需要实际询问。",
+        "patternZh": "match A with B 表示使 A 与 B 相匹配。",
+        "exampleZh": "组织者应使机会与个人偏好相匹配。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Elderly people are useful, so they should continue working and make our society better.",
+      "improvedParagraph": "A retired mechanic can teach volunteers how to diagnose a bicycle fault, passing on judgment that written instructions may not explain. Short, optional workshops make this contribution possible without requiring every older person to keep working.",
+      "explanation": "弱段从老年人有价值推出必须继续工作，混淆机会和义务。改进段解释经验如何指导维修，并用可选择的短时安排保留个人意愿。",
+      "transferPrompt": "学校如何邀请退休人士参与学生指导，同时尊重他们的选择？",
+      "transferHint": "说明经验如何帮助学习，以及参与安排如何适配个人情况。",
+      "boundaryPrompt": "老年人有经验，是否意味着人人都应该继续工作？",
+      "boundaryAnswer": "不意味着。潜在贡献不产生强制义务，应考虑意愿、健康和机会的可及性。",
+      "weakParagraphZh": "老年人有用，所以他们应该继续工作，让我们的社会更好。",
+      "improvedParagraphZh": "退休修理技师可以教志愿者如何判断自行车故障，传授书面说明可能没有解释的判断经验。短时、自愿参加的工作坊使这种贡献成为可能，而不要求每位老年人都继续工作。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Elderly people deserves respect.",
+        "right": "Elderly people deserve respect.",
+        "why": "people 是复数主语，谓语不加 s。",
+        "wrongZh": "老年人值得尊重。",
+        "rightZh": "老年人值得尊重。"
+      },
+      {
+        "wrong": "They can share many expertises.",
+        "right": "They can share considerable expertise.",
+        "why": "expertise 是不可数名词，可用 considerable 修饰。",
+        "wrongZh": "他们可以分享许多专长。",
+        "rightZh": "他们可以分享丰富的专长。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "With their valuable skills and experience, elderly people can continue to make significant contributions to society.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用评论、例子或个人观察支持讨论。写150–200词。这150–200词不包括给定首句。",
+    "promptZh": "凭借宝贵的技能和经验，老年人可以继续为社会作出重要贡献。",
+    "modelEssayZh": [
+      "凭借宝贵的技能和经验，老年人可以继续为社会作出重要贡献。当社区为他们创造合适的知识分享机会时，这些贡献尤其能够发挥作用。",
+      "经验丰富的老年人可以指导年轻学习者处理书面说明无法完全解释的问题。例如，一位退休修理技师可以向志愿者展示，在更换任何零件之前，如何判断自行车刹车故障。这种实际判断能帮助学习者避免不必要的工作，让维修项目更有效。老年居民也可以通过组织本地活动或为社区小组提供建议，参与社区生活。这种参与让其他人获得原本可能没有得到利用的知识。",
+      "不过，贡献的机会不应变成继续工作的义务。不同人的健康、兴趣和可用时间存在很大差异。因此，社区可以提供短时工作坊、灵活角色和便于使用的场地，同时允许参加者拒绝请求。年轻志愿者可以协助安排设备或交通。通过使机会与个人偏好相匹配，社会既能从老年人的经验中受益，也能尊重他们选择的自由。"
+    ],
+    "requiredOpeningZh": "凭借宝贵的技能和经验，老年人可以继续为社会作出重要贡献。"
+  },
+  {
+    "id": "cet6_2023_12_freedom_to_explore",
+    "legacyIds": [
+      "cet6_2023_12_02_freedom_to_explore"
+    ],
+    "exam": "CET6",
+    "year": 2023,
+    "month": "12",
+    "title": "有边界的探索如何培养独立与自信",
+    "theme": "心理人格类",
+    "taskKind": "explain",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet6.koolearn.com/20231216/881493.html",
+        "title": "2023年12月六级写作：给孩子探索自由",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "机构整理确认年月和主题，范文开头与用户给定句一致，仅标点有差异。未取得完整原卷 Directions；本训练采用150–200词且含首句，不宣称机构范文为原卷全文。"
+      }
+    ],
+    "prompt": "Nowadays parents are increasingly aware that allowing kids more freedom to explore and learn on their own helps foster their independence and boost their confidence.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with reasons, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为依据已核对主题和用户给定句整理的训练要求，不是原始 Directions 的逐字原文。可靠来源未完整呈现原卷要求，150–200词含首句是本训练口径，不能视为所有场次的官方计词规则。给定句按所记录版本保留；来源差异和未核验项见来源说明。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "父母希望孩子逐步学会独立处理问题",
+      "objective": "解释适度自主探索如何培养独立性和自信，并说明安全边界",
+      "requirements": [
+        "同时解释自主探索对独立性和自信的作用",
+        "说明可管理的挑战、反馈或安全指导如何支持探索"
+      ],
+      "optionalIdeas": [
+        "选择解决方法",
+        "从小失误获得反馈",
+        "父母提供适度提示"
+      ],
+      "avoid": [
+        "将自由理解为完全不管",
+        "把所有失败都说成有益",
+        "忽略年龄与安全"
+      ],
+      "acceptedKeywords": [
+        "freedom to explore",
+        "explore and learn",
+        "探索自由",
+        "independence",
+        "独立性",
+        "confidence",
+        "自信"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "提出可管理的自主探索",
+          "做计划和看结果培养独立",
+          "自己解决困难增强能力信念",
+          "说明安全规则和适度指导"
+        ]
+      },
+      {
+        "label": "思路二：从情境出发并说明边界",
+        "outline": [
+          "比较父母替孩子完成与孩子自行尝试",
+          "用小型园艺活动展示试错反馈",
+          "建立规则并逐步增加责任"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "自主探索帮助孩子练习决策。",
+        "mechanism": "选择方法并观察结果使孩子看到行动和结果的联系。",
+        "example": "孩子自行决定怎样安排一个小型园艺项目。",
+        "link": "反复练习能减少对父母每一步指令的依赖。",
+        "claimZh": "自主探索帮助孩子练习决策。",
+        "mechanismZh": "选择方法并观察结果使孩子看到行动和结果的联系。",
+        "exampleZh": "孩子自行决定怎样安排一个小型园艺项目。",
+        "linkZh": "反复练习能减少对父母每一步指令的依赖。"
+      },
+      {
+        "claim": "可完成的挑战能支持自信。",
+        "mechanism": "成功解决具体困难提供自己有能力的证据。",
+        "example": "植物枯萎后检查浇水记录并调整方法。",
+        "link": "自信来自可检验的进步，而不是空泛表扬。",
+        "claimZh": "可完成的挑战能支持自信。",
+        "mechanismZh": "成功解决具体困难提供自己有能力的证据。",
+        "exampleZh": "植物枯萎后检查浇水记录并调整方法。",
+        "linkZh": "自信来自可检验的进步，而不是空泛表扬。"
+      }
+    ],
+    "modelEssay": "Nowadays parents are increasingly aware that allowing kids more freedom to explore and learn on their own helps foster their independence and boost their confidence. The key is to offer manageable choices and challenges, while keeping clear safety rules in place.\n\nWhen children choose how to complete a small project, they practise making decisions and observing the results. A child growing a plant might decide where to place it and keep a simple watering record. If the leaves begin to wilt, the child can compare the conditions and adjust the plan. This experience encourages the child to investigate a problem instead of immediately waiting for a parent to solve it. Successfully dealing with a difficulty also provides concrete evidence of personal capability, which can support confidence.\n\nParents still have an important role. They should choose tasks appropriate to the child's age, explain relevant dangers and offer a hint when frustration becomes overwhelming. They can ask why a method worked rather than praising every result indiscriminately. Gradually increasing responsibility in this way gives children space to develop judgment. Freedom becomes a guided opportunity to learn, rather than an absence of care.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2023_12_freedom_to_explore_e1",
+        "text": "make decisions independently",
+        "meaning": "独立作出决定",
+        "pattern": "make decisions + 副词",
+        "example": "Children can practise making decisions independently through manageable tasks.",
+        "boundary": "independently 不意味着没有任何规则；幼儿不宜承担超出能力的风险。",
+        "patternZh": "make decisions 表示作决定；后面可接副词说明决定的方式。",
+        "exampleZh": "孩子可以通过能够应对的任务，练习独立作决定。"
+      },
+      {
+        "id": "cet6_2023_12_freedom_to_explore_e2",
+        "text": "learn from the consequences of",
+        "meaning": "从……的结果中学习",
+        "pattern": "learn from + 名词；the consequences of + 名词",
+        "example": "Children can learn from the consequences of a small, safe choice.",
+        "boundary": "consequences 可中性也可负面；不能据此合理化危险或严重伤害。",
+        "patternZh": "learn from 后接经验或结果；the consequences of 后接产生后果的行为等名词。",
+        "exampleZh": "孩子可以从一次小而安全的选择的后果中学习。"
+      },
+      {
+        "id": "cet6_2023_12_freedom_to_explore_e3",
+        "text": "build confidence through gradual progress",
+        "meaning": "通过逐步进步建立自信",
+        "pattern": "build confidence through + 名词",
+        "example": "A series of manageable challenges can build confidence through gradual progress.",
+        "boundary": "confidence 不可数；不能保证每次挑战都增强自信。",
+        "patternZh": "build confidence through 后接名词，表示通过某事建立自信。",
+        "exampleZh": "一系列能够应对的挑战，可以通过逐步进步建立自信。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Parents should give children total freedom. Any failure will make children independent and confident.",
+      "improvedParagraph": "Manageable choices let children practise making decisions and checking results. In a small gardening task, a child can adjust watering after observing a problem. Parents should explain safety rules and offer a hint when the difficulty exceeds the child's ability.",
+      "explanation": "弱段把完全自由和任何失败都当成独立、自信的原因。改进段用可管理任务说明选择和反馈的作用，并加入年龄、安全和提示边界，回应自由探索而非放任。",
+      "transferPrompt": "大学教师如何用可管理的项目培养学生自信？",
+      "transferHint": "迁移选择—行动—结果—反馈机制，同时更换适当的安全与指导边界。",
+      "boundaryPrompt": "只要孩子遭遇失败，自信就一定会提高吗？",
+      "boundaryAnswer": "不一定。难度过高、缺少支持或无法理解结果的失败可能增加挫败感；需有可理解的反馈和后续尝试。",
+      "weakParagraphZh": "父母应该给孩子完全的自由。任何失败都会让孩子变得独立而自信。",
+      "improvedParagraphZh": "能够应对的选择让孩子练习作决定并检查结果。在小型园艺任务中，孩子可以在观察到问题后调整浇水方式。父母应解释安全规则，并在困难超出孩子能力时提供提示。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Freedom allow children to learn.",
+        "right": "Freedom allows children to learn.",
+        "why": "单数不可数主语 freedom 搭配 allows。",
+        "wrongZh": "自由让孩子能够学习。",
+        "rightZh": "自由让孩子能够学习。"
+      },
+      {
+        "wrong": "Parents should let children to explore.",
+        "right": "Parents should let children explore.",
+        "why": "let + 宾语 + 动词原形，不加 to。",
+        "wrongZh": "父母应该让孩子探索。",
+        "rightZh": "父母应该让孩子探索。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "Nowadays parents are increasingly aware that allowing kids more freedom to explore and learn on their own helps foster their independence and boost their confidence.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用理由、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "如今，父母越来越意识到，给孩子更多自由去探索和自主学习，有助于培养他们的独立性并增强自信。",
+    "modelEssayZh": [
+      "如今，父母越来越意识到，给孩子更多自由去探索和自主学习，有助于培养他们的独立性并增强自信。关键是提供孩子能够应对的选择与挑战，同时保留明确的安全规则。",
+      "当孩子选择如何完成小型项目时，他们就在练习作决定并观察结果。种植物的孩子可以决定把植物放在哪里，并简单记录浇水情况。如果叶子开始枯萎，孩子可以比较不同条件并调整计划。这种经历鼓励孩子调查问题，而不是立刻等待父母解决。成功处理一项困难，也为个人能力提供了具体证据，可以支持自信。",
+      "父母仍发挥重要作用。他们应选择适合孩子年龄的任务，解释有关危险，并在挫败感过强时提供提示。他们可以询问一种方法为什么有效，而不是不加区分地表扬每一个结果。这样逐渐增加责任，能够给孩子发展判断力的空间。自由成为一种有指导的学习机会，而不是缺少照顾。"
+    ],
+    "requiredOpeningZh": "如今，父母越来越意识到，给孩子更多自由去探索和自主学习，有助于培养他们的独立性并增强自信。"
+  },
+  {
+    "id": "cet6_2023_12_basic_knowledge",
+    "legacyIds": [
+      "cet6_2023_12_03_basic_knowledge"
+    ],
+    "exam": "CET6",
+    "year": 2023,
+    "month": "12",
+    "title": "掌握基础如何支持深入学习",
+    "theme": "学习成长类",
+    "taskKind": "explain",
+    "deep": false,
+    "evaluation": true,
+    "sources": [
+      {
+        "url": "https://m.koolearn.com/cet6/20250421/898907.html",
+        "title": "六级作文真题：扎实的基础知识",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "机构完整 Directions 明确150–200词不包括给定首句；2023年12月场次通过当次机构题目汇总交叉核对。"
+      },
+      {
+        "url": "https://news.koolearn.com/20231216/1261797.html",
+        "title": "2023年12月六级作文题目汇总",
+        "publisher": "新东方在线",
+        "kind": "institution-transcription",
+        "note": "用于确认该主题属于2023年12月，文中时间描述不作考试时间证据。"
+      }
+    ],
+    "prompt": "As is known to all, gaining a sound knowledge of the basics is of vital importance for students to master an academic subject.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with reasons, examples or personal experience. Write 150–200 words after the given opening.",
+    "directionsNote": "以上为根据题源和用户原始资料忠实整理的训练指令，并非原始 Directions 的逐字转载；题目明确要求的给定首句应保留。该来源明确排除给定首句计词。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": true
+    },
+    "task": {
+      "situation": "学生想掌握一门学科而非只记答案",
+      "objective": "解释基础知识如何支持理解和解决更复杂问题",
+      "requirements": [
+        "解释基础知识如何帮助掌握一门学科",
+        "用一个基础理解影响后续任务的例子支持观点"
+      ],
+      "optionalIdeas": [
+        "概念构成后续理解的前提",
+        "基础误解会传播到复杂问题",
+        "用应用检查基础理解"
+      ],
+      "avoid": [
+        "主张只学基础永远不接触复杂问题",
+        "将基础等同机械背诵"
+      ],
+      "acceptedKeywords": [
+        "basics",
+        "basic knowledge",
+        "fundamentals",
+        "基础",
+        "基础知识",
+        "academic subject",
+        "学科"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "界定基础包含概念与关系",
+          "用统计概念说明后续推理依赖",
+          "指出机械记忆局限",
+          "建议复述概念并应用检查"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "基础概念使复杂知识可理解。",
+        "mechanism": "新问题通常依赖先前概念之间的关系，基础误解会影响后续判断。",
+        "example": "不理解平均数和样本的学生可能误读调查结果。",
+        "link": "修正基础理解使复杂分析有可靠起点。",
+        "claimZh": "基础概念使复杂知识可理解。",
+        "mechanismZh": "新问题通常依赖先前概念之间的关系，基础误解会影响后续判断。",
+        "exampleZh": "不理解平均数和样本的学生可能误读调查结果。",
+        "linkZh": "修正基础理解使复杂分析有可靠起点。"
+      }
+    ],
+    "modelEssay": "As is known to all, gaining a sound knowledge of the basics is of vital importance for students to master an academic subject. A solid foundation enables students to connect new ideas with knowledge they already understand. Without that connection, advanced material can become a collection of isolated rules.\n\nConsider a student studying statistics. Understanding averages and samples is necessary before interpreting a survey. If the student confuses a sample with the whole population, a complicated calculation may still lead to a misleading conclusion. Reviewing the basic concept can therefore improve the quality of later reasoning, not merely the accuracy of one exercise. The same principle applies when students need to explain why a method works or decide whether it suits an unfamiliar problem.\n\nHowever, studying the basics should involve more than memorising definitions. Students can explain a concept in their own words, compare it with a similar idea and apply it to a simple example. Teachers can use short questions to identify persistent misunderstandings. Combining this checking process with gradually more demanding tasks allows foundational knowledge to support deeper learning rather than delay it.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2023_12_basic_knowledge_e1",
+        "text": "lay a solid foundation for",
+        "meaning": "为……打下扎实基础",
+        "pattern": "lay a solid foundation for + 名词或动名词",
+        "example": "Understanding basic concepts lays a solid foundation for further study.",
+        "boundary": "不是 lay ... to；抽象 foundation 可单数，但应说明具体基础。",
+        "patternZh": "lay a solid foundation for 表示为某事打下坚实基础；for 后接名词或动名词。",
+        "exampleZh": "理解基础概念能为进一步学习打下坚实基础。"
+      },
+      {
+        "id": "cet6_2023_12_basic_knowledge_e2",
+        "text": "build on prior knowledge",
+        "meaning": "在已有知识上进一步学习",
+        "pattern": "build on + 名词",
+        "example": "Advanced lessons build on prior knowledge of key concepts.",
+        "boundary": "prior knowledge 不是旧知识永远正确；必要时仍要修正误解。",
+        "patternZh": "build on 后接名词，表示以已有知识等为基础继续发展。",
+        "exampleZh": "较深入的课程以学生已有的核心概念知识为基础。"
+      },
+      {
+        "id": "cet6_2023_12_basic_knowledge_e3",
+        "text": "identify persistent misunderstandings",
+        "meaning": "识别持续存在的误解",
+        "pattern": "identify + 名词短语",
+        "example": "Short explanations can help teachers identify persistent misunderstandings.",
+        "boundary": "misunderstanding 可数；发现误解之后还需反馈与修正。",
+        "patternZh": "identify 后接名词短语，说明要发现或识别的对象。",
+        "exampleZh": "简短解释可以帮助教师发现持续存在的误解。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Basics are important because they are the foundation. Students should memorise every definition.",
+      "improvedParagraph": "A student who confuses a sample with the whole population may misinterpret a survey even after performing the calculation correctly. Explaining the difference in simple terms can uncover the misunderstanding and make later analysis more reliable.",
+      "explanation": "弱段用foundation同义反复，并把掌握基础缩减为背定义。改进段展示样本概念误解如何影响调查判断，再以解释概念暴露问题，说明基础与深入学习的实际联系。",
+      "transferPrompt": "写一段说明学习基础语法如何帮助阅读复杂句，包含具体误解及其后果。",
+      "transferHint": "选择一个基础概念，说明误解如何影响复杂任务，再给纠正方法。",
+      "boundaryPrompt": "基础重要是否意味着在完全掌握所有基础前，不能尝试任何难题？",
+      "boundaryAnswer": "不意味着。适量复杂任务也能暴露基础缺口；应往返检查与应用，而非无限推迟实践。",
+      "weakParagraphZh": "基础很重要，因为基础就是根基。学生应该背下每个定义。",
+      "improvedParagraphZh": "把样本与总体混淆的学生，即使正确完成计算，也可能误读调查。用简单语言解释两者差别，可以发现这种误解，让后续分析更可靠。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Basic knowledge are essential.",
+        "right": "Basic knowledge is essential.",
+        "why": "knowledge 为不可数名词，通常搭配单数谓语。",
+        "wrongZh": "基础知识必不可少。",
+        "rightZh": "基础知识必不可少。"
+      },
+      {
+        "wrong": "Students should explain why does the method work.",
+        "right": "Students should explain why the method works.",
+        "why": "嵌入疑问从句用陈述语序。",
+        "wrongZh": "学生应该解释这种方法为什么有效。",
+        "rightZh": "学生应该解释这种方法为什么有效。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "As is known to all, gaining a sound knowledge of the basics is of vital importance for students to master an academic subject.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用理由、例子或个人经历支持讨论。写150–200词。这150–200词不包括给定首句。",
+    "promptZh": "众所周知，扎实掌握基础知识，对学生掌握一门学科至关重要。",
+    "modelEssayZh": [
+      "众所周知，扎实掌握基础知识，对学生掌握一门学科至关重要。稳固的基础使学生能够把新想法与已经理解的知识联系起来。没有这种联系，较深入的内容可能变成一堆彼此孤立的规则。",
+      "以学习统计的学生为例。在解读调查之前，必须先理解平均数和样本。如果学生把样本与总体混淆，即使进行了复杂计算，仍可能得出误导性结论。因此，复习基础概念可以提高后续推理的质量，而不只是让一道练习更准确。同样的原则也适用于学生需要解释一种方法为什么有效，或判断它是否适合陌生问题的情况。",
+      "不过，学习基础应包含比背定义更多的活动。学生可以用自己的话解释一个概念，将它与相近的概念比较，并应用于简单例子。教师可以用简短问题发现持续存在的误解。把这种检查过程与逐渐增加难度的任务结合起来，能够让基础知识支持深入学习，而不是拖延深入学习。"
+    ],
+    "requiredOpeningZh": "众所周知，扎实掌握基础知识，对学生掌握一门学科至关重要。"
+  },
+  {
+    "id": "cet6_2023_06_mental_wellbeing",
+    "legacyIds": [
+      "cet6_2023_06_01_mental_wellbeing"
+    ],
+    "exam": "CET6",
+    "year": 2023,
+    "month": "06",
+    "title": "心理健康为何需要同样的关注",
+    "theme": "心理人格类",
+    "taskKind": "discuss",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://m.koolearn.com/cet6/20250421/898976.html",
+        "title": "2023年6月六级作文真题：心理健康",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "机构完整Directions确认给定句、30分钟、150–200词，可评论、举例或使用个人经历，未排除首句；页面明确本题出自2023年6月六级。"
+      },
+      {
+        "url": "https://cet6.koolearn.com/20230617/873399.html",
+        "title": "2023年6月六级整理卷：心理健康",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "当次机构整卷整理交叉确认考试年月和主题；不是官方答案。"
+      }
+    ],
+    "prompt": "Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with comments, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据完整题源忠实整理的英文训练要求，并非原始 Directions 的逐字转载；给定首句应保留。所核对完整转录为30分钟、150–200词，未注明排除给定首句，因此本题按全文计词；来源等级及读取限制见来源说明。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "大学生活中的学习、休息和心理支持",
+      "objective": "解释心理与身体健康相互影响，并提出合理支持办法",
+      "requirements": [
+        "回应心理健康应与身体健康获得同等关注",
+        "解释实际影响或支持办法，不作诊断与治愈保证"
+      ],
+      "optionalIdeas": [
+        "压力影响睡眠和专注",
+        "可及支持减少求助障碍",
+        "合理休息与专业帮助"
+      ],
+      "avoid": [
+        "承诺运动或聊天治愈所有心理问题",
+        "把心理困扰归咎于意志薄弱",
+        "用作文替代专业诊疗"
+      ],
+      "acceptedKeywords": [
+        "mental well-being",
+        "mental wellbeing",
+        "mental health",
+        "心理健康",
+        "physical health",
+        "身体健康"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "解释学习生活中的相互影响",
+          "压力—睡眠—专注的例子",
+          "支持与合理安排的作用",
+          "严重持续困扰应寻求专业帮助"
+        ]
+      },
+      {
+        "label": "思路二：从情境出发并说明边界",
+        "outline": [
+          "从学生睡眠和专注困难切入",
+          "比较只催促努力与倾听支持",
+          "提出可获得的服务并说明能力边界"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "心理状态会影响日常学习和身体休息。",
+        "mechanism": "持续压力可能干扰睡眠和专注，使学习任务更难完成。",
+        "example": "学生担心作业而熬夜，次日更难集中注意力。",
+        "link": "关注心理状态有助于发现单靠延长学习时间无法解决的障碍。",
+        "claimZh": "心理状态会影响日常学习和身体休息。",
+        "mechanismZh": "持续压力可能干扰睡眠和专注，使学习任务更难完成。",
+        "exampleZh": "学生担心作业而熬夜，次日更难集中注意力。",
+        "linkZh": "关注心理状态有助于发现单靠延长学习时间无法解决的障碍。"
+      },
+      {
+        "claim": "可获得的支持有助于及时求助。",
+        "mechanism": "清楚的求助渠道和尊重隐私的环境降低表达困扰的障碍。",
+        "example": "学校说明咨询服务如何预约，并提供灵活时段。",
+        "link": "关注从口号转化为能够实际使用的资源。",
+        "claimZh": "可获得的支持有助于及时求助。",
+        "mechanismZh": "清楚的求助渠道和尊重隐私的环境降低表达困扰的障碍。",
+        "exampleZh": "学校说明咨询服务如何预约，并提供灵活时段。",
+        "linkZh": "关注从口号转化为能够实际使用的资源。"
+      }
+    ],
+    "modelEssay": "Today there is a growing awareness that mental well-being needs to be given as much attention as physical health. The two aspects of health are closely connected, and neglecting either can make everyday life more difficult.\n\nFor students, persistent stress may interfere with sleep and concentration. A student who stays awake worrying about an assignment may find the next day's work harder, even after spending more hours at a desk. Simply urging that student to work longer would overlook part of the problem. Attention to mental well-being can help students recognise difficulties and seek appropriate support before those difficulties become more disruptive.\n\nUniversities should make support easy to find and explain how students can access it confidentially. Teachers can also encourage realistic schedules and respond respectfully when students report problems. Regular rest, exercise and contact with trusted people may support everyday well-being, but they do not replace professional assistance when distress is serious or persistent. Giving mental health equal attention therefore means combining ordinary care with accessible specialist services. It helps students protect their capacity to study and participate in university life.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2023_06_mental_wellbeing_e1",
+        "text": "seek appropriate support",
+        "meaning": "寻求适当支持",
+        "pattern": "seek + 名词；不必加 for",
+        "example": "Students experiencing persistent distress should seek appropriate support.",
+        "boundary": "seek support，不写 seek for support；appropriate 取决于问题，不能一概建议自助。",
+        "patternZh": "seek 表示寻求，直接接名词作宾语，不必加 for。",
+        "exampleZh": "经历持续痛苦的学生应寻求合适支持。"
+      },
+      {
+        "id": "cet6_2023_06_mental_wellbeing_e2",
+        "text": "interfere with sleep and concentration",
+        "meaning": "干扰睡眠和专注",
+        "pattern": "interfere with + 名词",
+        "example": "Persistent stress may interfere with sleep and concentration.",
+        "boundary": "用 may 而非断言所有压力都造成同样结果；不是 interfere to。",
+        "patternZh": "interfere with 后接名词，表示干扰某事。",
+        "exampleZh": "持续压力可能干扰睡眠和专注。"
+      },
+      {
+        "id": "cet6_2023_06_mental_wellbeing_e3",
+        "text": "make services accessible",
+        "meaning": "使服务易于获得",
+        "pattern": "make + 宾语 + 形容词",
+        "example": "Flexible appointment times can make support services more accessible.",
+        "boundary": "可及性涉及费用、地点、时间等；不要把宣传等同实际可及。",
+        "patternZh": "make 后接宾语和形容词，表示使某对象具有某种状态。",
+        "exampleZh": "灵活的预约时段可以让支持服务更便于使用。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Mental health is important. Students should exercise, and all their mental problems will disappear.",
+      "improvedParagraph": "Persistent stress may disrupt sleep and concentration, making ordinary study harder. Rest and supportive contact may help everyday well-being, while serious or lasting distress calls for appropriate professional assistance. Universities should make that assistance easy to access.",
+      "explanation": "弱段用运动治愈所有问题作无依据保证。改进段解释压力与日常功能的联系，区分普通支持与专业帮助，回应同等关注而不越界提供医疗承诺。",
+      "transferPrompt": "如何说明合理学习安排有助于学生健康？避免对医疗效果作保证。",
+      "transferHint": "写生活功能、具体安排和求助边界，使用可能性而不是绝对因果。",
+      "boundaryPrompt": "体育锻炼和与朋友聊天能否替代所有心理健康服务？",
+      "boundaryAnswer": "不能。它们可能支持日常状态，但严重或持续困扰需要适当专业评估和帮助；作文不提供个体诊断。",
+      "weakParagraphZh": "心理健康很重要。学生应该运动，这样他们所有的心理问题都会消失。",
+      "improvedParagraphZh": "持续压力可能打乱睡眠并影响专注，使普通学习更困难。休息和支持性的联系可能帮助维持日常心理状态；严重或持久的痛苦则需要合适的专业帮助。大学应让这种帮助容易获得。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Mental well-being need attention.",
+        "right": "Mental well-being needs attention.",
+        "why": "well-being 作单数名词，谓语用 needs。",
+        "wrongZh": "心理健康需要关注。",
+        "rightZh": "心理健康需要关注。"
+      },
+      {
+        "wrong": "Exercise cures all mental health problems.",
+        "right": "Exercise may support everyday well-being.",
+        "why": "原句缺乏依据且过度承诺医疗效果；改句限定支持作用。",
+        "wrongZh": "运动能治愈所有心理健康问题。",
+        "rightZh": "运动可能支持日常心理健康。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用评论、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "如今，人们越来越意识到，心理健康需要得到与身体健康同样多的关注。",
+    "modelEssayZh": [
+      "如今，人们越来越意识到，心理健康需要得到与身体健康同样多的关注。健康的这两个方面紧密相连，忽略任何一方面都可能让日常生活更困难。",
+      "对学生来说，持续压力可能干扰睡眠和专注。担心作业而无法入睡的学生，即使花了更多时间坐在书桌前，也可能发现第二天的任务更难完成。仅仅催促这名学生学习更久，会忽略部分问题。关注心理健康可以帮助学生识别困难，并在困难造成更大干扰之前寻求合适支持。",
+      "大学应让支持资源容易找到，并说明学生如何在保密的情况下使用这些资源。教师也可以鼓励现实可行的日程，并在学生反映问题时给予尊重的回应。规律休息、运动和与可信任的人保持联系，可能支持日常心理状态；但当痛苦严重或持续存在时，它们不能替代专业帮助。因此，给予心理健康同样的关注，意味着将日常照顾与可获得的专业服务结合起来。这有助于学生保护学习和参与大学生活的能力。"
+    ],
+    "requiredOpeningZh": "如今，人们越来越意识到，心理健康需要得到与身体健康同样多的关注。"
+  },
+  {
+    "id": "cet6_2023_06_friendly_discussion",
+    "legacyIds": [
+      "cet6_2023_06_02_friendly_discussion"
+    ],
+    "exam": "CET6",
+    "year": 2023,
+    "month": "06",
+    "title": "分歧如何通过友好讨论得到处理",
+    "theme": "合作沟通类",
+    "taskKind": "propose",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet6.koolearn.com/20230617/873400.html",
+        "title": "2023年6月六级整理卷：友好讨论与合理论证",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "机构完整Part I转录确认给定句、30分钟、150–200词，可评论、举例或使用个人经历，未排除首句。网页直接抓取不稳定，本次通过限定该URL的检索读取完整Directions核对；不升级为官方卷面。"
+      }
+    ],
+    "prompt": "When faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with comments, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据完整题源忠实整理的英文训练要求，并非原始 Directions 的逐字转载；给定首句应保留。所核对完整转录为30分钟、150–200词，未注明排除给定首句，因此本题按全文计词；来源等级及读取限制见来源说明。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "小组成员对工作方案持不同意见",
+      "objective": "提出通过友好讨论和证据论证处理分歧的方法",
+      "requirements": [
+        "说明面对不同意见时可以怎样回应",
+        "同时体现友好讨论与合理论证，而非只赞美分歧"
+      ],
+      "optionalIdeas": [
+        "先准确复述对方理由",
+        "共同制定比较标准",
+        "说明尚不能达成一致时的安排"
+      ],
+      "avoid": [
+        "仅谈分歧存在的好处",
+        "把友好理解为必须同意",
+        "用声称人人都会满意代替合理方案"
+      ],
+      "acceptedKeywords": [
+        "differing opinions",
+        "不同意见",
+        "friendly discussion",
+        "友好讨论",
+        "reasonable argument",
+        "合理论证",
+        "reach agreement",
+        "达成一致"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "说明友好态度有助于交流理由",
+          "复述观点与共同标准",
+          "用预算选择方案的例子",
+          "承认部分分歧可以暂时保留"
+        ]
+      },
+      {
+        "label": "思路二：从情境出发并说明边界",
+        "outline": [
+          "从项目争执情境切入",
+          "把立场争论改为比较证据",
+          "试行方案再评估并记录分歧"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "尊重的交流有助于澄清真实分歧。",
+        "mechanism": "先听理由并准确复述，可减少因误解产生的对抗。",
+        "example": "两名组员分别担心活动成本和覆盖人数。",
+        "link": "讨论可以围绕问题，而不是评价对方。",
+        "claimZh": "尊重的交流有助于澄清真实分歧。",
+        "mechanismZh": "先听理由并准确复述，可减少因误解产生的对抗。",
+        "exampleZh": "两名组员分别担心活动成本和覆盖人数。",
+        "linkZh": "讨论可以围绕问题，而不是评价对方。"
+      },
+      {
+        "claim": "共同标准使论证可比较。",
+        "mechanism": "成本、可行性等标准把抽象偏好转化为可检查的理由。",
+        "example": "比较线上和线下活动能在预算内触达多少人。",
+        "link": "共同证据有助于选择可行方案或决定试行。",
+        "claimZh": "共同标准使论证可比较。",
+        "mechanismZh": "成本、可行性等标准把抽象偏好转化为可检查的理由。",
+        "exampleZh": "比较线上和线下活动能在预算内触达多少人。",
+        "linkZh": "共同证据有助于选择可行方案或决定试行。"
+      }
+    ],
+    "modelEssay": "When faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument. Agreement is more likely when participants understand each other's reasons and compare proposals using shared criteria.\n\nA friendly discussion begins with listening accurately. In a student project, one member may prefer a large event, while another worries about the budget. Repeating the concern in fair terms can show that disagreement is about a practical constraint rather than a personal conflict. The group can then examine reasonable arguments. By comparing the cost, likely attendance and available preparation time, members have a clearer basis for choosing between a large event and several smaller sessions. Evidence makes the discussion more useful than repeating personal preferences.\n\nNot every disagreement can be resolved immediately. If uncertainty remains, the group might test a small version of the proposal and review the result together. Members should record any remaining concerns and agree on how to make a decision. Respectful discussion therefore does not require everyone to surrender an opinion; it enables people to cooperate while examining their differences carefully.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2023_06_friendly_discussion_e1",
+        "text": "reach agreement on",
+        "meaning": "就……达成一致",
+        "pattern": "reach agreement on + 议题",
+        "example": "The group reached agreement on a smaller event.",
+        "boundary": "agreement 在该搭配中通常不可数；不能保证每个争议都达成一致。",
+        "patternZh": "reach agreement on 后接议题，表示就某事达成共识。",
+        "exampleZh": "小组就举办一场规模较小的活动达成了共识。"
+      },
+      {
+        "id": "cet6_2023_06_friendly_discussion_e2",
+        "text": "evaluate proposals against shared criteria",
+        "meaning": "按共同标准评估提案",
+        "pattern": "evaluate + 名词 + against + 标准",
+        "example": "We can evaluate proposals against shared criteria such as cost and feasibility.",
+        "boundary": "against 在此表示参照标准，不表示反对；标准需与任务相关。",
+        "patternZh": "evaluate A against B 表示依据 B 这一标准评价 A。",
+        "exampleZh": "我们可以依据成本、可行性等共同标准评价提案。"
+      },
+      {
+        "id": "cet6_2023_06_friendly_discussion_e3",
+        "text": "acknowledge a legitimate concern",
+        "meaning": "承认合理的顾虑",
+        "pattern": "acknowledge + 名词",
+        "example": "Acknowledging a legitimate concern can keep a discussion focused.",
+        "boundary": "承认顾虑不等于同意所有结论；不要把合法 legitimate 只解释为法律意义。",
+        "patternZh": "acknowledge 后接名词，表示承认或正视某项顾虑等。",
+        "exampleZh": "承认合理顾虑可以让讨论保持聚焦。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Differing opinions are valuable. They help society develop, so disagreement is always good.",
+      "improvedParagraph": "When group members disagree about an event, they can first identify the reasons behind each view. Comparing cost and likely attendance against shared criteria helps them choose a feasible proposal. A respectful tone makes it easier to exchange those reasons.",
+      "explanation": "弱段只称赞不同意见，没有说明应如何回应。改进段写出了解顾虑、制定共同标准和比较提案的动作，连接友好讨论与合理论证。",
+      "transferPrompt": "室友对于公共区域的清洁安排存在分歧，怎样用友好讨论形成可执行方案？",
+      "transferHint": "明确各方顾虑，设共同标准，提出试行与复查；不照搬活动预算例子。",
+      "boundaryPrompt": "为了保持友好，是否必须接受对方的观点？",
+      "boundaryAnswer": "不必须。尊重针对人，合理论证针对主张；可以承认顾虑、保留分歧并约定决策方式。",
+      "weakParagraphZh": "不同意见有价值。它们帮助社会发展，所以分歧总是好的。",
+      "improvedParagraphZh": "当小组成员对活动有不同意见时，可以先确定每种观点背后的理由。依据共同标准比较成本和可能的到场人数，有助于选择可行提案。尊重彼此的语气能让这些理由更容易得到交流。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Differing opinions deserves discussion.",
+        "right": "Differing opinions deserve discussion.",
+        "why": "复数主语 opinions 对应 deserve。",
+        "wrongZh": "不同意见值得讨论。",
+        "rightZh": "不同意见值得讨论。"
+      },
+      {
+        "wrong": "We should argue each other reasonably.",
+        "right": "We should discuss our differences reasonably.",
+        "why": "argue 作争论时常用 argue with someone；这里 discuss our differences 更清楚地表达处理问题。",
+        "wrongZh": "我们应该理性地相互争论。",
+        "rightZh": "我们应该理性地讨论彼此的分歧。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "When faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用评论、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "面对不同意见时，我们应尝试通过友好讨论和合理论证达成共识。",
+    "modelEssayZh": [
+      "面对不同意见时，我们应尝试通过友好讨论和合理论证达成共识。当参与者理解彼此的理由，并使用共同标准比较提案时，就更有可能达成共识。",
+      "友好讨论从准确倾听开始。在学生项目中，一名成员可能希望举办大型活动，而另一名成员担心预算。公正地复述这一顾虑，可以表明分歧涉及实际约束，而不是个人冲突。随后，小组可以检查合理的论据。比较成本、可能的到场人数和可用准备时间，能为在大型活动与数场小型活动之间作选择提供更清楚的依据。比起反复强调个人偏好，证据能让讨论更有用。",
+      "不是每项分歧都能立即解决。如果仍存在不确定性，小组可以试行提案的小规模版本，并共同检查结果。成员应记录尚存的顾虑，并商定如何作决定。因此，尊重彼此的讨论并不要求每个人都放弃意见，而是使人们能够在认真检查分歧的同时合作。"
+    ],
+    "requiredOpeningZh": "面对不同意见时，我们应尝试通过友好讨论和合理论证达成共识。"
+  },
+  {
+    "id": "cet6_2023_06_learn_how_to_learn",
+    "legacyIds": [
+      "cet6_2023_06_03_learn_how_to_learn"
+    ],
+    "exam": "CET6",
+    "year": 2023,
+    "month": "06",
+    "title": "教育如何帮助学生学会学习",
+    "theme": "学习成长类",
+    "taskKind": "propose",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet6.koolearn.com/20250421/899022.html",
+        "title": "2023年6月六级作文：学会学习",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "机构完整 Directions 确认给定句、150–200词及照抄首句要求；未排除首句计词。"
+      }
+    ],
+    "prompt": "It is widely accepted that an important goal of education is to help students learn how to learn.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with reasons, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据题源和用户原始资料忠实整理的训练指令，并非原始 Directions 的逐字转载；题目明确要求的给定首句应保留。计词按来源未排除首句的规则；不得由模板推断所有场次都排除首句。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "教育需要支持离开课堂后的持续学习",
+      "objective": "说明学会学习的意义并提出教学实践",
+      "requirements": [
+        "解释学会学习包含哪些主动判断",
+        "用检查理解、选择策略或调整方法的具体过程支持"
+      ],
+      "optionalIdeas": [
+        "检查理解",
+        "选择策略",
+        "根据反馈调整方法"
+      ],
+      "avoid": [
+        "把学习方法等同所有人用同一套技巧",
+        "只宣称终身学习重要"
+      ],
+      "acceptedKeywords": [
+        "learn how to learn",
+        "learning how to learn",
+        "学会学习",
+        "education",
+        "教育",
+        "learning strategies",
+        "学习策略"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "区分记住答案与管理学习",
+          "解释检查理解和策略调整",
+          "用解释例题的情境说明",
+          "教师示范并逐步减少提示"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "学生需要判断自己的学习是否有效。",
+        "mechanism": "解释过程和检查结果可以发现记住步骤但不理解原理的问题。",
+        "example": "学生解出题后解释为什么适用该方法，再做一个变式题。",
+        "link": "教育帮助其形成能迁移到新任务的检查习惯。",
+        "claimZh": "学生需要判断自己的学习是否有效。",
+        "mechanismZh": "解释过程和检查结果可以发现记住步骤但不理解原理的问题。",
+        "exampleZh": "学生解出题后解释为什么适用该方法，再做一个变式题。",
+        "linkZh": "教育帮助其形成能迁移到新任务的检查习惯。"
+      }
+    ],
+    "modelEssay": "It is widely accepted that an important goal of education is to help students learn how to learn. This goal matters because facts and tasks change, while students still need ways to understand unfamiliar material and judge their progress.\n\nLearning how to learn involves more than collecting study tips. Students need to notice when they do not understand a concept and choose a suitable response. After solving a problem, for example, a student can explain why the method works and try a slightly different question. If the explanation fails, returning to the relevant concept is more useful than copying another solution. Such checking helps students distinguish successful performance on one exercise from understanding that can be used elsewhere.\n\nTeachers can make this process visible by explaining how they select a method, test an idea and revise a mistaken assumption. They can then ask students to practise these decisions with gradually fewer prompts. Feedback should address the learning process as well as the final answer. In this way, education equips students to approach new subjects with an adaptable method rather than depend permanently on complete instructions.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2023_06_learn_how_to_learn_e1",
+        "text": "monitor one's understanding",
+        "meaning": "监控自己的理解",
+        "pattern": "monitor + 名词",
+        "example": "Students can monitor their understanding by explaining an idea without notes.",
+        "boundary": "monitor 不是被动观察成绩；需要能揭示理解的行动。",
+        "patternZh": "monitor 后接名词，表示持续检查某种理解或进展。",
+        "exampleZh": "学生可以通过不看笔记解释一个想法，检查自己的理解。"
+      },
+      {
+        "id": "cet6_2023_06_learn_how_to_learn_e2",
+        "text": "adjust a learning strategy",
+        "meaning": "调整学习策略",
+        "pattern": "adjust + 名词",
+        "example": "A learner may need to adjust a learning strategy after checking the results.",
+        "boundary": "strategy 可数；没有一种策略适合所有目标。",
+        "patternZh": "adjust 后接要调整的对象这一名词。",
+        "exampleZh": "检查结果后，学习者可能需要调整学习策略。"
+      },
+      {
+        "id": "cet6_2023_06_learn_how_to_learn_e3",
+        "text": "transfer knowledge to a new context",
+        "meaning": "把知识迁移到新情境",
+        "pattern": "transfer + 名词 + to + 名词",
+        "example": "A varied problem helps students transfer knowledge to a new context.",
+        "boundary": "换一个完全相同的数字例题不一定检验广泛迁移。",
+        "patternZh": "transfer A to B 表示将 A 迁移或应用到 B；两项都用名词表达。",
+        "exampleZh": "变式题帮助学生把知识迁移到新情境。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Learning how to learn means knowing many useful tips. Students should always use the same best method.",
+      "improvedParagraph": "Students can check understanding by explaining why a solution works and trying a varied problem. If they cannot explain the method, they can revisit the relevant concept. This cycle helps them select and adjust a strategy rather than follow one routine mechanically.",
+      "explanation": "弱段把学会学习当作收集技巧，并假定有适合所有任务的方法。改进段加入无提示解释、变式检查和重新学习的循环，使策略选择有结果依据。",
+      "transferPrompt": "怎样帮助学生判断一种复习方法是否适合自己的目标？",
+      "transferHint": "提出可观察的结果和调整依据，避免把主观熟悉感当唯一证据。",
+      "boundaryPrompt": "一种技巧让材料感觉熟悉，是否足以证明已经学会？",
+      "boundaryAnswer": "不足以。可以在没有提示时解释或应用，再根据困难调整策略；熟悉感与独立表现不同。",
+      "weakParagraphZh": "学会学习意味着知道许多有用技巧。学生应始终使用同一种最好的方法。",
+      "improvedParagraphZh": "学生可以解释一种解法为什么有效，并尝试变式题，以此检查理解。如果无法解释方法，他们可以重新学习相关概念。这一循环帮助他们选择和调整策略，而不是机械遵循同一种程序。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Learn how to learn is an important goal.",
+        "right": "Learning how to learn is an important goal.",
+        "why": "整个学习活动作主语用动名词形式 Learning。",
+        "wrongZh": "学会如何学习是一个重要目标。",
+        "rightZh": "学会如何学习是一个重要目标。"
+      },
+      {
+        "wrong": "Students should depend of instructions.",
+        "right": "Students should depend on instructions.",
+        "why": "depend 与 on 搭配；作文应进一步说明如何减少不必要依赖。",
+        "wrongZh": "学生应该依赖指令。",
+        "rightZh": "学生应该依赖指令。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "It is widely accepted that an important goal of education is to help students learn how to learn.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用理由、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "人们普遍认为，教育的一个重要目标是帮助学生学会如何学习。",
+    "modelEssayZh": [
+      "人们普遍认为，教育的一个重要目标是帮助学生学会如何学习。这个目标很重要，因为事实和任务会变化，而学生仍然需要理解陌生材料并判断自己进展的方法。",
+      "学会学习不只是收集学习技巧。学生需要察觉自己何时没有理解概念，并选择合适的应对方式。例如，解出一道题后，学生可以解释这种方法为什么有效，再尝试一道稍有不同的题。如果解释不清楚，回到相关概念，比照抄另一份解答更有用。这种检查有助于学生区分：在一道练习中表现成功，与能够用在其他情境中的理解。",
+      "教师可以说明自己如何选择方法、检验想法并修正错误假设，让这一过程清楚可见。随后，他们可以让学生在逐渐减少提示的情况下练习作这些决定。反馈既应针对最终答案，也应针对学习过程。这样，教育能够让学生用可调整的方法接触新学科，而不是永久依赖完整指令。"
+    ],
+    "requiredOpeningZh": "人们普遍认为，教育的一个重要目标是帮助学生学会如何学习。"
+  },
+  {
+    "id": "cet6_2023_03_too_many_choices",
+    "legacyIds": [
+      "cet6_2023_03_01_too_many_choices"
+    ],
+    "exam": "CET6",
+    "year": 2023,
+    "month": "03",
+    "title": "过多选择为何让决定变难",
+    "theme": "数字信息类",
+    "taskKind": "explain",
+    "deep": false,
+    "evaluation": true,
+    "sources": [
+      {
+        "url": "https://cet6.koolearn.com/20230310/870261.html",
+        "title": "2023年3月英语六级真题及答案第二套（完整版）",
+        "publisher": "新东方在线整理",
+        "kind": "institution-transcription",
+        "note": "机构整卷页直接读取Part I完整Directions，确认给定句、30分钟、150–200词，可评论、举例或使用个人经历，未排除首句。网页发表日期早于考试，不作考试日期证据；场次依题名和当次3月12日文章交叉核对。"
+      },
+      {
+        "url": "https://m.koolearn.com/cet6/20230312/870700.html",
+        "title": "2023年3月六级作文：过多选择与决策",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "当次机构文章交叉确认2023年3月场次及给定句，不将参考作文作为官方答案。"
+      }
+    ],
+    "prompt": "People are now increasingly aware of the challenges in making a decision when faced with too many choices.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with comments, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据完整题源忠实整理的英文训练要求，并非原始 Directions 的逐字转载；给定首句应保留。所核对完整转录为30分钟、150–200词，未注明排除给定首句，因此本题按全文计词；来源等级及读取限制见来源说明。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "消费者或学生需要在大量选项间作出决定",
+      "objective": "解释过多选择带来的困难，并提出有针对性的应对",
+      "requirements": [
+        "解释过多选择为何可能使决策困难",
+        "围绕比较负担或目标不清说明机制，避免赞美问题本身"
+      ],
+      "optionalIdeas": [
+        "比较成本",
+        "目标不清造成反复搜索",
+        "必要条件和有限候选"
+      ],
+      "avoid": [
+        "说没有过多选择人类就无法进步",
+        "断言更多选择一定有害",
+        "只列出选择很重要"
+      ],
+      "acceptedKeywords": [
+        "too many choices",
+        "过多选择",
+        "decision-making",
+        "making a decision",
+        "决策",
+        "选择困难"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "限定选择有价值但比较资源有限",
+          "解释比较负担和目标不清",
+          "用选课场景说明",
+          "建议先定条件再缩小范围"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "选项增加可能提高比较负担。",
+        "mechanism": "同时追踪许多差异会消耗时间，缺少明确标准时更难停止搜索。",
+        "example": "学生在几十门课程间反复浏览，却未确定时间和学习目标。",
+        "link": "先定标准能把搜索转化为有目的的比较。",
+        "claimZh": "选项增加可能提高比较负担。",
+        "mechanismZh": "同时追踪许多差异会消耗时间，缺少明确标准时更难停止搜索。",
+        "exampleZh": "学生在几十门课程间反复浏览，却未确定时间和学习目标。",
+        "linkZh": "先定标准能把搜索转化为有目的的比较。"
+      }
+    ],
+    "modelEssay": "People are now increasingly aware of the challenges in making a decision when faced with too many choices. Having options is useful, but comparing a large number of them requires time and a clear sense of priorities.\n\nOne difficulty is that people may keep discovering small differences without deciding which ones matter. A student choosing an optional course might read dozens of descriptions, compare every teacher's style and repeatedly change a shortlist. If the student has not identified a learning goal or checked the timetable, much of this searching will not improve the final decision. The possibility of finding a slightly better alternative can also make an acceptable option seem insufficient.\n\nA practical response is to establish a few essential conditions before comparing options. The student could first choose a subject area, exclude courses that conflict with required classes and compare three suitable alternatives. A reasonable deadline can prevent endless searching. This approach does not suggest that more choice is always harmful. It helps people use their limited attention on relevant differences and make a decision that fits their own needs.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2023_03_too_many_choices_e1",
+        "text": "set clear priorities",
+        "meaning": "确定清晰的优先事项",
+        "pattern": "set + 名词短语",
+        "example": "Setting clear priorities can make a comparison more manageable.",
+        "boundary": "priorities 常用复数；标准应先于搜索，不等于必须只留一个目标。",
+        "patternZh": "set 后接名词短语，表示设定优先事项等。",
+        "exampleZh": "设定明确的优先事项，可以让比较过程更容易处理。"
+      },
+      {
+        "id": "cet6_2023_03_too_many_choices_e2",
+        "text": "narrow down the options",
+        "meaning": "缩小选择范围",
+        "pattern": "narrow down + 名词",
+        "example": "Students can narrow down the options by checking essential requirements.",
+        "boundary": "不能随意排除而忽略重要条件；options 可数复数。",
+        "patternZh": "narrow down 后接名词，表示缩小选项范围。",
+        "exampleZh": "学生可以通过核查必要条件缩小选项范围。"
+      },
+      {
+        "id": "cet6_2023_03_too_many_choices_e3",
+        "text": "make an informed decision",
+        "meaning": "作出有根据的决定",
+        "pattern": "make an informed decision about + 议题",
+        "example": "Relevant information helps people make an informed decision.",
+        "boundary": "informed 不意味着拥有所有信息或保证结果最佳。",
+        "patternZh": "make an informed decision about 后接议题，表示根据相关信息就某事作决定。",
+        "exampleZh": "相关信息帮助人们在充分了解情况的基础上作决定。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Too many choices are essential for progress. Without them, people cannot develop.",
+      "improvedParagraph": "When a student compares dozens of courses without clear priorities, each new detail may prolong the search. Choosing a subject area and checking the timetable first can reduce the list to a few relevant options. The comparison then serves an actual learning goal.",
+      "explanation": "弱段机械赞美过多选择，反转了题目的问题方向。改进段解释目标不清如何延长搜索，再以筛选条件减少无关比较，回应挑战及合理对策。",
+      "transferPrompt": "如何从多个实习机会中作出决定？写出比较负担和应对办法。",
+      "transferHint": "说明哪些差异重要，怎样筛选；不要照搬选课的具体条件。",
+      "boundaryPrompt": "只有两个选项一定比有十个选项更好决定吗？",
+      "boundaryAnswer": "不一定。难度也取决于信息质量、目标清晰度和差异；减少数量不是唯一解决办法。",
+      "weakParagraphZh": "过多选择是进步必不可少的条件。没有它们，人们就无法发展。",
+      "improvedParagraphZh": "当学生没有明确优先事项，却比较几十门课程时，每条新细节都可能延长搜索。先确定学科领域并查看课表，可以把清单缩小到几个相关选项。这样，比较才服务于实际学习目标。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Too many choices makes decisions difficult.",
+        "right": "Too many choices make decisions difficult.",
+        "why": "复数主语 choices 对应 make。",
+        "wrongZh": "过多选项让决定变得困难。",
+        "rightZh": "过多选项让决定变得困难。"
+      },
+      {
+        "wrong": "More choices are always harmful.",
+        "right": "More choices can make comparison difficult when priorities are unclear.",
+        "why": "原句绝对化；改句限定问题出现的条件。",
+        "wrongZh": "更多选项总是有害。",
+        "rightZh": "当优先事项不明确时，更多选项可能让比较变得困难。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "People are now increasingly aware of the challenges in making a decision when faced with too many choices.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用评论、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "人们如今越来越意识到，面对过多选项时作决定所面临的挑战。",
+    "modelEssayZh": [
+      "人们如今越来越意识到，面对过多选项时作决定所面临的挑战。有选项是有用的，但比较大量选项需要时间，也需要清楚知道什么最重要。",
+      "一项困难是，人们可能不断发现细微差别，却没有决定哪些差别真正重要。选择选修课的学生可能阅读几十份课程介绍，比较每位教师的风格，并反复修改候选课程清单。如果学生尚未确定学习目标或查看课表，这些搜索中的很大一部分就不会改善最终决定。可能找到略好选项的想法，还可能让原本可以接受的选项显得不够好。",
+      "一种实际应对方式是，在比较选项之前确定几个必要条件。学生可以先选定学科领域，排除与必修课冲突的课程，再比较三个合适选项。合理的截止时间可以防止无休止搜索。这种方法并不是说选项更多总是有害，而是帮助人们把有限注意力用于相关差别，作出适合自身需要的决定。"
+    ],
+    "requiredOpeningZh": "人们如今越来越意识到，面对过多选项时作决定所面临的挑战。"
+  },
+  {
+    "id": "cet6_2023_03_digital_gap_elderly",
+    "legacyIds": [
+      "cet6_2023_03_02_digital_gap_elderly"
+    ],
+    "exam": "CET6",
+    "year": 2023,
+    "month": "03",
+    "title": "数字服务如何减少对老年人的障碍",
+    "theme": "数字信息类",
+    "taskKind": "propose",
+    "deep": true,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet6.koolearn.com/20230310/870262.html",
+        "title": "2023年3月英语六级真题及答案第三套（完整版）",
+        "publisher": "新东方在线整理",
+        "kind": "institution-transcription",
+        "note": "机构整卷页直接读取Part I完整Directions，确认30分钟、150–200词，可评论、解释或举例，未排除首句；原句给digital gap加引号，已同步题目与范文。网页发表日期早于考试，不用其时间确定场次，依题名及当次文章交叉核对。"
+      },
+      {
+        "url": "https://m.koolearn.com/cet6/20230312/870905.html",
+        "title": "2023年3月六级作文主题：老年人的数字鸿沟",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "当次机构主题页交叉核实考试年月；完整首句和要求取自机构整卷转录。"
+      }
+    ],
+    "prompt": "People are now increasingly aware of the 'digital gap' or challenges the elderly face in a digital world.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with comments, explanations or examples. Write 150–200 words.",
+    "directionsNote": "以上为根据完整题源忠实整理的英文训练要求，并非原始 Directions 的逐字转载；给定首句应保留。所核对完整转录为30分钟、150–200词，未注明排除给定首句，因此本题按全文计词；来源等级及读取限制见来源说明。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "部分老年人在使用线上公共服务时面临障碍",
+      "objective": "分析数字障碍的机制并提出服务与支持方案",
+      "requirements": [
+        "具体解释老年人在数字服务中面临的障碍",
+        "提出与障碍相匹配的设计、指导或替代渠道"
+      ],
+      "optionalIdeas": [
+        "界面和步骤造成困难",
+        "可理解的分步指导",
+        "保留线下或人工渠道"
+      ],
+      "avoid": [
+        "把所有老年人写成不会使用技术",
+        "赞美数字鸿沟的价值",
+        "仅责备老年人不努力"
+      ],
+      "acceptedKeywords": [
+        "digital gap",
+        "digital divide",
+        "数字鸿沟",
+        "elderly",
+        "older people",
+        "老年人",
+        "digital world",
+        "数字服务"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "具体说明障碍及后果",
+          "以线上预约解释复杂流程",
+          "提出简单界面和分步支持",
+          "保留人工渠道并尊重隐私"
+        ]
+      },
+      {
+        "label": "思路二：从情境出发并说明边界",
+        "outline": [
+          "从无法完成公共服务预约的情境出发",
+          "区分技能、界面和渠道障碍",
+          "解释各方责任与可替代服务"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "复杂流程可能使部分使用者失去服务机会。",
+        "mechanism": "过多步骤、小字和不清楚提示增加完成任务的难度。",
+        "example": "需要验证码和跳转多个页面的预约让用户中途放弃。",
+        "link": "数字化便利不能只按熟练用户的经验评价。",
+        "claimZh": "复杂流程可能使部分使用者失去服务机会。",
+        "mechanismZh": "过多步骤、小字和不清楚提示增加完成任务的难度。",
+        "exampleZh": "需要验证码和跳转多个页面的预约让用户中途放弃。",
+        "linkZh": "数字化便利不能只按熟练用户的经验评价。"
+      },
+      {
+        "claim": "服务设计与支持应同时改善。",
+        "mechanism": "简化步骤降低操作负担，分步练习提高可重复使用能力。",
+        "example": "志愿者让老人自己完成预约，同时服务保留人工窗口。",
+        "link": "这支持能力发展，也保障暂时无法使用线上服务者的需要。",
+        "claimZh": "服务设计与支持应同时改善。",
+        "mechanismZh": "简化步骤降低操作负担，分步练习提高可重复使用能力。",
+        "exampleZh": "志愿者让老人自己完成预约，同时服务保留人工窗口。",
+        "linkZh": "这支持能力发展，也保障暂时无法使用线上服务者的需要。"
+      }
+    ],
+    "modelEssay": "People are now increasingly aware of the 'digital gap' or challenges the elderly face in a digital world. These challenges deserve attention because essential services should remain available to people with different levels of digital experience.\n\nSome older users find online procedures difficult when instructions are unclear or several unfamiliar steps must be completed quickly. For example, booking a public service may require switching between pages, entering a verification code and checking a confirmation message. A person who loses track of one step might abandon the appointment, even though the service itself is needed. The obstacle involves both the user's experience and the design of the procedure.\n\nService providers can reduce this difficulty with clearer text, fewer unnecessary steps and an easily reachable help option. Community volunteers could offer patient, practical guidance, allowing users to complete a task themselves rather than taking control of the phone. Personal information should remain private throughout this assistance. Meanwhile, telephone or in-person channels should be maintained for those who cannot use the online system. Combining accessible design, training and alternative channels makes digital services more inclusive.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2023_03_digital_gap_elderly_e1",
+        "text": "bridge the digital divide",
+        "meaning": "缩小数字鸿沟",
+        "pattern": "bridge + 名词短语",
+        "example": "Accessible design and practical support can help bridge the digital divide.",
+        "boundary": "用 help 表明需要多种条件；不能承诺一次课程完全消除鸿沟。",
+        "patternZh": "bridge 后接名词短语，表示弥合鸿沟或差距。",
+        "exampleZh": "易用的设计和实际支持可以帮助弥合数字鸿沟。"
+      },
+      {
+        "id": "cet6_2023_03_digital_gap_elderly_e2",
+        "text": "provide step-by-step guidance",
+        "meaning": "提供分步指导",
+        "pattern": "provide + 名词；provide someone with ...",
+        "example": "Volunteers can provide step-by-step guidance on booking an appointment.",
+        "boundary": "指导应让使用者操作；不能不经同意读取私人信息。",
+        "patternZh": "provide 后接提供的内容；provide someone with 后接提供给某人的事物。",
+        "exampleZh": "志愿者可以为预约提供分步骤指导。"
+      },
+      {
+        "id": "cet6_2023_03_digital_gap_elderly_e3",
+        "text": "maintain alternative channels",
+        "meaning": "保留替代渠道",
+        "pattern": "maintain + 名词短语",
+        "example": "Public services should maintain alternative channels for users who need them.",
+        "boundary": "alternative 不是低质量的次等服务；渠道必须实际可用。",
+        "patternZh": "maintain 后接名词短语，表示保持或保留某些渠道等。",
+        "exampleZh": "公共服务应为需要替代渠道的用户保留这些渠道。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "The digital gap is very important for development. Elderly people should work harder to overcome it.",
+      "improvedParagraph": "An appointment system with unclear instructions and repeated page changes can exclude users who lack digital experience. Clearer design and patient guidance can reduce the difficulty, while telephone or in-person channels protect access for those who still cannot use the system.",
+      "explanation": "弱段赞美数字鸿沟并把责任单方面推给老人。改进段写界面和流程障碍，结合设计、指导和替代渠道，回应服务可及性而非年龄刻板印象。",
+      "transferPrompt": "学校推广线上办事系统时，如何照顾数字经验不同的使用者？",
+      "transferHint": "迁移任务步骤、界面支持和替代渠道；不要将群体差异等同能力不足。",
+      "boundaryPrompt": "教会一个老人使用一次手机，是否意味着数字鸿沟已经解决？",
+      "boundaryAnswer": "不意味着。服务变化、设备条件、可及性和隐私等仍可能造成障碍；需要持续设计与替代渠道。",
+      "weakParagraphZh": "数字鸿沟对发展非常重要。老年人应该更努力地克服它。",
+      "improvedParagraphZh": "说明不清楚、反复切换页面的预约系统，可能把缺乏数字经验的用户排除在外。更清楚的设计和耐心指导可以降低困难，而电话或现场渠道能保障那些仍然无法使用系统的人获得服务。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "All elderly people cannot use technology.",
+        "right": "Some older people face barriers when using digital services.",
+        "why": "原句以年龄过度概括群体；改句限定部分使用者与具体障碍。",
+        "wrongZh": "所有老年人都无法使用技术。",
+        "rightZh": "一些老年人在使用数字服务时面临障碍。"
+      },
+      {
+        "wrong": "Volunteers should give them many informations.",
+        "right": "Volunteers should give them clear information.",
+        "why": "information 不可数，不加 s；指导质量比信息数量更相关。",
+        "wrongZh": "志愿者应该给他们许多信息。",
+        "rightZh": "志愿者应该给他们清楚的信息。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "People are now increasingly aware of the 'digital gap' or challenges the elderly face in a digital world.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用评论、解释或例子支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "人们如今越来越意识到“数字鸿沟”，也就是老年人在数字世界中面临的挑战。",
+    "modelEssayZh": [
+      "人们如今越来越意识到“数字鸿沟”，也就是老年人在数字世界中面临的挑战。这些挑战值得关注，因为必要服务应保持可用，让数字经验水平不同的人都能获得服务。",
+      "当说明不清楚，或必须快速完成多个陌生步骤时，一些老年用户会觉得线上流程困难。例如，预约公共服务可能需要切换页面、输入验证码并查看确认消息。漏掉某一步的人可能会放弃预约，即使他确实需要这项服务。障碍既涉及用户的经验，也涉及流程的设计。",
+      "服务提供者可以用更清楚的文字、减少不必要步骤和容易找到的求助选项，降低这种困难。社区志愿者可以提供耐心、实际的指导，让用户自己完成任务，而不是接管手机。在整个协助过程中，个人信息都应保持私密。同时，应为无法使用线上系统的人保留电话或现场服务渠道。把易用设计、培训和替代渠道结合起来，能够让数字服务更具包容性。"
+    ],
+    "requiredOpeningZh": "人们如今越来越意识到“数字鸿沟”，也就是老年人在数字世界中面临的挑战。"
+  },
+  {
+    "id": "cet6_2023_03_appearance_anxiety",
+    "legacyIds": [
+      "cet6_2023_03_03_appearance_anxiety"
+    ],
+    "exam": "CET6",
+    "year": 2023,
+    "month": "03",
+    "title": "外貌焦虑的风险与合理回应",
+    "theme": "心理人格类",
+    "taskKind": "discuss",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet6.koolearn.com/20230310/870260.html",
+        "title": "2023年3月英语六级真题及答案第一套（完整版）",
+        "publisher": "新东方在线整理",
+        "kind": "institution-transcription",
+        "note": "限定该URL的检索读取完整Part I Directions，确认30分钟、150–200词，可评论、举例或个人经历，未排除首句；首句为one's looks复数。网页直开不稳定，发表日期早于考试，场次依题名及当次回顾交叉核对，不作官方原卷认证。"
+      },
+      {
+        "url": "https://cet46.wendu.com/2023/1213/58475.shtml",
+        "title": "近几年英语六级考试作文真题及参考范文（四）",
+        "publisher": "文都教育",
+        "kind": "institution-transcription",
+        "note": "可直接读取完整Directions及审题中的one’s looks，支持首句复数；同页范文误写one’s look，末尾场次标记也有问题，不能以该范文确定原句或考试年月。本题修正用户旧版look，并规范引号及撇号排版。"
+      },
+      {
+        "url": "https://cet46.wendu.com/m/2023/1208/58412.shtml",
+        "title": "六级历年作文主题回顾",
+        "publisher": "文都教育",
+        "kind": "institution-transcription",
+        "note": "交叉核实2023年3月外貌焦虑主题。"
+      }
+    ],
+    "prompt": "People are now increasingly aware of the danger of 'appearance anxiety' or being obsessed with one's looks.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with comments, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据完整题源忠实整理的英文训练要求，并非原始 Directions 的逐字转载；给定首句应保留。所核对完整转录为30分钟、150–200词，未注明排除给定首句，因此本题按全文计词；来源等级及读取限制见来源说明。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "年轻人可能反复以外貌评价自身价值",
+      "objective": "解释过度关注外貌的风险，并提出有边界的回应",
+      "requirements": [
+        "说明过度担忧外貌可能产生的风险",
+        "区分正常仪表关注与干扰生活的过度担忧"
+      ],
+      "optionalIdeas": [
+        "比较影响自我评价",
+        "对学习或交往的影响",
+        "减少触发比较的信息并寻求支持"
+      ],
+      "avoid": [
+        "把注重整洁等同病态",
+        "说没有外貌焦虑人类无法进步",
+        "作个体心理诊断"
+      ],
+      "acceptedKeywords": [
+        "appearance anxiety",
+        "外貌焦虑",
+        "obsessed with appearance",
+        "obsessed with one's look",
+        "obsessed with one’s look",
+        "过度关注外貌"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "区分正常关注与过度占用注意力",
+          "解释反复比较的风险",
+          "用回避活动的例子说明",
+          "提出具体行动并保留求助边界"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "过度比较可能限制生活参与。",
+        "mechanism": "把狭窄的外貌标准视作自身价值的尺度，可能使人持续自我否定。",
+        "example": "学生因担心照片不好看而回避社团活动。",
+        "link": "问题在于焦虑阻碍活动，而非普通的仪表管理。",
+        "claimZh": "过度比较可能限制生活参与。",
+        "mechanismZh": "把狭窄的外貌标准视作自身价值的尺度，可能使人持续自我否定。",
+        "exampleZh": "学生因担心照片不好看而回避社团活动。",
+        "linkZh": "问题在于焦虑阻碍活动，而非普通的仪表管理。"
+      }
+    ],
+    "modelEssay": "People are now increasingly aware of the danger of 'appearance anxiety' or being obsessed with one's looks. Caring about appearance is ordinary, but excessive concern can interfere with activities and make self-worth depend on a narrow standard.\n\nOne risk is repeated comparison with carefully selected images online. A student may judge an ordinary photograph against edited pictures and feel that personal appearance is never acceptable. If this concern leads the student to avoid a club event or repeatedly check photographs instead of completing work, the effect reaches beyond looking in a mirror. Opportunities for friendship and learning may be missed, while the comparison offers little useful guidance for daily life.\n\nA helpful response is to notice the activities that excessive checking displaces and reduce exposure to material that repeatedly triggers comparison. Friends and teachers can recognise effort, skills and kindness without constantly commenting on looks. People should also be encouraged to seek appropriate support when worry is persistent or seriously disrupts life. The aim is not to forbid interest in appearance, but to prevent that interest from becoming the main measure of personal worth.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2023_03_appearance_anxiety_e1",
+        "text": "base self-worth on",
+        "meaning": "把自我价值建立在……上",
+        "pattern": "base + 名词 + on + 名词",
+        "example": "It can be limiting to base self-worth entirely on appearance.",
+        "boundary": "self-worth 不可数；避免断言所有关注外貌者都如此。",
+        "patternZh": "base A on B 表示将 A 建立在 B 的基础上；两项都用名词表达。",
+        "exampleZh": "把自我价值完全建立在外貌之上，可能会限制自己。"
+      },
+      {
+        "id": "cet6_2023_03_appearance_anxiety_e2",
+        "text": "interfere with everyday activities",
+        "meaning": "干扰日常活动",
+        "pattern": "interfere with + 名词",
+        "example": "Excessive checking may interfere with everyday activities.",
+        "boundary": "描述行为影响，不据此进行个体心理诊断。",
+        "patternZh": "interfere with 后接被干扰的活动等名词。",
+        "exampleZh": "过度检查可能干扰日常活动。"
+      },
+      {
+        "id": "cet6_2023_03_appearance_anxiety_e3",
+        "text": "reduce exposure to",
+        "meaning": "减少接触……",
+        "pattern": "reduce exposure to + 名词",
+        "example": "Students can reduce exposure to content that repeatedly triggers comparison.",
+        "boundary": "to 是介词；减少接触不是要求完全退出所有社交活动。",
+        "patternZh": "reduce exposure to 后接名词，表示减少接触某类内容等。",
+        "exampleZh": "学生可以减少接触那些反复引发比较的内容。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Appearance anxiety gives people motivation. Without it, society cannot make progress.",
+      "improvedParagraph": "Repeated comparison with edited images can make a student dissatisfied with ordinary photographs. If this worry causes the student to miss a club event, it restricts friendship and learning. The response should address the disruption rather than praise the anxiety.",
+      "explanation": "弱段把焦虑当作进步动力，忽略题目要求的风险。改进段给出比较—担忧—回避活动的链条，说明损害发生在生活参与，并与普通仪表关注区分。",
+      "transferPrompt": "分析过度追求社交媒体认可可能产生的风险，提出具体应对。",
+      "transferHint": "说明比较如何影响活动与自我评价，同时避免把正常社交一概否定。",
+      "boundaryPrompt": "喜欢穿着整洁是否就能被称为外貌焦虑？",
+      "boundaryAnswer": "不能。正常关注仪表与持续、过度且干扰生活的担忧需要区分；不能凭单个行为作心理诊断。",
+      "weakParagraphZh": "外貌焦虑给人动力。没有它，社会就无法进步。",
+      "improvedParagraphZh": "反复与修饰过的图片比较，可能让学生不满意普通照片。如果这种担忧让学生错过社团活动，就会限制交友和学习。应对方式应处理这种干扰，而不是赞美焦虑。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "People are obsession with their looks.",
+        "right": "People are obsessed with their looks.",
+        "why": "be obsessed with 使用过去分词作表语；obsession 是名词。",
+        "wrongZh": "人们过度关注自己的外貌。",
+        "rightZh": "人们过度关注自己的外貌。"
+      },
+      {
+        "wrong": "Appearance anxiety is necessary for progress.",
+        "right": "Excessive concern about appearance can restrict participation.",
+        "why": "原句机械赞美负面主题；改句解释实际风险。",
+        "wrongZh": "外貌焦虑是进步的必要条件。",
+        "rightZh": "对外貌的过度关注可能限制参与活动。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "People are now increasingly aware of the danger of 'appearance anxiety' or being obsessed with one's looks.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用评论、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "人们如今越来越意识到“外貌焦虑”或过度关注自身外貌的危险。",
+    "modelEssayZh": [
+      "人们如今越来越意识到“外貌焦虑”或过度关注自身外貌的危险。关心外貌很常见，但过度关注可能干扰活动，使自我价值依赖狭窄的标准。",
+      "一个风险是，反复与网上精心挑选的图片比较。学生可能把普通照片与修饰过的图片对照，并觉得自己的外貌始终无法令人接受。如果这种担忧使学生回避社团活动，或反复检查照片而没有完成作业，其影响就已超出照镜子这件事。交友和学习机会可能被错过，而这种比较对日常生活几乎没有有用的指导。",
+      "一种有帮助的应对方式是，留意过度检查挤占了哪些活动，并减少接触那些反复引发比较的材料。朋友和教师可以认可努力、技能和善意，而不总是评价外貌。当担忧持续存在或严重扰乱生活时，也应鼓励人们寻求合适支持。目的不是禁止对外貌感兴趣，而是防止这种兴趣变成衡量个人价值的主要标准。"
+    ],
+    "requiredOpeningZh": "人们如今越来越意识到“外貌焦虑”或过度关注自身外貌的危险。"
+  },
+  {
+    "id": "cet6_2022_12_team_spirit",
+    "legacyIds": [
+      "cet6_2022_12_01_team_spirit"
+    ],
+    "exam": "CET6",
+    "year": 2022,
+    "month": "12",
+    "title": "团队精神如何体现在共同任务中",
+    "theme": "合作沟通类",
+    "taskKind": "propose",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://www.educity.cn/cet/2435516.html",
+        "title": "2022年12月英语六级写作真题题目及范文汇总",
+        "publisher": "希赛网",
+        "kind": "institution-transcription",
+        "note": "机构2022年12月13日自行发布的汇总页完整转录题1 Directions，确认30分钟、150–200词，可作陈述、给理由或举例，未排除首句；给定句含college students’ team spirit，排版空格已规范。网页为汇总整理，不是官方原卷。"
+      },
+      {
+        "url": "https://cet6.koolearn.com/20221210/866695.html",
+        "title": "2022年12月六级作文：大学生团队精神",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "当次机构文章交叉确认年月和主题；不把参考作文当官方答案。"
+      }
+    ],
+    "prompt": "Today increasing importance is being attached to cultivating college students’ team spirit.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with statements, reasons or examples. Write 150–200 words.",
+    "directionsNote": "以上为根据完整题源忠实整理的英文训练要求，并非原始 Directions 的逐字转载；给定首句应保留。所核对完整转录为30分钟、150–200词，未注明排除给定首句，因此本题按全文计词；来源等级及读取限制见来源说明。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "大学生共同完成项目",
+      "objective": "解释团队精神的实际行为，并提出培养方法",
+      "requirements": [
+        "将团队精神解释为可观察的合作行为",
+        "提出共同任务中的分工、共享信息或反思办法"
+      ],
+      "optionalIdeas": [
+        "分工与共同目标",
+        "及时共享进度和问题",
+        "贡献记录与反思"
+      ],
+      "avoid": [
+        "把团队精神写成盲目服从",
+        "以和谐口号代替具体协作",
+        "断言团队总优于个人"
+      ],
+      "acceptedKeywords": [
+        "team spirit",
+        "teamwork",
+        "团队精神",
+        "college students",
+        "大学生"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "界定共同负责而非口号",
+          "用展示项目解释分工和信息共享",
+          "指出应允许建设性分歧",
+          "提出项目规则和反思"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "共享责任提高协作的可执行性。",
+        "mechanism": "分工只有与及时更新、相互支持相结合，才能减少重复和遗漏。",
+        "example": "负责资料搜集的学生提前报告信息缺口，组员调整展示方案。",
+        "link": "团队精神落实为可观察的协作行为。",
+        "claimZh": "共享责任提高协作的可执行性。",
+        "mechanismZh": "分工只有与及时更新、相互支持相结合，才能减少重复和遗漏。",
+        "exampleZh": "负责资料搜集的学生提前报告信息缺口，组员调整展示方案。",
+        "linkZh": "团队精神落实为可观察的协作行为。"
+      }
+    ],
+    "modelEssay": "Today increasing importance is being attached to cultivating college students’ team spirit. Team spirit becomes meaningful when students take shared responsibility for a task, rather than simply agree that cooperation is valuable.\n\nIn a group presentation, members may research different sections, but their work must eventually form a coherent argument. Sharing progress early allows the group to identify repeated material or missing evidence. If one student reports a difficulty before the deadline, others can adjust the plan or offer relevant help. This communication makes individual contributions useful to the whole group and reduces the risk of discovering a serious problem at the last moment.\n\nUniversities can encourage such habits through manageable projects with clear goals, agreed roles and short progress discussions. Assessment can recognise both the final work and evidence of each member's contribution. Students should also have room to question a weak proposal respectfully, since team spirit does not mean silent obedience. A brief reflection on what helped or hindered cooperation can guide the next project. These arrangements teach students how to work together while remaining responsible for their own part.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2022_12_team_spirit_e1",
+        "text": "take shared responsibility for",
+        "meaning": "共同对……承担责任",
+        "pattern": "take shared responsibility for + 名词或动名词",
+        "example": "Team members should take shared responsibility for meeting the deadline.",
+        "boundary": "shared 不意味着个人责任消失；应说明各自贡献。",
+        "patternZh": "take shared responsibility for 表示共同对某事负责；for 后接名词或动名词。",
+        "exampleZh": "团队成员应共同对按时完成任务负责。"
+      },
+      {
+        "id": "cet6_2022_12_team_spirit_e2",
+        "text": "coordinate individual contributions",
+        "meaning": "协调个人贡献",
+        "pattern": "coordinate + 复数名词",
+        "example": "Regular updates help a group coordinate individual contributions.",
+        "boundary": "协调不等于让所有人做相同工作；contribution 此处可数。",
+        "patternZh": "coordinate 后接复数名词，表示协调各项贡献等。",
+        "exampleZh": "定期更新进展有助于小组协调个人贡献。"
+      },
+      {
+        "id": "cet6_2022_12_team_spirit_e3",
+        "text": "raise concerns constructively",
+        "meaning": "建设性地提出顾虑",
+        "pattern": "raise concerns + 副词",
+        "example": "Students should be able to raise concerns constructively.",
+        "boundary": "raise 是及物动词，不用 rise concerns；合理质疑属于合作。",
+        "patternZh": "raise concerns 表示提出顾虑；后接副词说明提出的方式。",
+        "exampleZh": "学生应能够以建设性的方式提出顾虑。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Team spirit means agreeing with the leader. If everyone obeys, the team will always succeed.",
+      "improvedParagraph": "A group presentation needs members to share progress and identify missing evidence before the deadline. Respectfully raising a concern about a weak argument helps the group revise its plan. Team spirit involves shared responsibility as well as individual judgment.",
+      "explanation": "弱段将团队精神等同服从，并保证必然成功。改进段写共享进度、发现证据缺口和合理质疑，使共同责任成为可观察的协作行为。",
+      "transferPrompt": "学生社团如何培养成员的团队精神？提出一个可观察的机制。",
+      "transferHint": "从真实共同任务、规则、进度和反馈出发，避免只喊团结口号。",
+      "boundaryPrompt": "团队精神是否要求成员永远不质疑组长？",
+      "boundaryAnswer": "不要求。尊重地提出与任务相关的证据和顾虑能改善共同成果；服从不是团队精神的充分条件。",
+      "weakParagraphZh": "团队精神意味着同意领导。只要每个人服从，团队就总会成功。",
+      "improvedParagraphZh": "小组展示需要成员在截止时间前分享进展，并发现缺少的证据。以尊重的方式对薄弱论证提出顾虑，有助于小组修改计划。团队精神既涉及共同责任，也涉及个人判断。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Team spirit help students cooperate.",
+        "right": "Team spirit helps students cooperate.",
+        "why": "单数主语 spirit 搭配 helps。",
+        "wrongZh": "团队精神帮助学生合作。",
+        "rightZh": "团队精神帮助学生合作。"
+      },
+      {
+        "wrong": "Members should rise their concerns.",
+        "right": "Members should raise their concerns.",
+        "why": "raise 是及物动词；rise 不可直接接 concerns 作宾语。",
+        "wrongZh": "成员应该提出自己的顾虑。",
+        "rightZh": "成员应该提出自己的顾虑。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "Today increasing importance is being attached to cultivating college students’ team spirit.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用陈述、理由或例子支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "如今，培养大学生团队精神正受到越来越多的重视。",
+    "modelEssayZh": [
+      "如今，培养大学生团队精神正受到越来越多的重视。当学生对任务共同承担责任，而不只是同意合作有价值时，团队精神才有实际意义。",
+      "在小组展示中，成员可能研究不同部分，但他们的工作最终必须组成连贯论证。尽早分享进展，使小组能发现重复材料或缺少的证据。如果一名学生在截止时间前报告困难，其他人就能调整计划或提供相关帮助。这种交流让个人贡献对整个小组有用，并降低最后一刻才发现严重问题的风险。",
+      "大学可以通过目标清楚、角色经过商定，并有简短进展讨论的适度项目，鼓励这些习惯。评价可以既认可最终成果，也认可每位成员贡献的证据。学生还应有空间以尊重的方式质疑薄弱提案，因为团队精神不意味着默默服从。简短反思哪些因素帮助或阻碍了合作，可以指导下个项目。这些安排教学生如何合作，同时继续对自己承担的部分负责。"
+    ],
+    "requiredOpeningZh": "如今，培养大学生团队精神正受到越来越多的重视。"
+  },
+  {
+    "id": "cet6_2022_09_real_world_interaction",
+    "legacyIds": [
+      "cet6_2022_09_01_real_world_interaction"
+    ],
+    "exam": "CET6",
+    "year": 2022,
+    "month": "09",
+    "title": "面对面交往的乐趣与适用场景",
+    "theme": "合作沟通类",
+    "taskKind": "describe",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet6.koolearn.com/20220917/863628.html",
+        "title": "2022年9月六级作文：现实社会交往",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "机构整理与江西财经大学托管整理卷确认2022年9月场次。原卷为 pleasures and joys，用户旧版为 pleasure and joys，按完整卷面改为复数。完整 Directions 为30分钟、150–200词，未排除首句。"
+      },
+      {
+        "url": "https://wyxy.jxufe.edu.cn/uploadfile/120/Attachment/3161897541.pdf",
+        "title": "2022年9月大学英语六级整理卷（高校托管）",
+        "publisher": "江西财经大学外国语学院网站托管；出版式整理卷",
+        "kind": "university-paper",
+        "note": "PDF第10页完整Directions核对给定句、30分钟、150–200词，未排除首句；高校托管不等于官方发布。"
+      }
+    ],
+    "prompt": "Today more and more people begin to realize the pleasures and joys of real-world social interaction.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with reasons, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据高校托管完整卷面忠实整理的英文训练要求，不是原始 Directions 逐字原文。该卷面明确以给定句开篇、30分钟和150–200词，未排除首句，本题按全文计词。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "人们在面对面和线上活动之间选择交往方式",
+      "objective": "具体描述现实交往的乐趣，并解释其适用价值",
+      "requirements": [
+        "用具体共同活动描述现实交往的乐趣",
+        "解释参与和回应的作用，避免一概否定线上交往"
+      ],
+      "optionalIdeas": [
+        "共同活动产生体验",
+        "语调和即时反应帮助理解",
+        "线上渠道可作为补充"
+      ],
+      "avoid": [
+        "一概否定线上关系",
+        "说每个人都喜欢大型聚会",
+        "只写现实交往有益"
+      ],
+      "acceptedKeywords": [
+        "real-world social interaction",
+        "face-to-face interaction",
+        "面对面交往",
+        "现实交往",
+        "pleasures and joys",
+        "交往乐趣"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "用共同活动呈现交往体验",
+          "解释即时交流和回应",
+          "以烹饪活动说明",
+          "承认线上渠道和个人差异"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "共同活动提供持续相互回应的体验。",
+        "mechanism": "听到语调并看到表情和行为能帮助参与者调整交流。",
+        "example": "朋友一起做饭，在尝味和准备食物时自然分享近况。",
+        "link": "乐趣来自共同经历与及时回应，而非只因线下形式。",
+        "claimZh": "共同活动提供持续相互回应的体验。",
+        "mechanismZh": "听到语调并看到表情和行为能帮助参与者调整交流。",
+        "exampleZh": "朋友一起做饭，在尝味和准备食物时自然分享近况。",
+        "linkZh": "乐趣来自共同经历与及时回应，而非只因线下形式。"
+      }
+    ],
+    "modelEssay": "Today more and more people begin to realize the pleasures and joys of real-world social interaction. A shared activity can offer a kind of enjoyment that is difficult to capture through exchanging messages alone.\n\nFor example, friends cooking a meal together can discuss ingredients, taste the food and respond immediately to each other's suggestions. The conversation develops alongside a common task, so quiet moments need not feel uncomfortable. Facial expressions and tone can also help people notice when a joke has been misunderstood or when someone needs a chance to speak. These small adjustments make the encounter feel attentive and personal. The pleasure comes from participating in an experience together, not merely being in the same room.\n\nReal-world interaction is therefore worth making space for, such as a short walk or a shared campus activity. However, preferences, distance and accessibility differ. Online communication remains valuable for maintaining contact with people who cannot meet easily. Rather than insist on one form for every relationship, people can choose occasions that suit their needs and combine face-to-face contact with convenient digital communication.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2022_09_real_world_interaction_e1",
+        "text": "share an experience",
+        "meaning": "共同经历一段体验",
+        "pattern": "share + 名词",
+        "example": "Cooking together allows friends to share an experience.",
+        "boundary": "share 不一定指分享已完成的故事，此处表示共同参与。",
+        "patternZh": "share 后接所分享的内容这一名词。",
+        "exampleZh": "一起做饭让朋友能够共同经历一项活动。"
+      },
+      {
+        "id": "cet6_2022_09_real_world_interaction_e2",
+        "text": "respond to non-verbal cues",
+        "meaning": "回应非语言线索",
+        "pattern": "respond to + 名词",
+        "example": "Face-to-face contact can make it easier to respond to non-verbal cues.",
+        "boundary": "线索并非总能准确读懂；不要把表情解释写成读心。",
+        "patternZh": "respond to 后接名词，表示对某种线索或行为作出回应。",
+        "exampleZh": "面对面接触可以让人们更容易回应非语言线索。"
+      },
+      {
+        "id": "cet6_2022_09_real_world_interaction_e3",
+        "text": "maintain contact with",
+        "meaning": "与……保持联系",
+        "pattern": "maintain contact with + 人",
+        "example": "Online messages help people maintain contact with distant friends.",
+        "boundary": "contact 通常不可数；线上联系也有真实社会价值。",
+        "patternZh": "maintain contact with 后接人，表示与某人保持联系。",
+        "exampleZh": "线上消息帮助人们与远方朋友保持联系。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Real-world interaction is always better. Online friendship is meaningless and cannot bring joy.",
+      "improvedParagraph": "Friends preparing a meal share a task and respond to each other's suggestions immediately. Tone and facial expressions may help them notice a misunderstanding. This can make the meeting enjoyable, while online contact remains useful when distance prevents a visit.",
+      "explanation": "弱段绝对化线下优势并否定线上友谊。改进段描述做饭中的共同任务与即时回应，解释具体乐趣，同时保留距离情境下线上联系的价值。",
+      "transferPrompt": "描述一项校园共同活动如何促进交流，给出具体过程。",
+      "transferHint": "写参与行为、回应和体验，避免仅罗列快乐、温暖等形容词。",
+      "boundaryPrompt": "现实交往的乐趣是否证明线上友谊都没有价值？",
+      "boundaryAnswer": "不能。形式各有适用场景；距离和可及性会影响选择，线上联系可以支持真实关系。",
+      "weakParagraphZh": "现实交往总是更好。网上友谊没有意义，也不能带来快乐。",
+      "improvedParagraphZh": "一起准备饭菜的朋友共同完成任务，并立即回应彼此的建议。语调和表情可能帮助他们察觉误解。这可以让见面愉快；而当距离使拜访无法实现时，线上联系仍然有用。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "We should response to others.",
+        "right": "We should respond to others.",
+        "why": "response 是名词；respond 是动词。",
+        "wrongZh": "我们应该回应他人。",
+        "rightZh": "我们应该回应他人。"
+      },
+      {
+        "wrong": "Face-to-face contact always prevents misunderstanding.",
+        "right": "Face-to-face contact can help people notice some misunderstandings.",
+        "why": "原句绝对化；非语言线索也可能被误读。",
+        "wrongZh": "面对面接触总能防止误解。",
+        "rightZh": "面对面接触可以帮助人们察觉一些误解。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "Today more and more people begin to realize the pleasures and joys of real-world social interaction.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用理由、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "如今，越来越多的人开始认识到现实世界中社交互动的乐趣和喜悦。",
+    "modelEssayZh": [
+      "如今，越来越多的人开始认识到现实世界中社交互动的乐趣和喜悦。共同活动可以带来一种仅靠交换消息难以获得的愉快体验。",
+      "例如，一起做饭的朋友可以讨论食材、品尝食物，并立即回应彼此的建议。谈话伴随着共同任务展开，因此，安静的片刻不一定令人不自在。表情和语调也能帮助人们察觉笑话何时被误解，或某个人何时需要发言机会。这些细小调整让见面显得用心、亲切。乐趣来自共同参与一项体验，而不只是待在同一个房间。",
+      "因此，现实交往值得专门留出空间，比如一次短途散步或共同参与校园活动。不过，人们的偏好、距离和参与便利程度各不相同。线上交流对于与不容易见面的人保持联系，仍然有价值。人们可以选择适合自身需要的场合，将面对面接触与便捷的数字交流结合起来，而不是坚持所有关系都使用同一种形式。"
+    ],
+    "requiredOpeningZh": "如今，越来越多的人开始认识到现实世界中社交互动的乐趣和喜悦。"
+  },
+  {
+    "id": "cet6_2022_09_mutual_trust_openness",
+    "legacyIds": [
+      "cet6_2022_09_03_mutual_trust_openness"
+    ],
+    "exam": "CET6",
+    "year": 2022,
+    "month": "09",
+    "title": "信任与开放如何共同支持合作",
+    "theme": "合作沟通类",
+    "taskKind": "explain",
+    "deep": false,
+    "evaluation": true,
+    "sources": [
+      {
+        "url": "https://cet6.koolearn.com/20220917/863623.html",
+        "title": "2022年9月六级整理卷：相互信任与开放",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "机构整理与江西财经大学托管完整卷面确认2022年9月、给定句 is、30分钟和150–200词，未排除首句；is 可按 trust and openness 整体组合解释，教学中的独立并列概念通常用复数。"
+      },
+      {
+        "url": "https://wyxy.jxufe.edu.cn/uploadfile/120/Attachment/3161897541.pdf",
+        "title": "2022年9月大学英语六级整理卷（高校托管）",
+        "publisher": "江西财经大学外国语学院网站托管；出版式整理卷",
+        "kind": "university-paper",
+        "note": "PDF第1页完整Directions核对给定句、30分钟、150–200词，未排除首句；高校托管不等于官方发布。"
+      }
+    ],
+    "prompt": "It is now widely accepted that mutual trust and openness is the key to promoting cooperation.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with reasons, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据高校托管完整卷面忠实整理的英文训练要求，不是原始 Directions 逐字原文。该卷面明确以给定句开篇、30分钟和150–200词，未排除首句，本题按全文计词。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "团队需要交换信息并协调行动",
+      "objective": "说明信任与开放各自机制及共同作用",
+      "requirements": [
+        "同时回应相互信任与开放的作用",
+        "把可信行为和愿意交换信息连接到促进合作"
+      ],
+      "optionalIdeas": [
+        "如实报告进度",
+        "愿意接受建议",
+        "建立核查和责任机制"
+      ],
+      "avoid": [
+        "只谈信任忽略开放",
+        "将信任等同取消核查",
+        "把开放等同无条件透露隐私"
+      ],
+      "acceptedKeywords": [
+        "mutual trust",
+        "相互信任",
+        "openness",
+        "开放",
+        "cooperation",
+        "合作"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "说明可信承诺与开放交流互补",
+          "用项目进度报告解释",
+          "承认信任仍需责任机制",
+          "建议如实更新并倾听建议"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "信任与开放能减少合作中的隐瞒。",
+        "mechanism": "相信诚实报告不会被不公惩罚，更愿意暴露问题；愿意听建议使问题可解决。",
+        "example": "组员及时说明资料缺口，团队共同调整范围。",
+        "link": "合作建立在可信行为和交换信息上，而非口头和谐。",
+        "claimZh": "信任与开放能减少合作中的隐瞒。",
+        "mechanismZh": "相信诚实报告不会被不公惩罚，更愿意暴露问题；愿意听建议使问题可解决。",
+        "exampleZh": "组员及时说明资料缺口，团队共同调整范围。",
+        "linkZh": "合作建立在可信行为和交换信息上，而非口头和谐。"
+      }
+    ],
+    "modelEssay": "It is now widely accepted that mutual trust and openness is the key to promoting cooperation. Together, they help people exchange useful information and coordinate work without concealing every difficulty.\n\nTrust develops when members keep realistic promises and report progress honestly. In a research project, a student who cannot obtain an important source should be able to explain the problem early. If the group responds fairly, members have less reason to hide delays until the deadline. Openness adds a willingness to consider alternative suggestions. Another student may propose a different source or a narrower question, allowing the team to revise its plan instead of defend an unworkable decision.\n\nThese qualities do not remove the need for clear responsibilities or reasonable checks. A shared schedule and visible records help everyone understand what has been completed. Nor does openness require revealing private information unrelated to the task. Teams can build cooperation by making commitments explicit, discussing problems respectfully and explaining why a proposal is accepted or rejected. Trust then rests on reliable conduct, while openness makes that conduct useful for joint decisions.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2022_09_mutual_trust_openness_e1",
+        "text": "keep realistic promises",
+        "meaning": "履行现实可行的承诺",
+        "pattern": "keep + 复数名词",
+        "example": "Members build trust when they keep realistic promises.",
+        "boundary": "realistic 不等于降低所有要求；承诺应与资源和期限匹配。",
+        "patternZh": "keep 后接复数名词；与 promises 搭配时表示履行承诺。",
+        "exampleZh": "成员履行现实可行的承诺时，就会建立信任。"
+      },
+      {
+        "id": "cet6_2022_09_mutual_trust_openness_e2",
+        "text": "be open to alternative suggestions",
+        "meaning": "愿意考虑其他建议",
+        "pattern": "be open to + 名词或动名词",
+        "example": "A cooperative team should be open to alternative suggestions.",
+        "boundary": "to 是介词；考虑不等于无条件接受。",
+        "patternZh": "be open to 表示愿意接受；to 是介词，后接名词或动名词。",
+        "exampleZh": "善于合作的团队应愿意接受其他建议。"
+      },
+      {
+        "id": "cet6_2022_09_mutual_trust_openness_e3",
+        "text": "make commitments explicit",
+        "meaning": "把承诺说明清楚",
+        "pattern": "make + 宾语 + 形容词",
+        "example": "A shared plan can make commitments explicit.",
+        "boundary": "明确承诺应包括责任和期限；不是随意公开私人信息。",
+        "patternZh": "make 后接宾语与形容词，表示使某对象处于某种状态。",
+        "exampleZh": "共同计划可以使承诺明确。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Trust is very important. Cooperation works when everyone believes others and never checks their work.",
+      "improvedParagraph": "Members can build trust by keeping realistic promises and reporting problems early. Openness lets the group consider a different source or revise its plan. Clear responsibilities and visible progress records support these qualities rather than contradict them.",
+      "explanation": "弱段只讨论信任，遗漏开放，并把核查视作不信任。改进段将可信承诺、问题报告、接受建议与可见记录连接起来，覆盖题目两个核心概念。",
+      "transferPrompt": "远程项目团队如何同时建立信任和开放沟通？",
+      "transferHint": "写可信承诺、问题报告和考虑建议的机制；补充适当核查边界。",
+      "boundaryPrompt": "成员之间互相信任，是否意味着再也不需要进度记录？",
+      "boundaryAnswer": "不意味着。记录使承诺和进度可见，减少误解；合理核查与信任可以相互支持。",
+      "weakParagraphZh": "信任非常重要。当每个人都相信他人、从不检查他人的工作时，合作就会奏效。",
+      "improvedParagraphZh": "成员可以通过履行现实可行的承诺、及早报告问题来建立信任。开放态度让小组考虑不同来源或修改计划。明确责任和清楚可见的进展记录支持这些品质，而不是与它们矛盾。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Trust and openness plays a role in cooperation.",
+        "right": "Trust and openness play a role in cooperation.",
+        "why": "当两概念分别并列作主语时通常用 play；给定原句按来源保留整体组合读法。",
+        "wrongZh": "信任与开放态度在合作中发挥作用。",
+        "rightZh": "信任与开放态度在合作中发挥作用。"
+      },
+      {
+        "wrong": "We should be open for new suggestions.",
+        "right": "We should be open to new suggestions.",
+        "why": "表示愿意接受观点用 be open to。",
+        "wrongZh": "我们应该愿意接受新建议。",
+        "rightZh": "我们应该愿意接受新建议。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "It is now widely accepted that mutual trust and openness is the key to promoting cooperation.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用理由、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "人们如今普遍认为，相互信任与开放态度是促进合作的关键。",
+    "modelEssayZh": [
+      "人们如今普遍认为，相互信任与开放态度是促进合作的关键。两者共同帮助人们交换有用信息、协调工作，而不把每项困难都隐瞒起来。",
+      "当成员履行现实可行的承诺，并诚实报告进展时，信任就会发展。在研究项目中，无法获得重要资料来源的学生应能够及早说明问题。如果小组作出公正回应，成员就没有那么多理由把延误隐藏到截止日期。开放态度则增加了考虑其他建议的意愿。另一名学生可能提出不同来源或范围较小的研究问题，让团队修改计划，而不是为不可行的决定辩护。",
+      "这些品质并不会消除明确责任或合理检查的必要性。共同日程和清楚可见的记录，帮助每个人理解已经完成了哪些工作。开放态度也不要求披露与任务无关的私人信息。团队可以通过明确承诺、以尊重的方式讨论问题，并解释接受或拒绝提案的原因来建立合作。这样，信任建立在可靠行为之上，而开放态度使这种行为能够服务于共同决定。"
+    ],
+    "requiredOpeningZh": "人们如今普遍认为，相互信任与开放态度是促进合作的关键。"
+  },
+  {
+    "id": "cet6_2022_06_environmental_lifestyle",
+    "legacyIds": [
+      "cet6_2022_06_01_environmental_lifestyle"
+    ],
+    "exam": "CET6",
+    "year": 2022,
+    "month": "06",
+    "title": "环保生活如何落实为日常选择",
+    "theme": "社会责任类",
+    "taskKind": "application",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://www.kmxwd.com/uploads/images/20220611/62a4aa4bb07ff.pdf",
+        "title": "2022年6月六级真题解析：环保的生活方式",
+        "publisher": "新文道教育（昆明站）",
+        "kind": "institution-transcription",
+        "note": "机构自己发布的1页PDF明确2022年6月及来源新文道，完整Directions确认给定句、30分钟、150–200词，可评论、举例或个人经历，未排除首句。文件含机构参考作文，仅引用题目要求，不复制范文或标为官方卷。"
+      },
+      {
+        "url": "https://cet4-6.xdf.cn/202206/11919910.html",
+        "title": "2022年6月六级作文：环保生活方式",
+        "publisher": "新东方网",
+        "kind": "institution-transcription",
+        "note": "当次机构文章交叉确认考试年月和主题；完整要求依新文道自行发布PDF核对。"
+      }
+    ],
+    "prompt": "Nowadays more and more people choose to live an environmentally friendly lifestyle.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with comments, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据完整题源忠实整理的英文训练要求，并非原始 Directions 的逐字转载；给定首句应保留。所核对完整转录为30分钟、150–200词，未注明排除给定首句，因此本题按全文计词；来源等级及读取限制见来源说明。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "大学生希望减少日常生活中的资源浪费",
+      "objective": "解释环保选择的价值并提出可实施的生活方案",
+      "requirements": [
+        "把环保生活落实到日常可行的行动",
+        "解释行为与减少浪费的联系及必要支持条件"
+      ],
+      "optionalIdeas": [
+        "减少一次性用品",
+        "修理和重复使用",
+        "让公共设施支持行为改变"
+      ],
+      "avoid": [
+        "把环保写成人人必须购买昂贵新品",
+        "保证个人行为解决所有环境问题",
+        "只有泛泛呼吁"
+      ],
+      "acceptedKeywords": [
+        "environmentally friendly lifestyle",
+        "eco-friendly lifestyle",
+        "环保生活",
+        "环保生活方式",
+        "reduce waste",
+        "减少浪费"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "指出日常行为与浪费的联系",
+          "用水杯和修理说明资源使用",
+          "说明设施决定行动便利性",
+          "提出个人选择与公共支持结合"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "重复使用能减少特定场景的浪费。",
+        "mechanism": "已有物品持续发挥作用可避免不必要的替换和丢弃。",
+        "example": "学生携带可重复使用的水杯，学校提供方便的补水点。",
+        "link": "行为改变需要具体设施支持，而非只靠口号。",
+        "claimZh": "重复使用能减少特定场景的浪费。",
+        "mechanismZh": "已有物品持续发挥作用可避免不必要的替换和丢弃。",
+        "exampleZh": "学生携带可重复使用的水杯，学校提供方便的补水点。",
+        "linkZh": "行为改变需要具体设施支持，而非只靠口号。"
+      }
+    ],
+    "modelEssay": "Nowadays more and more people choose to live an environmentally friendly lifestyle. A useful starting point is to reduce avoidable waste through choices that people can sustain in their ordinary routines.\n\nFor a student, carrying a reusable bottle may replace some disposable drinks containers, provided that drinking water is easy to obtain. Repairing a bag or sharing equipment can also extend the use of existing materials instead of immediately buying replacements. These actions connect environmental concern with a visible change in consumption. They are more practical than treating every expensive product labelled green as a necessary purchase.\n\nIndividual effort works better when institutions make responsible choices convenient. A university can provide refill points, clearly organised waste collection and information about repair services. Students can then select a small number of changes that fit their circumstances and check whether those changes actually reduce waste. An environmentally friendly lifestyle should not be presented as a test of moral perfection. It is an ongoing effort to use resources more thoughtfully, supported by facilities and decisions beyond the individual.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2022_06_environmental_lifestyle_e1",
+        "text": "reduce avoidable waste",
+        "meaning": "减少可避免的浪费",
+        "pattern": "reduce + 名词短语",
+        "example": "Refill points can help students reduce avoidable waste.",
+        "boundary": "waste 通常不可数；不能把所有消费都称为浪费。",
+        "patternZh": "reduce 后接名词短语，表示减少某种浪费等。",
+        "exampleZh": "补水点可以帮助学生减少可避免的浪费。"
+      },
+      {
+        "id": "cet6_2022_06_environmental_lifestyle_e2",
+        "text": "extend the useful life of",
+        "meaning": "延长……的使用寿命",
+        "pattern": "extend the useful life of + 物品",
+        "example": "Repair services can extend the useful life of a bag.",
+        "boundary": "适用于可修理且仍安全可用的物品；不鼓励继续使用危险设备。",
+        "patternZh": "extend the useful life of 后接物品，表示延长其有效使用寿命。",
+        "exampleZh": "维修服务可以延长包的使用寿命。"
+      },
+      {
+        "id": "cet6_2022_06_environmental_lifestyle_e3",
+        "text": "make sustainable choices convenient",
+        "meaning": "让可持续选择更方便",
+        "pattern": "make + 宾语 + 形容词",
+        "example": "Campus facilities can make sustainable choices convenient.",
+        "boundary": "sustainable 不必然是低成本或无环境影响，应说明具体选择。",
+        "patternZh": "make 后接宾语与形容词，表示使某对象变得怎样。",
+        "exampleZh": "校园设施可以让可持续的选择更方便。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Everyone should buy expensive green products. This will solve all environmental problems.",
+      "improvedParagraph": "Refill points make it easier for students to use a reusable bottle instead of buying drinks in disposable containers. Repair services can keep existing bags in use longer. These arrangements link environmental concern with achievable changes in consumption.",
+      "explanation": "弱段把昂贵绿色消费等同环保并承诺解决全部问题。改进段写补水和维修设施如何支持减少一次性用品和延长使用，把口号落为可行行动。",
+      "transferPrompt": "设计一项校园减少资源浪费的行动，并解释设施如何影响参与。",
+      "transferHint": "写具体行为、支撑条件和可观察的结果；避免只提出宣传口号。",
+      "boundaryPrompt": "购买更多标为绿色的新产品，是否一定比继续使用现有物品更环保？",
+      "boundaryAnswer": "不一定。需要考虑是否真正需要、现有物品能否继续使用以及生产和使用的影响；标签不能替代判断。",
+      "weakParagraphZh": "每个人都应该购买昂贵的环保产品。这将解决所有环境问题。",
+      "improvedParagraphZh": "补水点让学生更容易使用可重复使用的水瓶，而不是购买装在一次性容器里的饮料。维修服务可以让现有的包使用更久。这些安排把环保关注与能够实现的消费变化联系起来。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "An environmental friendly lifestyle is important.",
+        "right": "An environmentally friendly lifestyle is important.",
+        "why": "修饰形容词 friendly 用副词 environmentally。",
+        "wrongZh": "环保的生活方式很重要。",
+        "rightZh": "环保的生活方式很重要。"
+      },
+      {
+        "wrong": "These actions can reduce many waste.",
+        "right": "These actions can reduce unnecessary waste.",
+        "why": "waste 作浪费时不可数，不用 many。",
+        "wrongZh": "这些行动可以减少许多浪费。",
+        "rightZh": "这些行动可以减少不必要的浪费。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "Nowadays more and more people choose to live an environmentally friendly lifestyle.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用评论、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "如今，越来越多的人选择过环保的生活。",
+    "modelEssayZh": [
+      "如今，越来越多的人选择过环保的生活。一个有用的起点，是通过人们能在日常安排中持续坚持的选择，减少可以避免的浪费。",
+      "对学生来说，如果饮用水容易获得，携带可重复使用的水瓶可能替代一部分一次性饮料容器。修理包或共享设备，也可以延长现有材料的使用，而不是立即购买替代品。这些行动将环保关注与可见的消费变化联系起来。比起把每件标有环保标签的昂贵商品都视为必要购买，它们更实际。",
+      "当机构让负责任的选择更方便时，个人努力就能更好地发挥作用。大学可以提供补水点、组织清楚的废弃物收集，以及维修服务信息。然后，学生可以选择少数适合自身情况的改变，并检查这些改变是否确实减少浪费。环保生活不应被描述为检验道德是否完美的标准，而是一个持续努力、更审慎地使用资源的过程，并得到个人之外的设施和决策支持。"
+    ],
+    "requiredOpeningZh": "如今，越来越多的人选择过环保的生活。"
+  },
+  {
+    "id": "cet6_2022_06_learning_new_skills",
+    "legacyIds": [
+      "cet6_2022_06_03_learning_new_skills"
+    ],
+    "exam": "CET6",
+    "year": 2022,
+    "month": "06",
+    "title": "新技能学习如何帮助适应变化",
+    "theme": "学习成长类",
+    "taskKind": "propose",
+    "deep": false,
+    "evaluation": true,
+    "sources": [
+      {
+        "url": "https://www.kmxwd.com/uploads/images/20220611/62a4aa4bcde1e.pdf",
+        "title": "2022年6月六级真题解析：持续学习新技能",
+        "publisher": "新文道教育（昆明站）",
+        "kind": "institution-transcription",
+        "note": "机构自己发布的1页PDF明确2022年6月及来源新文道，完整Directions确认给定句、30分钟、150–200词，可评论、举例或个人经历，未排除首句。文件为机构真题解析，不能标为官方原卷或官方答案。"
+      },
+      {
+        "url": "https://news.koolearn.com/20220611/1253980.html",
+        "title": "2022年6月六级作文：学习新技能",
+        "publisher": "新东方在线",
+        "kind": "institution-transcription",
+        "note": "当次机构文章交叉确认考试年月和主题；完整要求依新文道自行发布PDF核对。"
+      }
+    ],
+    "prompt": "Nowadays more and more people keep learning new skills to adapt to a fast-changing world.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with comments, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据完整题源忠实整理的英文训练要求，并非原始 Directions 的逐字转载；给定首句应保留。所核对完整转录为30分钟、150–200词，未注明排除给定首句，因此本题按全文计词；来源等级及读取限制见来源说明。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "工作任务和生活工具不断变化",
+      "objective": "解释新技能与适应的联系，并设计有目标的学习方法",
+      "requirements": [
+        "把学习新技能连接到变化中的实际任务",
+        "说明目标、练习和结果检查，避免用证书保证能力"
+      ],
+      "optionalIdeas": [
+        "识别实际任务的技能缺口",
+        "小任务练习",
+        "反馈与检查"
+      ],
+      "avoid": [
+        "学习任何新技能都必然有益",
+        "把收集证书等同能力",
+        "无限追逐热门技能"
+      ],
+      "acceptedKeywords": [
+        "learning new skills",
+        "learn new skills",
+        "学习新技能",
+        "adapt",
+        "适应",
+        "fast-changing world",
+        "快速变化"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "说明任务变化与技能缺口",
+          "用工作工具说明实际目标",
+          "提出尝试与反馈",
+          "兼顾基础知识和可用时间"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "有目标的技能学习有助于完成新任务。",
+        "mechanism": "先识别任务需要，再练习并检查结果，使投入与实际障碍相联系。",
+        "example": "工作人员为整理数据学习表格函数，用小文件检查输出。",
+        "link": "适应来自能完成任务，而非只获得课程证明。",
+        "claimZh": "有目标的技能学习有助于完成新任务。",
+        "mechanismZh": "先识别任务需要，再练习并检查结果，使投入与实际障碍相联系。",
+        "exampleZh": "工作人员为整理数据学习表格函数，用小文件检查输出。",
+        "linkZh": "适应来自能完成任务，而非只获得课程证明。"
+      }
+    ],
+    "modelEssay": "Nowadays more and more people keep learning new skills to adapt to a fast-changing world. The benefit depends on connecting learning with actual needs, rather than collecting skills simply because they are fashionable.\n\nWhen a workplace adopts a new tool, employees may find that a familiar task now requires a different method. Someone responsible for organising data, for example, could learn a few relevant spreadsheet functions and test them on a small file. Comparing the output with a manual calculation helps reveal mistakes before the tool is used on important records. The skill becomes valuable because it enables a concrete task and improves the person's ability to check the result.\n\nA sensible learning plan begins by identifying a difficulty, choosing a manageable goal and seeking feedback after practice. Learners should also protect time for the knowledge and responsibilities they already have. Not every new course deserves immediate attention, and earning a certificate does not necessarily demonstrate usable competence. By selecting relevant skills and applying them carefully, people can respond to change without turning lifelong learning into an endless pursuit of trends.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2022_06_learning_new_skills_e1",
+        "text": "adapt to changing demands",
+        "meaning": "适应变化中的需求",
+        "pattern": "adapt to + 名词或动名词",
+        "example": "Relevant training can help employees adapt to changing demands.",
+        "boundary": "to 是介词；适应应说明具体需求，不意味着追逐所有趋势。",
+        "patternZh": "adapt to 表示适应；to 是介词，后接名词或动名词。",
+        "exampleZh": "相关培训可以帮助员工适应不断变化的要求。"
+      },
+      {
+        "id": "cet6_2022_06_learning_new_skills_e2",
+        "text": "set a manageable learning goal",
+        "meaning": "设定可管理的学习目标",
+        "pattern": "set + 名词短语",
+        "example": "A beginner can set a manageable learning goal for the week.",
+        "boundary": "目标应能通过表现检查；完成观看视频不一定是能力目标。",
+        "patternZh": "set 后接名词短语，表示设定目标等。",
+        "exampleZh": "初学者可以为本周设定一个能够完成的学习目标。"
+      },
+      {
+        "id": "cet6_2022_06_learning_new_skills_e3",
+        "text": "put a new skill into practice",
+        "meaning": "将新技能用于实践",
+        "pattern": "put + 名词 + into practice",
+        "example": "A small project lets learners put a new skill into practice.",
+        "boundary": "不写 put ... in practices；重要任务应用前应检查结果。",
+        "patternZh": "put A into practice 表示将 A 付诸实践；A 用名词表达。",
+        "exampleZh": "小型项目让学习者把新技能付诸实践。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "New skills are always useful. We should take every popular course and collect as many certificates as possible.",
+      "improvedParagraph": "A learner can begin with a task that currently causes difficulty, such as organising data. Practising a few relevant functions on a small file and checking the results turns a new skill into usable competence. Course popularity alone does not show that the skill meets this need.",
+      "explanation": "弱段把技能新颖或流行当作价值，并用证书数量替代能力。改进段从具体任务出发，通过小规模练习和结果检查建立实际能力，回应适应变化。",
+      "transferPrompt": "选择一项与现实任务相关的新技能，设计目标、练习和反馈步骤。",
+      "transferHint": "目标用能做什么来描述，练习用小场景，反馈用能发现错误的检查。",
+      "boundaryPrompt": "拥有很多课程证书，是否必然能适应新的工作任务？",
+      "boundaryAnswer": "不必然。证书证明某种参与或考核，不自动证明能在具体情境应用、判断和纠错。",
+      "weakParagraphZh": "新技能总是有用。我们应该参加每门热门课程，并尽可能多地收集证书。",
+      "improvedParagraphZh": "学习者可以从当前造成困难的任务开始，比如整理数据。在小文件上练习几个相关函数，并检查结果，能将新技能转变为能够实际使用的能力。课程受欢迎本身，并不能表明技能符合这一需要。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "People should adapt with a changing world.",
+        "right": "People should adapt to a changing world.",
+        "why": "adapt to 表示适应。",
+        "wrongZh": "人们应该适应不断变化的世界。",
+        "rightZh": "人们应该适应不断变化的世界。"
+      },
+      {
+        "wrong": "Learning new skills guarantee success.",
+        "right": "Learning new skills can help people handle relevant tasks.",
+        "why": "活动作单数主语应 guarantees；更重要的是原句无依据保证成功，改句限定作用。",
+        "wrongZh": "学习新技能保证成功。",
+        "rightZh": "学习新技能可以帮助人们处理相关任务。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "Nowadays more and more people keep learning new skills to adapt to a fast-changing world.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用评论、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "如今，越来越多的人持续学习新技能，以适应快速变化的世界。",
+    "modelEssayZh": [
+      "如今，越来越多的人持续学习新技能，以适应快速变化的世界。是否受益取决于把学习与实际需要联系起来，而不是仅仅因为技能流行就收集技能。",
+      "当工作场所采用新工具时，员工可能发现熟悉的任务如今需要不同方法。例如，负责整理数据的人可以学习几个相关的电子表格函数，并用小文件测试。将输出与人工计算比较，有助于在工具用于重要记录之前发现错误。这项技能之所以有价值，是因为它让人能够完成具体任务，并提高检查结果的能力。",
+      "合理的学习计划从发现困难、选择适度目标和在练习后寻求反馈开始。学习者还应为已有知识和责任保留时间。并非每门新课程都值得立刻关注，获得证书也不一定表明具有能够实际使用的能力。通过选择相关技能并谨慎应用，人们可以应对变化，而不把终身学习变成无休止地追赶潮流。"
+    ],
+    "requiredOpeningZh": "如今，越来越多的人持续学习新技能，以适应快速变化的世界。"
+  },
+  {
+    "id": "cet6_2025_06_ai_creativity",
+    "legacyIds": [],
+    "exam": "CET6",
+    "year": 2025,
+    "month": "06",
+    "title": "AI依赖与创造力：风险机制及使用边界",
+    "theme": "数字信息类",
+    "taskKind": "discuss",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet4-6.xdf.cn/202506/14530320.html",
+        "title": "2025年6月六级写作主题：AI与创造力",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "2025年6月当次机构整理核对主题为AI与创造力的潜在负面影响。该页呈现解题和参考作文，参考作文首句不作为原卷给定句；本题使用忠实题意摘要，未独立核对原卷逐字首句，不冒充完整原卷复现。"
+      }
+    ],
+    "prompt": "Discuss the concern that expanding use of AI, particularly over-dependence on it, may harm human creativity.",
+    "promptMode": "topic",
+    "directions": "In 30 minutes, write an essay of 150–200 words on the specified topic. Develop a clear position with relevant explanations and examples.",
+    "directionsNote": "本单元依据已核对的2025年6月真题主题作教学重构，英文要求为整理，非原始 Directions 逐字原文。未在可靠完整卷面中核实给定首句，故不设置照抄要求；150–200词按本训练全文计数。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "学生在构思和写作中使用AI工具",
+      "objective": "分析过度依赖可能影响创造力的机制，提出保留个人思考的使用方式",
+      "requirements": [
+        "分析过度依赖AI可能影响创造力的具体机制",
+        "提出保留个人构思与判断的使用边界，避免绝对化"
+      ],
+      "optionalIdeas": [
+        "生成答案替代构思练习",
+        "比较而非直接接受建议",
+        "先独立草拟再使用辅助"
+      ],
+      "avoid": [
+        "断言所有AI使用必然破坏创造力",
+        "只称赞效率而忽略风险",
+        "以机器有灵魂等比喻替代论证"
+      ],
+      "acceptedKeywords": [
+        "AI",
+        "artificial intelligence",
+        "人工智能",
+        "creativity",
+        "创造力",
+        "over-dependence",
+        "过度依赖"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "限定风险来自替代个人思考的使用方式",
+          "用写作构思说明练习被绕过",
+          "提出先独立草拟再比较建议",
+          "承认辅助用途并保留判断"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "直接接受生成答案可能减少构思练习。",
+        "mechanism": "选择问题、组织材料和修改方案需要主动决策，跳过这些过程就少了练习机会。",
+        "example": "学生复制整篇生成稿，没有比较两个自己的论证思路。",
+        "link": "问题在于使用方式替代了训练，而不是使用工具本身。",
+        "claimZh": "直接接受生成答案可能减少构思练习。",
+        "mechanismZh": "选择问题、组织材料和修改方案需要主动决策，跳过这些过程就少了练习机会。",
+        "exampleZh": "学生复制整篇生成稿，没有比较两个自己的论证思路。",
+        "linkZh": "问题在于使用方式替代了训练，而不是使用工具本身。"
+      }
+    ],
+    "modelEssay": "The expanding use of AI raises a reasonable concern about human creativity, particularly when users accept generated material without developing ideas themselves. The risk depends partly on how the tool is used.\n\nIn a writing task, deciding what to argue and how to organise evidence is an important part of the creative process. If a student immediately copies a generated draft, that student avoids practising making these decisions. Repeated reliance on a ready-made response may also make it harder to notice alternative approaches. The apparent speed of finishing the assignment can hide the loss of an opportunity to think.\n\nHowever, AI assistance need not replace original effort. A student could first outline two possible arguments, then use a tool to suggest objections and compare those suggestions with the draft. The student should decide which ideas are relevant and explain any changes made. Teachers can ask for this decision record alongside the final essay. Such a process uses AI to support examination of ideas while keeping responsibility for the argument with the learner.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2025_06_ai_creativity_e1",
+        "text": "rely on ready-made answers",
+        "meaning": "依赖现成答案",
+        "pattern": "rely on + 名词",
+        "example": "Students may miss useful practice when they rely on ready-made answers.",
+        "boundary": "ready-made 是形容词；不能把参考答案的所有用途视为有害。",
+        "patternZh": "rely on 后接名词，表示依赖某物。",
+        "exampleZh": "依赖现成答案时，学生可能错过有用的练习。"
+      },
+      {
+        "id": "cet6_2025_06_ai_creativity_e2",
+        "text": "retain responsibility for",
+        "meaning": "保留对……的责任",
+        "pattern": "retain responsibility for + 名词或动名词",
+        "example": "Writers should retain responsibility for checking their claims.",
+        "boundary": "for 后可接 checking；工具使用不免除证据核验。",
+        "patternZh": "retain responsibility for 表示继续对某事负责；for 后接名词或动名词。",
+        "exampleZh": "写作者应继续对核查自己的说法负责。"
+      },
+      {
+        "id": "cet6_2025_06_ai_creativity_e3",
+        "text": "use a tool to test an idea",
+        "meaning": "用工具检验一个想法",
+        "pattern": "use + 名词 + to + 动词原形",
+        "example": "A learner can use a tool to test an idea against possible objections.",
+        "boundary": "生成的反对意见也需判断，不保证完整或正确。",
+        "patternZh": "use A to do 表示用 A 做某事；to 后接动词原形。",
+        "exampleZh": "学习者可以用工具检验想法是否能够应对可能的反对意见。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "AI always destroys creativity. Students should never use any AI tools.",
+      "improvedParagraph": "Copying a generated draft can bypass the practice of choosing a claim and organising evidence. A student can instead outline an argument independently, then examine suggested objections. This keeps the creative decisions with the learner while allowing limited assistance.",
+      "explanation": "弱段把所有AI使用等同创造力损失。改进段限定直接复制会跳过哪些构思练习，再提出独立草拟和比较反对意见，使建议针对风险机制。",
+      "transferPrompt": "分析自动化工具在设计学习中可能带来的风险，并提出保留学习机会的使用方法。",
+      "transferHint": "迁移被跳过的练习—具体后果—使用边界，不把所有自动化一概否定。",
+      "boundaryPrompt": "用AI检查一个已经独立构思的方案，是否必然降低创造力？",
+      "boundaryAnswer": "不必然。若使用者仍进行比较、判断和修改，辅助可以提供检验机会；效果需看具体任务和使用方式。",
+      "weakParagraphZh": "人工智能总会摧毁创造力。学生绝不应该使用任何人工智能工具。",
+      "improvedParagraphZh": "复制生成稿可能绕过选择主张和组织证据的练习。学生可以先独立列出论证提纲，再检查工具建议的反对意见。这样，在允许有限辅助的同时，创造性决定仍由学习者作出。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "AI make people lose creativity.",
+        "right": "AI may reduce opportunities to practise making creative decisions when used as a substitute.",
+        "why": "AI 通常作单数主语；原句还将可能影响绝对化，应限定条件。",
+        "wrongZh": "人工智能让人们失去创造力。",
+        "rightZh": "当人工智能被用来代替自主活动时，它可能减少练习作创造性决定的机会。"
+      },
+      {
+        "wrong": "Students should rely in generated answers.",
+        "right": "Students should not rely entirely on generated answers.",
+        "why": "rely 与 on 搭配；本文讨论过度依赖的风险，改句也限定依赖程度。",
+        "wrongZh": "学生应该依赖生成答案。",
+        "rightZh": "学生不应完全依赖生成答案。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "directionsZh": "在30分钟内，围绕指定主题写一篇150–200词的作文。形成清楚的立场，并用相关解释与例子展开。",
+    "promptZh": "讨论人工智能使用扩大，尤其是过度依赖人工智能，可能损害人类创造力这一担忧。",
+    "modelEssayZh": [
+      "人工智能使用的扩大，引发了对人类创造力的合理担忧，尤其是在使用者接受生成材料、却没有自己构思想法时。风险部分取决于如何使用工具。",
+      "在写作任务中，决定论证什么、如何组织证据，是创造过程的重要部分。如果学生立刻复制生成稿，就避开了练习作这些决定。反复依赖现成回答，也可能让人更难注意到其他思路。表面上快速完成作业，可能掩盖失去思考机会的问题。",
+      "不过，人工智能辅助不必取代原创努力。学生可以先列出两种可能的论证思路，再用工具提出反对意见，并将这些建议与自己的草稿比较。学生应决定哪些想法相关，并解释所作的任何改动。教师可以要求学生在提交最终作文时，一并提交这些决策记录。这样的过程用人工智能帮助检查想法，同时让学习者继续对论证负责。"
+    ]
+  },
+  {
+    "id": "cet6_2025_06_responsible_social_media",
+    "legacyIds": [],
+    "exam": "CET6",
+    "year": 2025,
+    "month": "06",
+    "title": "社交媒体的合理与负责任使用",
+    "theme": "数字信息类",
+    "taskKind": "propose",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet4-6.xdf.cn/202506/14530319.html",
+        "title": "2025年6月六级写作：负责任地使用社交媒体",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "当次新东方机构整理明确以题目给定句开篇；说客英语机构完整题干交叉确认同一给定句、30分钟、150–200词且未排除首句。来源均为机构转录，非官方卷面。"
+      },
+      {
+        "url": "https://www2.talk915.com/article-details/2478",
+        "title": "2025年6月英语六级考试真题及答案（第2套）",
+        "publisher": "说客英语",
+        "kind": "institution-transcription",
+        "note": "完整转录 Directions 与给定句，用于交叉核实照抄首句及词数规则；新东方套次仅作机构标签。"
+      }
+    ],
+    "prompt": "As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly.",
+    "promptMode": "given-opening",
+    "directions": "You have 30 minutes to develop an essay beginning with the given sentence. Keep that opening sentence unchanged and support your discussion with reasons, examples or personal experience. Write 150–200 words.",
+    "directionsNote": "以上为根据题源和用户原始资料忠实整理的训练指令，并非原始 Directions 的逐字转载；题目明确要求的给定首句应保留。计词按来源未排除首句的规则；不得由模板推断所有场次都排除首句。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "学生使用社交媒体交流、获取和分享信息",
+      "objective": "提出合理且负责任的使用行为，并解释其作用",
+      "requirements": [
+        "提出合理且负责任使用社交媒体的具体行为",
+        "解释行为如何影响时间、准确性、隐私或他人"
+      ],
+      "optionalIdeas": [
+        "核验转发消息",
+        "尊重别人隐私",
+        "设定使用时段"
+      ],
+      "avoid": [
+        "只有社交媒体有利有弊的泛论",
+        "把隐私设置视为完全安全保证",
+        "忽略分享行为对他人的影响"
+      ],
+      "acceptedKeywords": [
+        "social media",
+        "社交媒体",
+        "properly",
+        "proper use",
+        "合理使用",
+        "responsibly",
+        "responsible use",
+        "负责任使用"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "说明责任包括时间和他人影响",
+          "用群聊失实消息说明核验",
+          "用活动照片说明征求同意",
+          "提出使用规则与复查"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "负责任分享有助于减少对他人的伤害。",
+        "mechanism": "核验信息与征求同意，使分享不只是追求传播速度。",
+        "example": "发布社团活动照片前确认参与者是否同意，转发取消通知前核对原始发布。",
+        "link": "具体检查能把责任转化为行动。",
+        "claimZh": "负责任分享有助于减少对他人的伤害。",
+        "mechanismZh": "核验信息与征求同意，使分享不只是追求传播速度。",
+        "exampleZh": "发布社团活动照片前确认参与者是否同意，转发取消通知前核对原始发布。",
+        "linkZh": "具体检查能把责任转化为行动。"
+      }
+    ],
+    "modelEssay": "As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly. Responsible use requires attention both to our own time and to the people affected by what we share.\n\nBefore forwarding information, users should check the original source and whether it supports the message. A student who receives a claim that a campus event has been cancelled can consult the organiser's notice instead of spreading the claim immediately. This small check prevents avoidable confusion. Responsibility also involves privacy. Posting a photograph from a club activity should not mean assuming that every participant agrees to appear publicly. Asking first respects choices that the person taking the photograph may not know.\n\nFor personal use, a planned checking period can reduce interruptions during study. Users can review whether notifications serve a real purpose and adjust them accordingly. These habits do not require abandoning social media. They help people preserve its convenience while making deliberate decisions about attention, accuracy and consent. Proper use is therefore a set of practical choices, rather than a vague promise to behave well online.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2025_06_responsible_social_media_e1",
+        "text": "verify information before sharing it",
+        "meaning": "分享前核验信息",
+        "pattern": "verify + 名词；before + 动名词",
+        "example": "We should verify information before sharing it in a group chat.",
+        "boundary": "information 不可数；核验要具体到来源和证据，不只是搜索相同说法。",
+        "patternZh": "verify 后接要核实的信息这一名词；before 是介词时，后接动名词。",
+        "exampleZh": "我们应在群聊中分享信息之前核实它。"
+      },
+      {
+        "id": "cet6_2025_06_responsible_social_media_e2",
+        "text": "obtain consent before posting",
+        "meaning": "发布前获得同意",
+        "pattern": "obtain consent；before + 动名词",
+        "example": "Students should obtain consent before posting identifiable photographs of others.",
+        "boundary": "consent 不是永久授权；敏感或变化用途需要重新考虑。",
+        "patternZh": "obtain consent 表示获得同意；before 后接动名词，说明应在哪项行动之前取得同意。",
+        "exampleZh": "学生应在发布可以辨认出他人身份的照片之前获得同意。"
+      },
+      {
+        "id": "cet6_2025_06_responsible_social_media_e3",
+        "text": "manage notifications deliberately",
+        "meaning": "有意识地管理通知",
+        "pattern": "manage + 名词 + 副词",
+        "example": "Learners can manage notifications deliberately during study periods.",
+        "boundary": "deliberately 表示有意识；并非所有通知都应关闭，应考虑必要信息。",
+        "patternZh": "manage 后接要管理的对象，再用副词说明管理方式。",
+        "exampleZh": "学习期间，学习者可以有意识地管理通知。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Social media is useful but harmful. We should use it well and be good people.",
+      "improvedParagraph": "Before forwarding a cancellation message, a student can check the organiser's original notice. Before posting an identifiable photograph, the student can ask the participants for consent. These actions make accuracy and respect part of everyday sharing.",
+      "explanation": "弱段只罗列有利有弊和文明口号。改进段用核对取消通知与征求照片同意两种行动，说明如何减少混乱并尊重别人，回应properly和responsibly。",
+      "transferPrompt": "设计两条学生群聊分享信息的规则，并说明每条规则避免什么问题。",
+      "transferHint": "分别连接规则—可执行动作—对别人产生的后果，避免只写文明上网。",
+      "boundaryPrompt": "照片是自己拍摄的，是否就能不征求同意公开发布所有人的可识别影像？",
+      "boundaryAnswer": "不能据此推断他人已同意。负责任使用应考虑隐私、用途和参与者意愿；本题不提供具体法律判定。",
+      "weakParagraphZh": "社交媒体有用，但也有害。我们应该把它用好，并成为好人。",
+      "improvedParagraphZh": "在转发取消活动的消息之前，学生可以核查组织者的原始通知。在发布能够辨认出他人身份的照片之前，学生可以征求参与者同意。这些行动让准确与尊重成为日常分享的一部分。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Social media are always reliable.",
+        "right": "Information on social media is not always reliable.",
+        "why": "media 的单复数处理视语境而定；关键问题是平台信息不必然可靠，应明确评价对象。",
+        "wrongZh": "社交媒体总是可靠。",
+        "rightZh": "社交媒体上的信息并不总是可靠。"
+      },
+      {
+        "wrong": "We should ask others agree before posting.",
+        "right": "We should ask whether others agree before posting.",
+        "why": "ask 后表达是否用 whether 从句，或使用 ask for consent。",
+        "wrongZh": "我们应该在发布之前询问其他人是否同意。",
+        "rightZh": "我们应该在发布之前询问其他人是否同意。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "requiredOpening": "As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly.",
+    "directionsZh": "你有30分钟写一篇以给定句开头的作文。保持该首句原样，并用理由、例子或个人经历支持讨论。写150–200词。本题训练按全文计词，包括给定首句。",
+    "promptZh": "随着社交媒体的使用越来越广泛，人们越来越意识到恰当、负责任地使用它的重要性。",
+    "modelEssayZh": [
+      "随着社交媒体的使用越来越广泛，人们越来越意识到恰当、负责任地使用它的重要性。负责任的使用，需要既关注自己的时间，也关注受到我们分享内容影响的人。",
+      "在转发信息之前，用户应核查原始来源，以及它是否支持消息中的说法。收到校园活动已取消这一消息的学生，可以查看组织者的通知，而不是立即传播说法。这项小小核查能防止可避免的混乱。责任还涉及隐私。发布社团活动照片，不应意味着默认每位参与者都同意公开露脸。先询问，能尊重拍照者可能并不了解的个人选择。",
+      "就个人使用而言，事先安排查看消息的时段，可以减少学习期间的打断。用户可以检查通知是否服务于实际目的，并相应调整。这些习惯不要求放弃社交媒体，而是帮助人们在保留便利的同时，有意识地就注意力、准确性和同意作决定。因此，恰当使用是一组实际选择，而不是模糊地承诺在网上表现良好。"
+    ],
+    "requiredOpeningZh": "随着社交媒体的使用越来越广泛，人们越来越意识到恰当、负责任地使用它的重要性。"
+  },
+  {
+    "id": "cet6_2025_06_career_preparation",
+    "legacyIds": [],
+    "exam": "CET6",
+    "year": 2025,
+    "month": "06",
+    "title": "求职要求提高时如何做好职业准备",
+    "theme": "学习成长类",
+    "taskKind": "propose",
+    "deep": false,
+    "evaluation": false,
+    "sources": [
+      {
+        "url": "https://cet4-6.xdf.cn/202506/14530317.html",
+        "title": "2025年6月六级写作三题整理：职业准备",
+        "publisher": "新东方在线／新东方网",
+        "kind": "institution-transcription",
+        "note": "当次机构整理与新东方在线考试回顾交叉核实职业准备主题。参考作文第一句有语法和措辞问题，未作为原卷首句；本题采用忠实题意摘要，未独立核对原卷逐字首句，不声称完整原卷复现。"
+      },
+      {
+        "url": "https://news.koolearn.com/20250614/1273925.html",
+        "title": "2025年6月英语六级考试整理：大学生职业准备",
+        "publisher": "新东方在线",
+        "kind": "institution-transcription",
+        "note": "确认考试当次职业准备主题；页面明确网友版，不能把其参考作文开头当原题。"
+      }
+    ],
+    "prompt": "Explain how college students can prepare for their future careers as job application requirements become more demanding.",
+    "promptMode": "topic",
+    "directions": "In 30 minutes, write an essay of 150–200 words on the specified topic. Develop a clear position with relevant explanations and examples.",
+    "directionsNote": "本单元依据已核对的2025年6月真题主题作教学重构，英文要求为忠实整理，非原始 Directions 逐字原文。可靠来源未完整呈现原卷给定首句，故不设置照抄要求；150–200词按本训练全文计数。",
+    "wordRange": {
+      "min": 150,
+      "max": 200,
+      "excludeOpening": false
+    },
+    "task": {
+      "situation": "大学生需要面对更高且变化中的岗位要求",
+      "objective": "提出与具体岗位需求有关的职业准备路径",
+      "requirements": [
+        "把职业准备连接到具体岗位或任务要求",
+        "提出学习、实践和反馈步骤，不保证就业结果"
+      ],
+      "optionalIdeas": [
+        "检查岗位要求与能力差距",
+        "项目中练习沟通和专业能力",
+        "用反馈改进并展示证据"
+      ],
+      "avoid": [
+        "把积累证书等同准备完成",
+        "保证某路径一定找到工作",
+        "要求人人选择热门行业"
+      ],
+      "acceptedKeywords": [
+        "career preparation",
+        "prepare for future careers",
+        "职业准备",
+        "job applications",
+        "求职",
+        "college students",
+        "大学生"
+      ]
+    },
+    "routes": [
+      {
+        "label": "思路一：从机制解释到具体情境",
+        "outline": [
+          "把职业准备连接到具体岗位需求",
+          "专业知识与项目表现",
+          "沟通反馈与能力证据",
+          "兼顾兴趣和可获得机会"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "claim": "准备应把能力要求转化为可检验的行动。",
+        "mechanism": "实际项目能暴露知识应用和沟通方面的差距，反馈帮助改进。",
+        "example": "想做数据分析的学生完成小型数据项目，并向同学解释结论。",
+        "link": "可展示成果比只有课程清单更能说明当前能力。",
+        "claimZh": "准备应把能力要求转化为可检验的行动。",
+        "mechanismZh": "实际项目能暴露知识应用和沟通方面的差距，反馈帮助改进。",
+        "exampleZh": "想做数据分析的学生完成小型数据项目，并向同学解释结论。",
+        "linkZh": "可展示成果比只有课程清单更能说明当前能力。"
+      }
+    ],
+    "modelEssay": "As job application requirements become more demanding, college students need to prepare for their future careers in a focused and realistic way. Preparation should connect their learning with the work they hope to undertake.\n\nStudents can begin by examining several relevant job descriptions and identifying the knowledge and tasks they have in common. Someone interested in data analysis, for example, could complete a small project using a public data set, check the calculations and explain the findings to classmates. This combines subject knowledge with communication and reveals gaps that another certificate alone might not expose. Feedback on the project can then guide the next stage of practice.\n\nCareer preparation also benefits from conversations with graduates or employers about everyday responsibilities and entry routes. Such information should be compared with the student's interests and available opportunities, rather than followed as a fashionable trend. A portfolio showing work, revisions and reasons for decisions can make progress visible. Although no plan guarantees employment, relevant practice and reflection give students a stronger basis for approaching unfamiliar professional tasks.",
+    "modelNotes": [
+      "开头保留题目指定句（如有），随后给出具体立场或限定，避免重复空泛背景。",
+      "主体用机制和例子解释主张；例子为原创设想场景，不冒充真实调查或研究结论。",
+      "结尾回应核心任务，提出与主体有关的行动或合理限定；段数是本示例的组织选择。"
+    ],
+    "expressions": [
+      {
+        "id": "cet6_2025_06_career_preparation_e1",
+        "text": "identify skill gaps",
+        "meaning": "识别技能差距",
+        "pattern": "identify + 名词短语",
+        "example": "A practical project can help students identify skill gaps.",
+        "boundary": "差距应参照具体任务要求，不按热门技能清单机械判断。",
+        "patternZh": "identify 后接名词短语，表示发现或识别某项不足等。",
+        "exampleZh": "实际项目可以帮助学生发现技能不足。"
+      },
+      {
+        "id": "cet6_2025_06_career_preparation_e2",
+        "text": "gain relevant experience",
+        "meaning": "获得相关经验",
+        "pattern": "gain + 名词短语",
+        "example": "Campus projects can help students gain relevant experience.",
+        "boundary": "experience 作经验不可数；不只有有偿实习才算经验。",
+        "patternZh": "gain 后接名词短语，表示获得经验等。",
+        "exampleZh": "校园项目可以帮助学生获得相关经验。"
+      },
+      {
+        "id": "cet6_2025_06_career_preparation_e3",
+        "text": "demonstrate competence through",
+        "meaning": "通过……展示能力",
+        "pattern": "demonstrate competence through + 名词",
+        "example": "Students can demonstrate competence through a carefully checked project.",
+        "boundary": "competence 不等于胜任所有岗位；展示需与目标工作有关。",
+        "patternZh": "demonstrate competence through 后接名词，表示通过某项成果等展示能力。",
+        "exampleZh": "学生可以通过经过仔细检查的项目展示能力。"
+      }
+    ],
+    "exercise": {
+      "weakParagraph": "Students should collect certificates and choose popular jobs. They will certainly find a good career.",
+      "improvedParagraph": "Students can compare relevant job descriptions, then complete a small project that practises a common task. Checking results and explaining decisions reveals gaps in knowledge and communication. Feedback can guide further preparation without promising a guaranteed job.",
+      "explanation": "弱段用热门行业和证书保证就业。改进段从岗位共同任务出发，用项目、解释和反馈揭示能力缺口，把准备的作用限定为能力提升而非录用保证。",
+      "transferPrompt": "为一个目标岗位设计学习、实践和反馈步骤，并说明如何展示实际能力。",
+      "transferHint": "从岗位任务出发，用可完成的小项目产生能力证据；区分准备充分与保证录用。",
+      "boundaryPrompt": "完成一个项目能否证明学生胜任整个职业的所有任务？",
+      "boundaryAnswer": "不能。项目只提供特定能力证据；需要考虑任务范围、反馈、限制和后续学习。",
+      "weakParagraphZh": "学生应该收集证书，并选择热门工作。他们肯定会获得良好的职业发展。",
+      "improvedParagraphZh": "学生可以比较相关岗位描述，然后完成小型项目，练习其中一项共同任务。检查结果并解释决定，能够揭示知识和沟通方面的不足。反馈可以指导进一步准备，而不承诺一定找到工作。"
+    },
+    "commonErrors": [
+      {
+        "wrong": "Students should gain many experiences for work.",
+        "right": "Students should gain relevant experience for work.",
+        "why": "experience 表经验时不可数；experiences 可指不同经历，此处需表达相关实践经验。",
+        "wrongZh": "学生应该为工作获得许多经历。",
+        "rightZh": "学生应该为工作获得相关经验。"
+      },
+      {
+        "wrong": "Preparation will guarantee every student a job.",
+        "right": "Relevant preparation can improve students' ability to handle professional tasks.",
+        "why": "不能从准备推出保证就业；改句说明可支持的能力结果。",
+        "wrongZh": "准备会保证每个学生都有工作。",
+        "rightZh": "相关准备可以提高学生处理职业任务的能力。"
+      }
+    ],
+    "reviewStatus": "independent-model-review",
+    "directionsZh": "在30分钟内，围绕指定主题写一篇150–200词的作文。形成清楚的立场，并用相关解释与例子展开。",
+    "promptZh": "随着求职申请要求变得更高，解释大学生可以如何为未来职业作准备。",
+    "modelEssayZh": [
+      "随着求职申请要求变得更高，大学生需要以聚焦、现实的方式为未来职业作准备。准备应把学习与他们希望从事的工作联系起来。",
+      "学生可以先检查几份相关岗位描述，找出它们共同要求的知识和任务。例如，对数据分析感兴趣的人可以用公开数据集完成小型项目，检查计算，并向同学解释发现。这将学科知识与沟通结合起来，也会揭示单靠另一张证书可能无法暴露的不足。项目反馈随后可以指导下一阶段练习。",
+      "与毕业生或雇主交流日常职责和入行途径，也有助于职业准备。这类信息应与学生的兴趣和可获得的机会进行比较，而不是当成热门趋势盲目追随。展示成果、修改过程和决策理由的作品集，可以让进展清楚可见。虽然没有计划能够保证就业，但相关练习与反思能够为学生应对陌生职业任务提供更稳固的基础。"
+    ]
+  }
+]
