@@ -20,3 +20,48 @@
 @media print{.site-header,.site-footer,.mobile-nav,.guide-toc,.guide-finish,.guide-page .button{display:none!important}.guide-page{max-width:none;gap:20px}.guide-section{break-inside:avoid}.guide-route-grid,.guide-module-grid{grid-template-columns:1fr 1fr}.workspace{max-width:none;padding:0!important}.panel{box-shadow:none}}
 @media(max-width:760px){.knowledge-entry{grid-template-columns:1fr;padding:24px;gap:20px}.knowledge-entry>.stack{justify-items:start}.knowledge-paths{grid-template-columns:1fr}.knowledge-paths button{grid-template-columns:22px 1fr;column-gap:13px;padding:18px}.knowledge-paths button span{grid-column:2}.knowledge-detail-grid{grid-template-columns:1fr}.knowledge-detail-grid>aside{grid-template-columns:1fr 1fr}.knowledge-contrast{grid-template-columns:1fr}.knowledge-filter>.row{gap:14px}.practice-card{padding:25px}.knowledge-practice .page-intro{margin-bottom:24px}}
 @media(max-width:520px){.knowledge-grid{grid-template-columns:1fr}.knowledge-entry{padding:22px}.knowledge-entry h2{font-size:21px}.knowledge-entry p:not(.eyebrow){font-size:12px}.knowledge-entry>.stack{justify-items:stretch}.knowledge-entry .button{font-size:12px}.knowledge-filter{padding:19px}.knowledge-search input{font-size:13px}.knowledge-filter>.row{display:grid;grid-template-columns:1fr 1fr;gap:11px}.knowledge-filter label:not(.knowledge-search){display:grid;gap:4px}.knowledge-filter select{max-width:100%;width:100%;min-width:0;font-size:12px}.knowledge-detail-grid>aside{grid-template-columns:1fr}.knowledge-form{font-size:23px}.knowledge-example,.knowledge-contrast .english{font-size:18px}.practice-card{padding:23px 19px}.practice-card h2{font-size:20px}.practice-card>.row>.fine{font-size:10px}.practice-card .feedback{padding:17px}.practice-card .feedback .english{font-size:18px}.practice-card textarea,.knowledge-detail textarea{font-size:17px}.practice-ratings .button{font-size:11px;padding:10px 8px}.practice-card>.row.wrap>.button{width:100%;font-size:12px}.practice-complete,.practice-welcome{padding:25px 22px}.mobile-nav a{font-size:9px;padding:10px 3px}.knowledge-note{padding:17px;font-size:11px}}
+
+/* Keep the question and the current answer together; disclose supporting material on demand. */
+.site-header{height:74px}
+.workspace{padding-top:24px}
+.page-intro{margin:0 0 22px}.page-intro h1{font-size:28px;margin-bottom:8px}
+.lesson,.studio{max-width:900px;margin:auto}
+.lesson .breadcrumb,.studio .breadcrumb{margin-bottom:12px}
+.lesson-header{margin-bottom:18px;gap:16px}.lesson-header h1{font-size:26px;margin:8px 0 0;letter-spacing:-.5px}
+.lesson-grid{display:block}.lesson-main{min-width:0}
+.task-prompt{background:white;border:1px solid #cddccf;border-left:3px solid var(--green);border-radius:10px;padding:20px 24px}
+.task-prompt h2{font-size:17px}.task-rules{font-size:12px;color:var(--muted)}
+.task-directions{font-size:17px;line-height:1.85;margin-top:12px}
+.task-prompt .given-opening{margin-top:14px;padding:12px 16px}.task-prompt .given-opening strong{font-family:Arial,"Microsoft YaHei",sans-serif;font-size:12px;letter-spacing:0}
+.task-prompt .given-opening p.english,.task-topic-text>.english{font-size:19px;line-height:1.8}
+.task-topic-text{margin-top:14px}
+.task-utilities{display:flex;align-items:baseline;gap:20px;flex-wrap:wrap;margin:12px 0 18px}
+.task-utilities .source-box{margin:0;padding:0;border:0;background:transparent;flex:1;min-width:150px}.task-utilities .source-box[open]{flex-basis:100%}
+.task-utilities .source-box summary{font-size:12px}.task-utilities .source-box[open]>p{margin:12px 0}
+.step-tabs{margin:0 0 12px}.step-tabs button{font-size:13px}
+.lesson-body{padding:24px}.lesson-body>h2{font-size:22px;margin-bottom:18px}
+.exercise{margin-top:16px}.exercise label{font-size:14px}.exercise textarea{font-size:17px;line-height:1.85;min-height:140px}
+.optional-section{border-top:1px solid var(--line);padding-top:16px;margin-top:20px}
+.optional-section>summary{cursor:pointer;color:var(--green);font-size:14px;font-weight:600}
+.optional-section[open]>summary{margin-bottom:16px}
+.model-section{padding:18px 24px}.model-section h3{font-size:16px}
+.studio .writing-grid{grid-template-columns:minmax(0,1fr);gap:20px}
+.studio .editor-panel{padding:0;overflow:hidden}.studio .editor-panel>.task-prompt{border:0;border-bottom:1px solid var(--line);border-radius:0}
+.studio .essay-editor{min-height:340px;padding:24px;font-size:19px;line-height:1.85}
+.studio .editor-actions>label{font-size:12px}
+.studio .writing-sidebar{display:grid;grid-template-columns:1fr;gap:12px}
+.studio .writing-sidebar .panel{margin:0;padding:18px 24px}.studio .writing-sidebar .source-box{margin:0}
+.studio .panel.optional-section{padding:18px 24px}
+.studio .panel.optional-section>summary.row{display:list-item}
+.dashboard-intro{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:22px}
+.dashboard-intro h1{font-size:28px}.dashboard-intro p{margin-top:6px;color:var(--muted)}
+.dashboard-task{max-width:900px}.dashboard-task h2{font-size:25px;margin:12px 0}.dashboard-task>p{margin-bottom:18px}
+.dashboard-task .task-topic{margin:16px 0}.dashboard-recommendation{margin:14px 0;font-size:13px;color:var(--muted)}.dashboard-recommendation summary{cursor:pointer;color:var(--green)}
+.dashboard-details{margin-top:28px}.dashboard-details>summary{cursor:pointer;font-weight:600;color:var(--green);font-size:15px}.dashboard-details[open]>summary{margin-bottom:20px}
+.dashboard-details .learning-pulse{padding:22px}.dashboard-details .focus-section{margin-top:18px}
+.practice-question{font-size:24px;line-height:1.6}
+@media(max-width:760px){.site-header{height:68px}.workspace{padding-top:20px}.lesson-header h1{font-size:23px}.task-prompt{padding:18px}.task-directions{font-size:16px;line-height:1.8}.task-prompt .given-opening p.english,.task-topic-text>.english{font-size:18px}.task-utilities{gap:14px;margin:12px 0}.lesson-body{padding:20px}.lesson-body>h2{font-size:20px}.step-tabs button{font-size:11px}.dashboard-intro{align-items:flex-start}.dashboard-intro h1{font-size:25px}.dashboard-task h2{font-size:23px}.studio .essay-editor{padding:20px;font-size:18px}.studio .writing-sidebar .panel,.studio .panel.optional-section{padding:18px 20px}}
+
+.task-guidance{font-size:13px;line-height:1.8;color:var(--muted);margin-top:12px}.task-directions-detail{margin-top:10px}.task-directions-detail>summary{font-size:12px;color:var(--green);cursor:pointer}.task-prompt .given-opening{margin-top:12px;background:#f8fbf4}.task-prompt .given-opening p.english{font-size:18px}.task-utilities{margin-bottom:12px}.lesson .lesson-header{margin-bottom:14px}.lesson .lesson-header h1{margin-top:4px}.lesson .lesson-body>h2{font-size:21px}
+
+.lesson{max-width:1000px}.lesson .task-prompt .given-opening{padding:0;border:0;background:transparent}.lesson .task-prompt{padding:18px 24px}.lesson-body>.exercise{margin-top:12px;padding-top:0;border-top:0}.lesson-body>h2{margin-bottom:12px}.lesson .step-tabs{margin-top:16px}.secondary-details>summary{cursor:pointer;color:var(--green);font-weight:600}.secondary-details[open]>summary{margin-bottom:16px}.knowledge-paths{gap:10px;margin-top:0}.knowledge-paths button{padding:14px;gap:6px}.knowledge-filter{padding:20px}.practice-question{font-size:24px;line-height:1.65;letter-spacing:0}@media(max-width:760px){.practice-question{font-size:20px}.lesson .task-prompt{padding:16px 18px}}

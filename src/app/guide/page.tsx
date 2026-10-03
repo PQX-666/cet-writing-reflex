@@ -14,7 +14,7 @@ const sections = [
 export default function Guide() {
   const example = getKnowledgeUnit("kf-mechanism")!;
   return <div className="guide-page stack">
-    <PageIntro eyebrow="使用手册 · 按自己的基础开始" title="从看懂，到自己写出来" description="先选一条起步路线，理解一个例子，留下自己的句子，再把它用进作文。每次解决一个主要问题。"/>
+    <PageIntro title="从看懂，到自己写出来" description="先选一条起步路线，理解一个例子，留下自己的句子，再把它用进作文。每次解决一个主要问题。"/>
     <nav className="guide-toc" aria-label="使用手册目录">{sections.map(([id, title]) => <a key={id} href={`#${id}`}>{title}</a>)}</nav>
 
     <section className="guide-section" id="start"><div className="section-heading"><h2>第一次来，从哪里开始？</h2><Tag tone="green">先选四级或六级</Tag></div>
@@ -30,7 +30,7 @@ export default function Guide() {
       <ol className="guide-steps">
         <li><strong>选内容。</strong>「先练核心」适合起步；「为一道题找材料」按主题找具体内容；「我的收藏」保留写作中确实需要的单元。也可搜索用途或词语。</li>
         <li><strong>看懂用法。</strong>详情依次给出形式、例句、使用边界和对比修改。说出“它表达什么、什么时候适用”，比只认得单词更有帮助。</li>
-        <li><strong>自己应用。</strong>在「现在，自己写一句」按新情境留下英文，点击「保存并对照」。核对意思、搭配和条件，允许与参考不同的合理表达。</li>
+        <li><strong>自己应用。</strong>在「自己写一句」按新情境留下英文，点击「保存并对照」。核对意思、搭配和条件，允许与参考不同的合理表达。</li>
         <li><strong>短练习中再回忆。</strong>点击「练这一条」，或从知识库安排最多两条。先写回忆，再对照；第一次接触或想不起来，可以先看示例。</li>
         <li><strong>换情境，再安排复习。</strong>用自己的句子回应新任务；对照后根据真实困难选择自评。已到期内容优先，未到期内容可在详情中主动复练。</li>
       </ol>
@@ -45,7 +45,7 @@ export default function Guide() {
         <div><h3>2. 把理由讲清</h3><p>写一个观点，补充变化如何发生，再用具体情境支持。提纲说明每段解决什么问题，避免只罗列连接词。</p></div>
         <div><h3>3. 准确地表达</h3><p>修改有问题的短段落，比较原句与修改句；带走少量合适的表达，并看清搭配和使用边界。</p></div>
         <div><h3>4. 换题应用</h3><p>回应新的情境，重新判断读者、条件和行动细节。相关表达可以迁移，具体论证要随任务调整。</p></div>
-      </div><p>「保存并对照」保留尝试并开放反馈；遇到困难可以「先看提示」。看完后实际修改自己的答案，再保存，才能留下可比较的变化。整篇参考作文用于理解一种写法。</p>
+      </div><p>「保存并对照」保留尝试并开放反馈；遇到困难可以「先看提示」。看完后实际修改自己的答案，再保存，才能留下可比较的变化。整篇参考作文用于理解一种写法。补充练习、表达例句和常见错误按需展开；题目下方的完整英文指令也可展开查阅。</p>
       <p className="fine">核心任务概括可用中文或英文；正式写作与表达练习要留下自己的英文。关键词检查只确认已知表达的匹配，未识别不等于错误。</p>
       <Link className="text-link" href="/classroom">进入真题课堂 <ArrowRight size={14}/></Link>
     </section>
