@@ -123,3 +123,10 @@
 发布前内容审计、52项测试、TypeScript、ESLint通过；npm run build:pages生成210个静态页面/路由输出并写入.nojekyll。静态本机浏览器已验证指定单元、准备标记、刷新保留作答、课堂训练重点及公开版反馈提示。11条代表页面/查询路径与2个CSS/JS资源返回200，未知路径404；静态预览脚本另外验证HEAD、目录跳转保留查询、RSC类型及目录穿越拦截。独立模型检查了查询与别名兼容性，发布文件与历史扫描未发现密钥或个人学习备份，开发截图和本地配置排除。
 
 发布目标：[公开网站](https://pqx-666.github.io/cet-writing-reflex/)、[源码仓库](https://github.com/PQX-666/cet-writing-reflex)。工作流对main执行检查、静态构建和Pages发布；Pull request只检查与构建。最终公网结果需以Actions部署成功及实际网址访问为准。旧localhost记录与公开网站属不同来源，应导出后在公开站导入；本次没有上传浏览器中的学习记录。
+
+
+### 公网发布验收
+
+公开仓库 PQX-666/cet-writing-reflex 已创建，main首个发布提交为6f7cee2。GitHub Actions运行37124421503的build与deploy均成功，包含52项测试、类型检查、lint及静态导出。公网首页、手册、知识详情、主题查询、短练习、课堂重点查询、四级写作及设置8条页面均返回200；浏览器实际核验首页→手册、知识中文例句（13px）及课堂reasoning步骤导航成功。公网截图见 [首页](screenshots/github-pages-home.jpg) 和 [双语例句](screenshots/github-pages-bilingual.jpg)。
+
+普通Node版本另外重新构建成功并恢复本地3000服务；未配置AI时GET返回configured:false，POST返回503的明确提示，保持Node可选接口。公开Pages版不运行该POST功能；学习记录仍保存在访问者本机，源码与发布包不含浏览器学习记录。

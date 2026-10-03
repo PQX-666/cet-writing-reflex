@@ -25,7 +25,7 @@ npm start
 
 ## GitHub Pages 部署
 
-仓库的 Settings → Pages → Build and deployment 中选择 **GitHub Actions**。推送 `main` 后，`.github/workflows/pages.yml` 使用 Node.js 24 安装锁定依赖，运行内容检查、测试、类型检查和 lint，再构建和部署。Pull request 运行同样的检查与静态构建；只有 `main` 分支可以发布。也可从 Actions 页面手动运行工作流。
+仓库的 Settings → Pages → Build and deployment 中选择 **GitHub Actions**。推送 `main` 后，`.github/workflows/pages.yml` 使用 Node.js 24 安装锁定依赖，运行内容检查、测试、类型检查和 lint，再构建和部署。Pull request 运行同样的检查与静态构建；只有 `main` 分支可以发布。也可从 Actions 页面手动运行工作流。当前本地发布分支推送到远程main可用 `git push origin HEAD:main`。
 
 默认项目路径为 `/cet-writing-reflex`。工作流按仓库名生成路径，项目网址为 `https://<GitHub 用户名>.github.io/<仓库名>/`。本地复现：
 
